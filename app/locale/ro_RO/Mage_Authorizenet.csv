@@ -38,3 +38,4 @@ Title,Titlu
 Transaction Key,Cod Tranzactie
 What is this?,Ce inseamna?
 You will be required to enter your payment details before you place an order.,Vi se va solicita sa introduceti detaliile de plata inainte de a face o comanda.
+"Amount of %s approved by payment gateway. Transaction ID: ""%s"".","Suma de %s a fost aprobata de catre procesatorul de plati. ID tranzactie: ""%s""."

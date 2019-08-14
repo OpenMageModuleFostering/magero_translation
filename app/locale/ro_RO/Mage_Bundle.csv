@@ -54,3 +54,18 @@ To:,Catre:
 Together,Impreuna
 Use Default Value,Foloseste Valoarea Implicita
 User Defined Qty,Cantitate Definita Utilizator
+"%1$s incl tax.","%1$s incluzand taxe."
+"Buy %1$s","Cumparati %1$s"
+"Buy %1$s for","Cumparati %1$s pentru"
+"Buy %1$s for %2$s","Cumparati %1$s pentru %2$s"
+"Buy %1$s for %2$s (%3$s incl. tax) each","Cumparati %1$s pentru %2$s (%3$s incluzand taxe) fiecare"
+"Buy %1$s for %2$s each","Cumparati %1$s pentru %2$s fiecare"
+"Click for price","Click pentru pret"
+"Excl. Tax:","Fara taxe:"
+"Incl. Tax:","Cu taxe:"
+"Please enter a number greater 0 in this field.","Va rugam introduceti un numar mai mare ca 0 in acest camp."
+SKU,SKU
+"Total incl. Tax: %1$s","Total incluzand taxe: %1$s"
+and,si
+each,fiecare
+save,salveaza

@@ -56,3 +56,7 @@ DB,DB
 "File compressed with Zlib, but this extension is not installed on server","Fisierul a fost comprimat cu Zlib, dar aceasta extensie nu este instalata pe server."
 All types,Toate tipurile
 Wrong order of creation for new backup,Comanda incorecta pentru crearea unui nou backup.
+Database,Baza de date
+"Database and Media","Baza de date si media"
+System,Sistem
+"System (excluding Media)","Sistem (excluzand Media)"

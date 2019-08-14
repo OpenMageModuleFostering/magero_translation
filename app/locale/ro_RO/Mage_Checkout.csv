@@ -378,3 +378,34 @@
 "Some of the products you requested are unavailable","Unele produse solicitate nu sunt disponibile"
 "Some of the products you requested are not available in the desired quantity","Unele produse solicitate nu sunt disponibile in cantitatile dorite"
 "You have no items in your cart.","Nu exista articole in cos"
+"(Excl. Tax)","(Excl. taxe)"
+"(Incl. Tax)","(Incl. taxe)"
+Apply,Aplica
+"Are you sure you want to leave this page? You will need to go through the checkout steps again.","Sunteti sigur ca doriti sa parasiti aceasta pagina? Va trebui sa treceti din nou prin pasii de checkout."
+"Can not remove the item.","Nu se poate scoate itemul."
+"Can not save item.","Nu se poate salva itemul."
+Cancel,Renunta
+Cart,Cos
+"Checkout Forms Extra","Formulare checkout extra"
+"Empty Cart","Goleste cos"
+"Empty Shopping Cart Content Before","Goleste continutul cosului inainte"
+Estimate,Estimare
+"Item was removed successfully.","Itemul a fost sters cu succes."
+"Item was updated successfully.","Itemul a fost modificat cu succes."
+"Mini-cart promotion block","Bloc promotional mini-cart"
+"Move to wishlist","Mutare la lista de dorinte"
+"My Cart Extra Actions","Actiuni extra cosul meu"
+"No Payment Methods","Nu exista metode de plata"
+"Payment Methods After","Metode de plata dupa"
+"Payment Methods Before","Metode de plata inainte"
+Quantity,Cantitate
+SKU,SKU
+"Separate by "","".","Separate prin "",""."
+"Shopping Cart Items After","Dupa produse din cos"
+"Shopping Cart Items Before","Inainte de produse din cos"
+Update,Modifica
+"View Shopping Cart","Vezi cos"
+"What&#39;s this?","Ce e asta?"
+Zip,Cod postal
+ok,ok
+or,sau

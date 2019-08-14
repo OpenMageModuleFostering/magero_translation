@@ -994,3 +994,22 @@ Shipping & Handling:,Transport:
 Tax :,TVA :
 Last ordered items,Ultimele articole comandate
 SOLD TO:,VANDUT CATRE:
+"""%s"" coupon code is not valid.","codul de cupon ""%s"" nu este valid."
+"* Required Fields","* Campuri obligatorii"
+"Create Order","Creare comanda"
+"Customer Middle Name","Nume mijlociu client"
+"Gift Wrapping for the Entire Order","Impachetare cadou pentru intreaga comanda"
+"Go to Home Page","Mergeti la pagina principala"
+Home,Acasa
+"Invalid value(s) for Qty to Ship","Valoare invalida pentru cantitate de livrat"
+Invoiced:,Facturat:
+"Middle Name","Nume mijlociu"
+"Order is suspended as its authorizing amount %s is suspected to be fraudulent.","Comanda este suspendata pentru ca suma autorizata de %s este suspectata a fi frauduloasa."
+"Selected option(s) or their combination is not currently available.","Optiunilie selectate sau combinatia specifica nu sunt disponibile."
+"Some item options or their combination are not currently available.","Unele optiuni sau combinatia dintre ele nu sunt disponibile."
+"Some of the products below do not have all the required options.","Unele din produse nu au toate optiunile obligatorii."
+"Some of the selected options are not currently available.","Unele din produse nu sunt disponibile."
+"There are no shipping labels related to selected orders.","Nu exista etichete de livrare pentru comenzile selectate."
+"There are no shipping labels related to selected shipments.","Nu exista etichete de livrare pentru livrarile selectate."
+"You don\'t have permissions to manage this order because of one or more products are not permitted for your website.","Nu aveti posibilitatea de a procesa aceasta comanda pentru ca unul sau mai multe produse nu sunt permise pe acest site."
+"ZIP Code","Cod postal"

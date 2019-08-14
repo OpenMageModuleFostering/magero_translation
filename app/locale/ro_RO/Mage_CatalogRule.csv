@@ -86,3 +86,7 @@
 "Delete Rule","Sterge regula"
 "Order Credit Memos","Note de credit comanda"
 "There are rules that has been changed but not applied. To see immediate effect in catalog, please click Apply Rules","Exista reguli care au fost schimbate, dar nu au fost aplicate. Va rugam, click Aplica Reguli pentru a vedea efectul imediat in catalog."
+"Expiration Date","Expiration Date"
+"Start Date","Start Date"
+"There are rules that have been changed but were not applied. Only users with exclusive access can apply rules.","Exista reguli ce au fost modificate dar nu au fost aplicate. Doar utilizatorii cu drepuri depline pot aplica reguli."
+Type,Tip

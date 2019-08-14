@@ -20,3 +20,11 @@ Missed if not run within,Pierdut daca nu este rulat in
 Schedule ahead for,Programat pentru
 Success history lifetime,Succes istoric perioada de activitate
 Unable to save Cron expression,Nu se poate salva expresia cron.
+"10 minutes","10 minute"
+"15 minutes","15 minute"
+"20 minutes","20 minute"
+"30 minutes","30 minute"
+"5 minutes","5 minute"
+Hourly,Din ora in ora
+"Minute Intervals","Intervale minute"
+"Unable to delete the cron task.","Nu se poate sterge intrarea cron."

@@ -111,3 +111,14 @@ Your review has been accepted for moderation,Recenzia ta a fost acceptata pentru
 Summary of review,Sumar recenzie
 Store Views,Vitrine
 Visible In,Vizibilitate In
+"2 star","2 stele"
+"3 star","3 stele"
+"4 star","4 stele"
+"5 star","5 stele"
+"<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s</a> <a href=""mailto:%3$s"">(%3$s)</a>","<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s</a> <a href=""mailto:%3$s"">(%3$s)</a>"
+Approved,Aprobat
+"Let us know your thoughts","Spuneti-ne gandurile dumneavoastra"
+"Not Approved","Neaprobat"
+Pending,In asteptare
+Reviews,Recenzii
+"What's your nickname?","Care este nickname-ul dumneavoastra?"

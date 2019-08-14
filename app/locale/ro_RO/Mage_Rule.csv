@@ -31,3 +31,16 @@ Description: %s,Descriere: %s
 Expire at: %s,Expira la: %s
 Start at: %s,Incepe la: %s
 Name: %s,Nume: %s
+FALSE,FALS
+TRUE,ADEVARAT
+"There is no information about associated entity type ""%s"".","Nu exista informatii despre tipul de entitate ""%s""."
+"does not contains","nu contine"
+for,pentru
+"for greater than","pentru mai mare decat"
+"for or greater than","pentru mai mare sau egal decat"
+found,gasit
+from,de la
+"not found","nu a fost gasit"
+"not from","nu de la"
+was,a fost
+"was not","nu a fost"

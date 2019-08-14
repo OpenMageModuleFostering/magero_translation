@@ -52,3 +52,6 @@ Unable to initialize import model,Modelul de Import nu a putut fi initializat.
 Base currency (Currency will be used for all online payment transactions),Valuta de baza (Valuta va fi folosita pentru toate tranzactiile de plata online)
 Default display currency,Valuta standard afisata
 Allowed currencies,Valutele permise
+"Strikeiron Email Update Warnings","Alerte avertizari Strikeiron prin email"
+"Your Currency","Moneda dumneavoastra"
+"Your Currency:","Moneda dumneavoastra:"

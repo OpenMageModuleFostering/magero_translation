@@ -175,3 +175,19 @@ Tax rule was successfully deleted,Regula de taxare a fost stearsa cu succes
 Tax Rates,Cursuri taxare
 Tax Rates Import / Export, Import/ Export Cursuri taxare
 XML,XML
+"Calculate off subtotal only","Calcul doar din subtotal"
+"Click here to go to <a href=""%s"">Tax configuration</a> and change your settings.","Click aici pentru a merge la <a href=""%s"">configurare taxe</a> si pentru a schimba setarile."
+"Enable Cross Border Trade","Porniti Cross Border Trade"
+"Ignore this notification","Ignorati aceasta notificare"
+"Maximum zip code length is 9.","Lungimea maxima a codului postal este 9."
+"Please fill all required fields with valid information.","Va rugam introduceti informatii corecte in toate campurile obligatorii."
+"Please see <a href=""%s"">source</a> for more details.","Va rugam vedeti <a href=""%s"">sursa</a> pentru mai multe detalii."
+"Range To should be equal or greater than Range From.","La trebuie sa fie mai mare sau egala decat De La."
+"Rate Percent should be a positive number.","Procent rata trebuie sa fie un numar pozitiv."
+"Subtotal only","Doar subtotal"
+"Warning tax configuration can result in rounding errors","Aceasta configurare de taxe poate rezulta in erori de rotunjire"
+"Warning tax configuration can result in unexpected FPT prices on applicable devices","Aceasta configuratie poate rezulta in preturi neasteptate daca folositi taxa FPT"
+"Warning tax discount configuration might result in different discounts than a customer might expect","Aceasta configuratie poate crea reduceri la care clientul nu se asteapta"
+"When catalog price includes tax, enable this setting will fix the price no matter what the customer's tax rate is.","Cand pretul din catalog include taxa, aceasta setare va face acest pret fix indiferent de codul de taxare al clientului."
+"Zip code should not contain characters other than digits.","Codul postal trebuie sa contina doar cifre."
+"for store(s)","pentru magazin(ele)"

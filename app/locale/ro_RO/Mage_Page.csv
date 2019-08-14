@@ -88,3 +88,19 @@ Welcome Text,Text de Bun Venit,
 Title Prefix,Prefix Titlu,
 Title Suffix,Sufix Titlu,
 Default Title,Titlu Standard,
+"%s-%s of %s","%s-%s of %s"
+"&copy; 2013 Magento Demo Store. All Rights Reserved.","&copy; 2013 Magento Demo Store. Toate drepturile rezervate."
+"&copy; 2015 Magento Demo Store. All Rights Reserved.","&copy; 2015 Magento Demo Store. Toate drepturile rezervate."
+"- Click on any of the time parts to increase it","- Clic pe oricare din partile datei pentru a modifica"
+"- Hold mouse button on any of the above buttons for faster selection.","- Tineti apasat butonul mouse-ului pe oricare din butoanele de mai sus pentru o selectie mai rapida."
+"- Use the %s buttons to select month","- Folositi butoanele %s pentru a selecta luna"
+"- Use the %s, %s buttons to select year","- Folositi butoanele %s, %s pentru a selecta anul"
+"- or Shift-click to decrease it","- sau shift click pentru a decrementa"
+"- or click and drag for faster selection.","- sau click si drag pentru o selectie mai rapida."
+"-- Please Select --","-- Va rugam selectati --"
+Account,Cont
+"Left Column First (shows above main column on smaller screens)","Coloana din stanga prima (apare deasupra coloanei principale pe ecrane mai mici)"
+Menu,Meniu
+"Results per page","Rezultate pe pagina"
+Search,Cautare
+"View All","Vezi tot"

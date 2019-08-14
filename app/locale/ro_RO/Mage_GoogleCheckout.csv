@@ -136,3 +136,4 @@ Hide Cart Contents During Checkout,Ascunde continutul osului de cumparaturi pe d
 Invoice auto-created: %s,Factura Auto-creata: %s
 New order status,Stare Comanda Noua
 Virtual item to reflect discount total,Articol virtual care sa reflecte totalul reducerii
+"GoogleCheckout is not configured","GoogleCheckout nu este configurat"

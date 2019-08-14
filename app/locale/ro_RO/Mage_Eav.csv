@@ -142,3 +142,5 @@ No options root node found,Nu s-au gasit optiuni in nodul radacina.
 Saved,Salvat
 Valid store_id is expected!,Se asteapta un store_id valid.
 "Value of attribute ""%s"" must be unique","Valoarea atributului ""%s"" trebuie sa fie unica"
+"An error occurred while saving a record, aborting. Error: ","A avut loc o eroare in timpul salvarii inregistrarii: "
+"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Sortarea implicita pentru listarea de produse nu exista in lista de sortari permise."

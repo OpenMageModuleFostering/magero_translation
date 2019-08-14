@@ -1486,14 +1486,10 @@ Version:,Versiune:
 View,Vezi
 View Statistics for,Vezi statistici pentru
 Store Views,Vitrine
-"Warning!_x000D_
-This action will remove this user from already assigned role_x000D_
-Are you sure?",Atentie! Aceasta actiune va destitui utilizatorul din rolul deja alocat. Sunteti sigur?
+"Warning! This action will remove this user from already assigned role Are you sure?",Atentie! Aceasta actiune va destitui utilizatorul din rolul deja alocat. Sunteti sigur?
 This action will remove this user from already assigned role,Aceasta actiune va destitui utilizatorul din rolul deja alocat.
 Are you sure?,Sunteti sigur?
-"Warning!_x000D_
-This action will remove those users from already assigned roles_x000D_
-Are you sure?",Atentie! Aceasta actiune va destitui utilizatorii din rolurile deja alocate. Sunteti sigur?
+"Warning!This action will remove those users from already assigned roles. Are you sure?",Atentie! Aceasta actiune va destitui utilizatorii din rolurile deja alocate. Sunteti sigur?
 This action will remove those users from already assigned roles,Aceasta actiune va destitui utilizatorii din rolurile deja alocate.
 Are you sure?,Sunteti sigur?
 "We're in our typing table, coding away more features for Magento. Thank you for your patience.","Suntem in timpul orarului nostru de tastare, creand noi caracteristici pentru Magento. Va multumim pentru rabdarea dumneavoastra."
@@ -1501,3 +1497,103 @@ Wrong column format,Format coloana incorect
 Wrong tab configuration,Configuratie tab incorecta
 [deleted],[sters]
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure Url / Base Secure Url. It is highly recommended to change this value in you Magento <a href=""%s"">configuration</a>.","{{base_url}} nu este recomandat a se utiliza intr-un mediu de productie pentru a declara Base Unsecure URL / Base Secure URL. Se recomanda schimbarea acestei valori din <a href=""%s"">configuratia</a> Magento."
+" The customer does not exist in the system anymore."," Clientul nu mai exista in sistem."
+" [deleted]"," [sters]"
+" and "," si "
+"- Click on any of the time parts to increase it","- Click pe oricare dintre date pentru a le incrementa"
+"- Hold mouse button on any of the above buttons for faster selection.","- Tineti apasat butonul mouse-ului pe oricare din butoanele de mai sus pentru o selectie mai rapida."
+"- Use the %s buttons to select month","- Folositi butoanele %s pentru a selecta luna"
+"- Use the %s, %s buttons to select month","- Folositi butoanele %s, %s pentru a selecta luna"
+"- Use the %s, %s buttons to select year","- Folositi butoanele %s, %s pentru a selecta anul"
+"- or Shift-click to decrease it","- sau shift-click pentru a decrementa"
+"- or click and drag for faster selection.","- sau click si trageti pentru selectie rapida."
+"-- Not Selected --","-- Neselectate --"
+"-- Please Select --","-- Va rugam selectati --"
+"-- Please Select Billing Agreement--","-- Va rugam selectati acordul de plata--"
+"-- Please Select a Category --","-- Va rugam selectati categoria --"
+"-- Please select --","-- Va rugam selectati --"
+"Add New Block","Adaugare bloc nou"
+"Add new variable","Adaugare variabila noua"
+"Add to category","Adaugare in categorie"
+"All Storefronts","Toate magazinele"
+Allowed,Permis
+"Already in category","Deja in categorie"
+"An error occurred while clearing the configurable swatches image cache.","A aparut o eroare in curatarea cache-ului de imagini pentru swatch-uri configurabile."
+"An error occurred while refreshing roles.","A aparut o eroare in reimprospatarea rolurilor."
+"Block Details","Detalii bloc"
+"Block Name","Nume bloc"
+"Block Name is incorrect.","Nume bloc incorect."
+"Block Name is required field.","Numele blocului este un camp obligatoriu."
+"Block has been deleted.","Blocul a fost sters."
+Blocks,Blocuri
+"Cancel detach","Anulare detasare"
+Code,Cod
+"Creation date","Data creare"
+"Current Admin Password","Parola curenta administrator"
+"Delete Block","Stergere bloc"
+"Delete Variable","Stergere variabila"
+"Detach from category","Detasare de categorie"
+"Download SKUs","Descarca SKU-uri"
+"Edit Block","Editare bloc"
+"Edit Block '%s'","Edidare Bloc '%s'"
+"Edit Variable","Editare Variabila"
+"Edit Variable '%s'","Editare variabila '%s'"
+"Enter a comma separated list of SKUs that will always be displayed at the top of your category","Introduceti o lista de SKU-uri separate prin virgula ce vor fi tot timpul afisate la inceputul categoriei"
+"Excl. Tax:","Fara taxe:"
+Failed,Esuat
+"Flush Swatch Images Cache","Curata cache imagini swatch-uri"
+"Go to Top","Mergi sus"
+"Google Content","Continut Google"
+"Hero Products","Produse promovate"
+Id,Id
+"If you do not specify an option value for a specific store view then the default (Admin) value will be used.","Daca nu specificati o valoare pentru o vitrina specifica atunci cea implicita (admin) va fi folosita"
+"Incl. Tax:","Incluzand taxa:"
+"Invalid data","Date invalide"
+"Invalid response","Raspuns invalid"
+"Is Allowed","Este permis"
+"Is Allowed is required field.","Este permis este un camp obligatoriu"
+"Is Default","E implicit"
+"Manage Options (values of your attribute)","Administreaza optiuni (valorile atributului)"
+"Manage Titles (Size, Color, etc.)","Adminitreaza titluri (Marime, Culoare etc.)"
+"Mass Product Assignment","Asignare produse in masa"
+"Maximum sender name length is 255. Please correct your settings.","Lungimea maxima este 255, va rugam corectati setarile."
+"Move to bottom","Muta la sfarsit"
+"Move to top","Muta la inceput"
+"New attribute set mapping","Mapare nou grup atribute"
+"New block","Bloc nou"
+"No Data","Nu sunt date"
+"No Products","Nu sunt produse"
+"Not allowed","Nu este premis"
+"Options is required","Optiunile sunt obligatorii"
+"Options: ","Optiuni: "
+"Please note, this category is set to automatically sort. Any drag-and-drop positions will be reset.","Aceasta categorie sorteaza produsele automat. Sortarile efectuate manual vor fi resetate."
+"Please wait","Va rugam asteptati"
+Position,Pozitie
+"Pregenerated configurable swatches image files.","Imagini pre-generate pentru swatch-uri configurabile."
+Processing,Processing
+"Product not available in this website","Produsul nu este disponibil pe acest site"
+"Refresh Roles","Reimprospateaza rolurile"
+"Root Category","Categorie root"
+"Save Block","Salvare bloc"
+"Save Variable","Salvare variabila"
+"Search entire store here...","Cauta in tot site-ul aici..."
+Searching...,Cautare...
+"Sort options","Optiuni sortate"
+"Starting at:","Incepand la:"
+"Storefronts : ","Vitrine : "
+"The block has been saved.","Blocul a fost salvat."
+"The configurable swatches image cache was cleaned.","Cache-ul de imagini pentru swatch-urile configurabile a fost curatat."
+"The roles have been refreshed.","Rolurile au fost reimprospatate."
+"The variable has been saved.","Variabila a fost salvata."
+"This block no longer exists.","Acest bloc nu mai exista."
+"This category is set to only include products matched by rules","Aceasta categorie include numai produsele ce se conformeaza regulilor definite."
+"This variable no longer exists.","Aceasta variabila nu mai exista."
+"Unable to find a block to delete.","Nu se poate gasi blocul ce trebuie sters."
+"Unable to find a variable to delete.","Nu se poate gasi variabila ce trebuie stearsa."
+"Unable to save Cron expression","Nu se poate salva expresia cron"
+Utilities,Utilitare
+"Variable Details","Detalii variabila"
+"Variable Name is incorrect.","Nume variabila incorect."
+"Variable Name is required field.","Numele variabilei este un camp obligatoriu."
+"Variable has been deleted.","Variabila a fost stearsa."
+Variables,Variabile

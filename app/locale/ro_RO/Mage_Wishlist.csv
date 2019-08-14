@@ -110,3 +110,12 @@ Can't save description %s,Descrierea %s nu poate fi salvata
 Cannot specify product,Produsul nu poate fi specificat
 Share options,Optiuni partajare favorite
 This product(s) is currently out of stock:,Produsul nu este momentan in stoc:
+"%s was added to your shopping cart.","%s a fost adaugat in cos."
+"Cannot add the following product(s) to shopping cart: %s.","Urmatorul produs nu poate fi adaugat in cos: %s."
+"Cannot add the selected product to shopping cart because the product was removed from the wishlist","Produsul nu se poate aduga in cos pentru ca a fost scos de la favorite"
+"Could not find such wishlist","Nu se pot gasi favoritele"
+Price,Pret
+"Product(s) %s have required options. Each product can only be added individually.","Produsele %s au optiuni obligatorii. Acestea nu pot fi adaugate decat individual."
+Qty,Cantiate
+SKU,SKU
+"User Description","Descriere utilizator"

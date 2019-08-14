@@ -61,3 +61,47 @@ There are no product types available for export,Nu exista tipuri de produse disp
 Total size of uploadable files must not exceed %s,Marimea totala a fisierelor incarcabile nu trebuie sa depaseasca %s
 Uploaded file has no extension,Fisierul incarcat nu are extensii
 Validation Results,Rezultate Validare
+"%s file does not exists or is not readable","Fisierul %s nu exista sau nu poate fi citit"
+"-- Please Select --","-- Va rugam selectati --"
+"Adapter object must be an instance of %s","Obiectul adaptor trebuie sa fie o instanta a %s"
+"Append Complex Data","Concateneaza date complexe"
+"Attribute Code","Cod atribut"
+"Attribute Label","Eticheta atribut"
+"Attribute does not has options, so filtering is impossible","Atributul nu are optiuni, deci filtrarea este imposibila"
+"Begin data validation","Incepe validarea datelor"
+"Begin export of %s","Incepe export pentru %s"
+"Begin import of ""%s"" with ""%s"" behavior","Incepe import pentru ""%s"" cu comportamentul ""%s"" "
+CSV,CSV
+"Can not find required columns: %s","Nu se pot gasi coloanele obligatorii: %s"
+"Cannot get autoincrement value","Nu se poate gasi valoarea autoincrement"
+"Checked rows: %d, checked entities: %d, invalid rows: %d, total errors: %d","Verificat randurile: %d, verificat entitatile: %d, randuri invalide: %d, erori totale: %d"
+Customers,Clienti
+"Delete Entities","Sterge entitati"
+"Done import data validation","S-a terminat validarea datelor de import"
+"Duplicate Unique Attribute for '%s'","Au fost gasite duplicate pentru atributul unic '%s'"
+"Entity Type","Tip entitate"
+"Entity adapter obejct must be an instance of Mage_ImportExport_Model_Export_Entity_Abstract","Obiectul adaptor entitate trebuie sa fie o instanta a Mage_ImportExport_Model_Export_Entity_Abstract"
+"Errors limit (%d) reached. Please fix errors and re-upload file","Limita de erori (%d) a fost atinsa. Va rugam reparati erorile si re-incarcati fisierul"
+"Export File Format","Format fisier export"
+"Export Settings","Setari export"
+"Export has been done.","Exportul a fost terminat."
+"Exported %s rows.","Am exportat %s randuri."
+"File does not contain data.","Fisierul nu contine date."
+"File was not uploaded","Fisierul nu a fost incarcat"
+Filter,Filtru
+From,De la
+"Import Behavior","Comportament Import"
+"Import Settings","Setari Import"
+"Import has been done successfuly.","Importul a fost finalizat cu succes."
+"Invalid entity model","Model entitate invalid"
+"Invalid value for '%s' column","Valoare invalida pentru coloana '%s'"
+Products,Produse
+"Replace Existing Complex Data","Inlocuieste date complexe existente"
+"Select File to Import","Alegeti un fisier pentru import"
+Skip,Omite
+"There is no data for export","Nu exista date pentru export"
+To,Catre
+"Unknown attribute filter type","Tip filtru atribut necunoscut"
+"Validation finished successfully","Validarea a fost efectuata cu succes"
+"in rows","in randurile"
+"in rows:","in randurile:"

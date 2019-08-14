@@ -566,3 +566,22 @@ Last Url,Ultimul Url
 View Order List,Vizualizeaza lista comenzilor
 Visible In,Vizibil in
 XML,XML
+" or "," sau "
+"'%value%' appears to be a DNS hostname but cannot extract TLD part","'%value%' pare a fi un hostname valid DNS dar nu se poate extrage TLD-ul"
+"'%value%' appears to be a DNS hostname but cannot match TLD against known list","'%value%' pare a fi un hostname valid DNS dar nu se poate gasi un TLD cunoscut"
+"'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%'","'%value%' pare a fi un hostname DNS doar nu se potriveste cu niciun TLD'%tld%'"
+"'%value%' appears to be a DNS hostname but contains a dash in an invalid position","'%value%' pare a fi un hostname DNS valid dar contine o cratima intr-o pozitie eronata"
+"'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded","'%value%' pare a fi un hostname DNS dar notatia punycode nu poate fi descifrata"
+"'%value%' appears to be a local network name but local network names are not allowed","'%value%' pare a fi un nume de retea local, aceste nume nu sunt permise"
+"'%value%' appears to be an IP address, but IP addresses are not allowed","'%value%' pare a fi o adresa IP, dar adresele IP nu sunt permise"
+"'%value%' does not appear to be a valid local network name","'%value%' nu pare a fi un nume valid de retea locala"
+"Current Admin Password","Parola curenta de administrator"
+"Edit address","Modificare adresa"
+"Middle Name","Nume mijlociu"
+"Purchased On","Cumparat pe"
+Register,Inregistrare
+"Remove address","Sterge adresa"
+"Require admin user to change user password","Cere utilizator administrator pentru a schimba parola clientului"
+"Send Auto-Generated Password","Trimite parola generata automat"
+"Unable to save the customer.","Nu se poate salva clientul."
+register,inregistrare

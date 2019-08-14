@@ -9,3 +9,4 @@ Flush External Page Cache,Goleste Cache Pagina Externa
 "If empty, default value will be used.","Daca necompletat, va fi folosita valoarea standard."
 The external full page cache has been cleaned.,Cache-ul extern de pagina intreaga a fost golit.
 Zend Full Page Cache,Cache pagina intreaga Zend
+"External Page Cache","Cache pagini extern"

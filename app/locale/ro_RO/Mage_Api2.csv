@@ -233,3 +233,6 @@ Web Services,Servicii Web
 Web services,Servicii Web
 Write,Scrie
 ZIP/Postal Code,Cod postal
+"%s role is a special one and can\'t be changed.","Rolul %s este special si nu poate fi schimbat."
+"%s role is a special one and can\'t be deleted.","Rolul %s este special si nu poate fi sters."
+"%s role is protected.","Rolul %s este protejat."

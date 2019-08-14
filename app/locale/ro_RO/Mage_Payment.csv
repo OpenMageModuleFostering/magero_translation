@@ -152,3 +152,6 @@ Payment from Specific countries,Plata din anumite tari
 Purchase order,Achizitionare comanda
 Make Check payable to,Emite cec catre beneficiarul
 Sort order,Ordine afisare
+"* Required Fields","* Campuri obligatorii"
+"--Please Select--","--Va rugam selectati--"
+"Payment ID: %s","ID plata: %s"

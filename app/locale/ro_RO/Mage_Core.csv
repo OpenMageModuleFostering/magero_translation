@@ -502,3 +502,21 @@ Your order # is: %s,Comanda Ta # este: %s
 Your order can not be completed at this time as there is no payment methods available for it.,Comanda ta nu poate fi finalizata deoarece nu ai ales o metoda de plata valabila.
 Your order can not be completed at this time as there is no shipping methods available for it. Please make neccessary changes in your shipping address.,Comanda ta nu poate fi finalizata deoarece nu ai ales o metoda de livrare
 Your order has been received,Comanda ta a fost receptionata
+"Add Secret Key To Url","Adauga cheie secreta la url-uri"
+"Admin routing compatibility mode for extensions","Compatibilitate admin routing pentru extensii"
+"Allow Magento Backend to run in frame","Permite interfetei de administrare sa ruleze in iframe"
+"Allow Magento Frontend to run in frame","Permite magazinului sa ruleze in iframe"
+"CSRF protection","Protectie CSRF"
+"Email - Footer","Email - Footer"
+"Email - Header","Email - Header"
+"Email Footer Template","Sablon Email Footer"
+"Email Header Template","Sablon Header"
+"Enabling ability to run Magento in a frame is not recommended for security reasons.","Nu este recomandata permiterea rularii Magento intr-un iframe din motive de securitate."
+"Enabling this setting increases risk of automated attacks against admin functionality.","Activarea acestei optiunui creste riscul legat de atacurile automate la functionalitatea panoului de administrare."
+"Invalid date","Data eronata"
+"Invalid transactional email code: %s","Cod eronat email tranzactional: %s"
+"Message recipients data must be set.","Datele destinatarilor mesajului trebuiesc configurate."
+"Request path length exceeds allowed %s symbols.","Cererea depaseste maximum de %s caractere."
+"Small Logo Image Src","Sursa imagine logo mic"
+"Store Hours of Operation","Orele de functionare ale magazinului"
+"The From Date value should be less than or equal to the To Date value.","Valoarea Datei De La trebuie sa fie mai mica sau egala decat valoarea Datei La."

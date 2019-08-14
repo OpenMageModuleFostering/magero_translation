@@ -72,3 +72,7 @@ Wrong widget instance specified.,Instanta specificata a Widget-ului este incorec
 items selected,articole selectate
 of %s pages,de %s pagini
 per page,per pagina
+"An error occurred during saving a widget: %s","O eroare a avut loc in timpul salvarii Widgetului: %s"
+"Error occurs during loading chooser.","Eroare are loc in timpul alegerii loaderului."
+"Go to Next page","La pagina urmatoare"
+"Go to Previous page","La pagina anterioara"

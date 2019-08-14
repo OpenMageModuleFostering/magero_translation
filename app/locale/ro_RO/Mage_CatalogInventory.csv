@@ -57,3 +57,10 @@
 "Minimum Qty for Items' Status to be In Stock","Cantitate minima ca starea articolelor sa fie ""In Stoc"
 "The requested quantity is not available.","Cantitatea solicitata nu este disponibila."
 "Can not specify product identifier for order item","Nu se poate specifica ID-ul produsului comandat"
+"Display products availability in stock in the frontend","Afisati disponibilitatea stocului in magazin"
+"Multi update product stock data","Multi-update stocuri"
+"Only %s left","Doar %s ramase"
+"Product Name","Nume produs"
+"Products will still be shown by direct product URLs.","Produsele o sa fie afisate in continuare la URL-urile directe."
+Qty,Cantitate
+"Some of the products are currently out of stock.","Unele produse nu mai sunt in stoc."

@@ -91,3 +91,5 @@ URL,URL
 User,Utilizator
 VERBOSITY,VERBOSITY
 Voided transaction,Tranzactie anulata
+Authorize.net,Authorize.net
+"Parent Authorize.Net transaction (ID %s) expired","ID tranzactie Authorize.Net parinte (ID %s) expirat"
