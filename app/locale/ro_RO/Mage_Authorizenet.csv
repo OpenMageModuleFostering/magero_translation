@@ -1,0 +1,40 @@
+--Please Select--,"--Va rugam, selectati--"
+API Login ID,ID Logare API
+Accepted Currency,Valuta acceptata
+Authorize.net Direct Post,Authorize.net Direct Post
+Card Verification Number,Numar de Verificare Card
+Card Verification Number Visual Reference,Referinta Vizuala a Numarului de Verificare Card
+Close,Inchide
+Credit Card Information,Informatii Card Credit
+Credit Card Number,Numar Card Credit
+Credit Card Type,Tip Card Credit
+Credit Card Types,Tipuri Card Credit
+Credit Card Verification,Verificare Card Credit
+Debug,Depanare
+Email Customer,E-mail  Client
+Enabled,Activat
+Expiration Date,Data Expirare
+Gateway URL,Gateway URL
+Maximum Order Total,Total Comanda Maxima
+Merchant MD5,MD5 Comerciant
+Merchant's Email,E-mail Comerciant
+Minimum Order Total,Total Comanda Minima
+New Order Status,Stare Comanda Noua
+Order saving error: %s,Eroare salvare comanda: %s
+Payment Action,Actiune de Plata
+Payment authorization error.,Eroare la autorizarea platii.
+Payment authorization error. Transacion id is empty.,Eroare la autorizarea platii. Id-ul tranzactiei lipseste.
+Payment error. Order was not found.,Eroare Plata. Comanda nu a fost gasita.
+Payment error. Paid amount doesn\'t match the order amount.,Eroare Plata. Suma platita nu este in concordanta cu cantitatea comandata.
+Payment from Applicable Countries,Plata din Tarile Acceptate
+Payment from Specific Countries,Plata din Tari Specifice
+"Please, choose payment method","Va rugam, alegeti metoda de plata."
+Response hash validation failed. Transaction declined.,Validarea functiei hash de raspuns a esuat. Tranzactie refuzata.
+Sort Order,Sortare Comanda
+Test Mode,Mod Test
+The order has been created.,Comanda a fost creata.
+There was an error processing your order. Please contact us or try again later.,"A aparut o eroare in timpul procesarii comenzii dumneavoastra. Va rugam, contactati-ne sau incercati mai tarziu."
+Title,Titlu
+Transaction Key,Cod Tranzactie
+What is this?,Ce inseamna?
+You will be required to enter your payment details before you place an order.,Vi se va solicita sa introduceti detaliile de plata inainte de a face o comanda.

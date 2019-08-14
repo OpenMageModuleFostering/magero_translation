@@ -1,0 +1,31 @@
+Actions,Actiuni
+An error occurred while marking notification as read.,A aparut o eroare in timpul marcarii notificarii ca fiind citita.
+An error occurred while marking the messages as read.,A aparut o eroare in timpul marcarii mesajului ca fiind citit.
+An error occurred while removing messages.,A aparut o eroare in timpul stergerii mesajelor.
+An error occurred while removing the message.,A aparut o eroare in timpul stergerii mesajului.
+Are you sure?,Sunteti sigur?
+Date Added,Data adaugare
+Last Update,Ultima actualizare
+Mark as Read,Marcheaza ca citit
+Mark as read,Marcheaza ca citit
+Message,Mesaj
+Messages Inbox,Inbox mesaje
+Notifications,Notificari
+Please select messages.,"Va rugam, selectati mesaje."
+Read Details,Citire detalii
+Remove,Sterge
+Severity,Severitate
+Show List,Arata lista
+Show Toolbar,Arata Bara de Ustensile
+The message has been marked as read.,Mesajul a fost marcat ca citit.
+The message has been removed.,Mesajul a fost sters.
+Total of %d record(s) have been marked as read.,Un total de %d inregistrari au fost marcate ca citite.
+Total of %d record(s) have been removed.,Un total de %d inregistrari au fost sterse.
+"Unable to proceed. Please, try again.","Imposibil de continuat. Va rugam, incercati din nou."
+Update Frequency,Actualizati frecventa
+Use HTTPS to Get Feed,Folositi HTTPS pentru a obtine feed
+Wrong message type,Tip mesaj gresit
+critical,critic
+major,major
+minor,minor
+notice,notificare

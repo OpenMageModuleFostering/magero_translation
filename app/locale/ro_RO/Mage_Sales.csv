@@ -1,0 +1,996 @@
+"""%s"" coupon code is not valid. ",Codul cuponului nu este valid.
+%s,%s
+%s / %s rate:,Curs %s / %s:
+%s for %s,%s pentru %s
+%s order(s) cannot be canceled,%s comenzi nu pot fi anulate. 
+%s order(s) have been canceled.,%s comenzi au fost anulate.
+%s order(s) have been put on hold.,%s comenzi au fost puse in asteptare.
+%s order(s) have been released from holding status.,%s comenzi au iesit din starea de asteptare.
+%s order(s) were not put on hold.,%s comenzi nu au fost puse in asteptare.
+%s order(s) were not released from holding status.,%s comenzi nu au iesit din starea de asteptare.
+* - Enter custom price excluding tax,* - Introduceti pret personalizat fara TVA
+* - Enter custom price including tax,* - Introduceti pret personalizat cu TVA inclus
+-- Please Select --,"*-- Va rugam, selectati  --"
+-- Please Select Billing Agreement--,"*-- Va rugam, selectati Acordul de Facturare--"
+About This Order:,Despre aceasta comanda:
+About This Profile:,Despre acest profil:
+About Your Invoice,Despre factura dumneavoastra
+About Your Order,Despre comanda dumneavoastra
+About Your Refund,Despre rambursarea dumneavoastra
+About Your Shipment,Despre livrarea dumneavoastra
+Accept Payment,Acceptati Plata
+Accept or Deny Payment,Acceptati sau Refuzati Plata
+Account Information,Informatii cont
+Action,Actiune
+Actions,Actiuni
+Activate,Activate
+Active,Active
+Add,Adauga
+Add New Address,Adauga adresa noua
+Add Order Comments,Adauga comentarii la comanda
+Add Package,Adauga pachet
+Add Products,Adauga produse
+Add Selected Product(s) to Option,Adauga produsele selectate la optiune
+Add Selected Product(s) to Order,Adauga produsele selectate la comanda
+Add Selected Product(s) to Package,Adauga produsele selectate la pachet
+Add To Order,Adauga la comanda
+Add Tracking Number,Adauga numar de urmarire
+Add comment to order,Adauga comentarii la comanda
+Add new comment to credit memo,Adauga comentarii la nota de credit
+Add new comment to shipment,Adauga comentarii la livrare
+Add new tracking number,Adauga numar de urmarire nou
+Add to Cart,Adauga in cos
+Additional Product Info,Informatii aditional produs
+Address,Adresa
+Address model is not defined.,Modelul adresei nu este definit.
+Adjustment Fee,Taxa de re-stocare
+Adjustment Refund,Rambursare taxa re-stocare
+Agreement Information,Informatii Acord
+Allow Reorder,Accepta re-comanda
+Amount,Suma
+Amount: %s.,Suma: %s.
+An error occurred while assigning order status. Status has not been assigned.,A aparut o eroare in timpul alocarii starii comenzii. Starea nu a fost alocata.
+An error occurred while creating shipping label.,A aparut o eroare in timpul crearii etichetei de livrare.
+An error occurred while saving order status. The status has not been added.,A aparut o eroare in timpul salvarii starii comenzii. Starea nu a fost adaugata..
+An error occurred while unassigning order status.,A aparut o eroare in timpul anularii starii alocate comenzii. 
+An error occurred while updating the order address. The address has not been changed.,A aparut o eroare in timpul actualizarii adresei comenzii. Adresa nu afost schimbata.
+An item option with code %s already exists.,O optiune de articol cu codul %s exista deja.
+Anchor Custom Title,Ancora Titlu Personalizat
+Append Comments,Ataseaza comentarii
+Apply,Aplica
+Apply Coupon Code,Aplica cod cupon
+Approved the payment online.,Plata online aprobata.
+Are you sure you want to accept this payment?,Sunteti sigur ca doriti sa acceptati aceasta plata?
+Are you sure you want to cancel this order?,Sunteti sigur ca doriti sa anulati aceasta comanda?
+Are you sure you want to delete all items from shopping cart?,Sunteti sigur ca doriti sa stergeti toate articolele din cos?
+Are you sure you want to deny this payment?,Sunteti sigur ca doriti sa refuzati aceasta plata?
+Are you sure you want to do this?,Sunteti sigur ca doriti sa faceti asta?
+Are you sure you want to send Creditmemo email to customer?,Sunteti sigur ca doriti sa trimiteti e-mail cu nota de credit catre client?
+Are you sure you want to send Invoice email to customer?,Sunteti sigur ca doriti sa trimiteti e-mail cu factura catre client?
+Are you sure you want to send Shipment email to customer?,Sunteti sigur ca doriti sa trimiteti e-mail cu livrarea catre client?
+Are you sure you want to send order email to customer?,Sunteti sigur ca doriti sa trimiteti e-mail cu comanda catre client?
+Are you sure you want to void the payment?,Sunteti sigur ca doriti sa anulati plata?
+Are you sure?,Sunteti sigur?
+Are you sure? This order will be canceled and a new one will be created instead,Sunteti sigur? Aceasta comanda va fi anulata si una noua va fi creata in locul ei. 
+Assign Order Status to State,Asociaza statusuri la states
+Assign Status to State,Asociaza Status la State
+Assignment Information,Informatii Alocare
+At least a payment ID must be set.,Cel putin un ID de plata trebuie setat.
+Authorization,Autorizatie
+Authorized amount of %s.,A fost autorizata suma de %s.
+Authorizing amount of %s is pending approval on gateway.,Autorizarea sumei de %s este in asteptarea aprobarii de la gateway.
+Back,Inapoi
+Back to Billing Agreements,Inapoi la Acordul de Facturare
+Back to My Orders,Inapoi la Comenzile mele
+Back to Recurring Profiles,Inapoi la Profile Periodice
+Backordered,Comanda in asteptare
+Bestsellers,Cele mai vandute
+Bill to Name,Nume
+Billing,Facturare
+Billing Address,Adresa de facturare
+Billing Agreement,Acord de Facturare
+Billing Agreement # %s,Acord de Facturare # %s
+Billing Agreement #%s,Acord de Facturare #%s
+Billing Agreement View,Vizualizare Acord de Facturare
+Billing Agreements,Acorduri de Facturare
+Billing Last Name,Facturare pe numele
+Billing ZIP Code,Cod Postal de facturare
+Buy %s for price %s,Cumpara %s la pretul %s
+CSV,CSV
+Cancel,Anuleaza
+Cancel credit memo,Anuleaza nota de credit
+Cancel invoice,Anuleaza factura
+Cancel order,Anuleaza comanda
+Canceled,Anulata
+Canceled order offline.,Comandata anulata offline.
+Canceled order online.,Comandata anulata online.
+Cannot add order history.,Istoricul de comenzi nu poate fi adaugat.
+Cannot create an empty shipment.,Nu se poate crea o livrare goala.
+Cannot determine the field name.,Numele campului nu poate fi determinat.
+Cannot do invoice for order.,Comanda nu poate fi facturata.
+Cannot do shipment for order.,Nu se poate face livrare pentru comanda.
+Cannot get order instance,Nu se poate obtine o instanta de comanda.
+Cannot get the order instance.,Nu se poate obtine instanta de comanda.
+Cannot register an existing credit memo.,Nu se poate inregistra o nota de credit existenta.
+Cannot register existing invoice,Nu se poate inregistra factura existenta.
+Cannot register existing shipment,Nu se poate inregistra livrarea existenta.
+Capture,Preluare
+Capture Amount,Preluare Suma
+Capture Offline,Preluare Offline
+Capture Online,Preluare Online
+Capture invoice,Preluare Factura
+Captured amount of %s online.,Suma de %s a fost preluata online.
+Capturing amount of %s is pending approval on gateway.,Preluarea sumei de %s este in asteptarea aprobarii de la gateway.
+Carrier,Curier
+Carrier/Method,Curier/Modalitate
+"Change status, add comments","Schimba stare, adauga comentarii"
+"Changing address information will not recalculate shipping, tax or other order amount.","Schimbarea informatiilor adresei nu va recalcula livrarea, taxa sau alte sume din comanda."
+Checkout Totals Sort Order,Ordinea de sortare a totalului de comenzi finalizate
+City,Oras
+Clear Shopping Cart,Goleste Cos
+Click to change shipping method,Click pentru a schimba metoda de livrare
+Close,Inchide
+Closed,Inchis
+Comma-separated.,Separate prin virgula.
+Comment,Comentariu
+Comment Text,Text comentariu
+Comments,Comentarii
+Comments History,Istoric comentarii
+Company,Firma
+Complete,Finalizata
+Configure,Configureaza
+Configure and Add to Order,Configureaza si adauga la comanda
+Contents,Continut
+Continue,Continua
+"Controls whether customer IP is shown in orders, invoices, shipments, credit memos.","Controleaza daca IP-ul clientului apare in comenzi, facturi, livrari, note de credit."
+Country,Tara
+Coupons,Cupoane
+Create,Creaza
+Create New Customer,Creaza client nou
+Create New Order,Creaza comanda noua
+Create New Order Status,Creaza stare comanda noua
+Create New Order for %s,Creaza comanda pentru %s
+Create New Order for %s in %s,Creaza comanda pentru %s in %s
+Create New Order for New Customer,Creaza comanda noua pentru client nou
+Create New Order for New Customer in %s,Creaza comanda noua pentru client nou in %s
+Create New Status,Creaza stare noua
+Create Packages,Creaza pachete
+Create Shipment,Creaza livrare
+Create Shipping Label,Creaza eticheta de livrare
+Create Shipping Label...,Creaza eticheta de livrareﾅ
+Create new credit memo for order,Creaza nota de credit noua pentru comanda
+Create new invoice for order,Creaza factura noua pentru comanda
+Create new shipment for order,Creaza livrare noua pentru comanda
+Create...,Creaza...
+Created At,Creat la
+Created billing agreement #%s.,A fost creat acordul de facturare #%s.
+Created:,Creat:
+Credit Memo,Nota de credit
+Credit Memo #,Nota de credit #
+Credit Memo # ,Nota de credit # 
+Credit Memo #%1$s | %3$s | %2$s (%4$s),Nota de credit #%1$s | %3$s | %2$s (%4$s)
+Credit Memo Comment Email Sender,Expeditor e-mail comentarii nota de credit
+Credit Memo Comment Email Template,Sablon e-mail comentarii nota de credit
+Credit Memo Comment Email Template for Guest,Sablon e-mail comentarii nota de credit pentru vizitator
+Credit Memo Comments,Comentarii nota de credit
+Credit Memo Email Sender,Expeditor e-mail nota de credit
+Credit Memo Email Template,Sablon e-mail nota de credit
+Credit Memo Email Template for Guest,Sablon e-mail nota de credit pentru vizitator
+Credit Memo Update,Actualizare nota de credit
+Credit Memo Update for Guest,Actualizare nota de credit pentru vizitator
+Credit Memos,Note de credit
+Credit memo canceling problem.,Probleme la anularea notei de credit.
+Credit memo cannot be canceled.,Nota de credit nu poate fi anulata.
+Credit memo has been created automatically,Nota de credit a fost creata automat.
+Custom Price,Pret personalizat
+Custom Value,Valoare personalizata
+Customer,Client
+Customer Can Define Start Date,Clientul poate definii data inceperii
+Customer Email,E-mail client
+Customer Group,Grup clienti
+Customer Last Name,Nume client
+Customer My Account Order Creditmemo View,Vizualizare Nota de credit Comanda Contul Meu Client
+Customer My Account Order History,Istoric Comanda Contul Meu Client
+Customer My Account Order Invoice View,Vizualizare Factura Comanda Contul Meu Client
+Customer My Account Order Shipment View,Vizualizare Livrare Comanda Contul Meu Client
+Customer My Account Order View,Vizualizare Comanda Contul Meu Client
+Customer Name,Nume client
+Customer\'s Current Activities,Activitatile recente ale clientului
+Customs Value,Valoare Vama
+Date,Data
+Date Shipped,Livrat la data
+Default Status,Stare standard
+Default Template,Sablon standard
+"Default logo, will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If you see image distortion in PDF, try to use larger image","Sigla standard va fi folosita in documentele PDF si HTML.<br />(jpeg, tiff, png) Daca observati distorsionari ale imaginii in PDF, incercati sa folositi o imagine mai mare."
+Delete,Sterge
+Delete Package,Sterge pachet
+Denied the payment online.,Plata online refuzata.
+Deny Payment,Refuza plata
+Description Message,Mesaj descriere
+Discount,Reducere
+Discount (%s),Reducere (%s)
+Discount Amount,Suma reducere
+Display Order ID in Header,Afiseaza ID comanda in antet
+Edit,Editeaza
+Edit Order #%s,Editeaza comanda #%s
+Edit Order %s %s Address,Editeaza adresa comanda %s %s
+Edit Order Status,Editeaza stare comanda
+Email,E-mail
+Email Address,Adresa e-mail
+Email Copy of Credit Memo,Trimite e-mail cu nota de credit
+Email Copy of Invoice,Trimite e-mail cu confirmarea
+Email Copy of Shipment,Trimite e-mail cu livrarea
+Email Order Confirmation,Trimite e-mail confirmare comenzii
+Enable,Activeaza
+Enabled,Activat
+Enter the billing last name and email/ZIP as in the order billing address,Introduceti numele si e-mail-ul/codul postal de facturare la fel ca in adresa de facturare a comenzii.
+Entered data is incorrect. Please try again.,"Datele introduse sunt incorecte. Va rugam, incercati din nou."
+Error to Show in Shopping Cart,Eroare la Arata in Cos
+Excel XML,Excel XML
+Excl. Tax,Fara TVA
+Expired,Expirat
+Explanation,Explicatie
+Failed to cancel the billing agreement.,Anularea acordului de facturare a esuat.
+Failed to create billing agreement for this order.,Crearea unui acord de facturare pentru aceasta comanda a esuat.
+Failed to finish billing agreement wizard.,Finalizarea acordului de facturare a esuat.
+Failed to send the order email.,Trimiterea e-mail-ului de caomanda a esuat.
+Failed to start billing agreement wizard.,Initierea acordului de facturare a esuat.
+Failed to update the payment.,Actualizarea platii a esuat.
+Failed to update the profile.,Actualizarea profilului a esuat.
+Failed to void the payment.,Anularea platii a esuat.
+Fetch,Aport
+File extension not known or unsupported type in the following shipment: %s,Extensii fisiere necunoscute sau tipuri incompatibile in livrarea: %s
+Find Order By:,Gaseste comanda dupa:
+First Name,Prenume
+From,de la
+From Name,de la Nume
+From:,De la:
+G.T. (Base),G.T. (Baza)
+G.T. (Purchased),G.T. (Achizitionat)
+General,General
+General Information,Informatii generale
+Get Payment Update,Actualizeaza plata
+Get Update,Actualizeaza
+Get shipping methods and rates,Afla metode de livrare si preturi
+Gift Message,Mesaj cadou
+Gift Message for This Order,Mesaj cadou pentru aceasta comanda
+Gift Message for the Entire Order,Mesaj cadou pentru toata comanda
+Gift Message for this Order,Mesaj cadou pentru aceasta comanda
+Gift Options,Optiuni cadou
+Girth,Circumferinta
+Grand Total,Total
+Grand Total to be Charged,Total perceput
+Guest,Vizitator
+Height,Inaltime
+Hide Customer IP,Ascunde IP client
+Hold,Pune in asteptare
+Hold action is not available.,Actiune de punere in asteptare nu este disponibila.
+Hold order,Pune comanda in asteptare
+ID,ID
+ID #,ID #
+"IPN ""Refunded"". Refund issued by merchant. Registered notification about refunded amount of %s. Transaction ID: ""%s""","IPN ""Rambursat"". Rambursarea emisa de comerciant. Notificare inregistrata in legatura cu suma de %s rambursata. ID tranzactie: ""%s"""
+"If empty, the default description above will be used.","Daca este necompletat, se va folosi descrierea standard de mai sus."
+"If empty, the default error above will be used.","Daca este necompletat, se va folosi eroarea standard de mai sus."
+"If the invoice was created offline, try creating an offline creditmemo.","Daca factura a fost creata offline, incercati ca creati o nota de credit offline.."
+Incl. Tax,Incl. TVA
+Information,Informatii
+Initial Fee,Tarif initial
+Initial Fees,Tarife initiale
+Initial period payment,Plata pentru perioada initiala
+Insufficient information to create shipping label(s). Please verify your Store Information and Shipping Settings.,"Nu sunt informatii suficiente pentru crearea etichetei(lor) de livrare. Va rugam, verificati Informatii Magazin si Setari Livrare."
+Invalid block: %s.,Bloc nevalid: %s.
+Invalid carrier specified.,Curierul specificat nu este valid.
+"Invalid draw line data. Please define ""lines"" array.","Invalid draw line data. Please define ""lines"" array."
+Invalid entity model,Modelul entitatii nu este valid
+Invalid item option format.,Formatul optiunilor articolului nu este valid.
+"Invalid qty to invoice item ""%s""","Cantitate nevalida pentru a factura articolul ""%s"""
+"Invalid qty to refund item ""%s""","Cantitate nevalida pentru a rambursa articolul ""%s"""
+"Invalid qty to ship for item ""%s""","Cantitate nevalida pentru a livra articolul ""%s"""
+Invalid renderer model,Modelul de randare nu este valid.
+Invalid request for adding product to quote.,Cererea de adaugare a produsului la oferta nu este valida.
+Invoice,Factura
+Invoice #,Factura #
+Invoice # ,Factura # 
+Invoice #%1$s | %2$s | %4$s (%3$s),Factura #%1$s | %2$s | %4$s (%3$s)
+Invoice #%s,Factura #%s
+Invoice Comment Email Sender,Expeditor e-mail comentarii factura
+Invoice Comment Email Template,Sablon e-mail comentarii factura
+Invoice Comment Email Template for Guest,Sablon e-mail comentarii factura pentru vizitator
+Invoice Comments,Comentarii factura
+Invoice Date,Data facturii
+Invoice Email Sender,Expeditor e-mail factura
+Invoice Email Template,Sablon e-mail factura
+Invoice Email Template for Guest,Sablon e-mail factura pentru vizitator
+Invoice Update,Actualizare factura
+Invoice Update for Guest,Actualizare factura pentru vizitator
+Invoice and Packing Slip Design,Design-ul facturii si al biletului de ambalare
+Invoice and Ship,Factureaza si livreaza
+Invoice canceling problem.,Probleme la anularea facturii.
+Invoice cannot be canceled.,Factura nu poate fi anualata.
+Invoice cannot be captured.,Factura nu poate fi preluata.
+Invoice cannot be voided.,Factura nu poate fi anulata.
+Invoice capturing problem.,Probleme cu preluarea facturii.
+Invoice void problem,Probleme cu anularea facturii.
+Invoice will be created without communication with payment gateway.,Factura va fi creata comunicare cu gateway-ul de plata.
+Invoiced,Facturat
+Invoices,Facturi
+Is Closed,Este inchis
+Item,Articol
+Item Status,Stare articol
+Item object is not specified.,Obiectul articolului nu este specificat.
+Item options declaration error.,Eroare la declararea optiunilor articolului.
+Item ordered qty,Cantitate articol comandat
+Item qty declaration error.,Eroare la declararea cantitatii articolului.
+Items,Articole
+Items Invoiced,Articole facturate
+Items Ordered,Articole comandate
+Items Refunded,Articole returnate
+Items Shipped,Articole livrate
+Items in the Package,Articole din pachet
+Items maximum quantity or price do not allow checkout.,Finalizarea nu este permisa de pret sau de cantitatea maxima a articolelor.
+Items options declaration error.,Eroare la declararea optiunilor articolelor.
+Items to Refund,Articole de returnat
+Items to Ship,Articole de livrat
+Key,Cod
+Last Name,Nume
+Last Ordered Items,Ultimele articole comandate
+Last status can\'t be unassigned from state.,Nu este posibila anularea alocarii ultimului status din stare.
+Length,Lungime
+Link to the New Order,Link catre comanda noua
+Link to the Previous Order,Link catre comanda anterioara
+Logo for HTML Print View,Sigla pentru HTML Print View
+"Logo for HTML documents only. If empty, default will be used.<br />(jpeg, gif, png)","Sigla numai pentru documente HTML. Daca este necompletat, standard va fi folosit.<br />(jpeg, gif, png)"
+Logo for PDF Print-outs (200x50),Sigla pentru imprimari PDF (200x50)
+Make Check payable to:,Emite cecul pentru beneficiarul:
+Manage,Administreaza
+Maximum amount available to refund is %s,Suma maxima disponibila pentru rambursare este %s
+Maximum shipping amount allowed to refund is: %s,Suma de livrare maxima permisa pentru rambursare este: %s
+Message,Mesaj
+Message:,Mesaj:
+Minimum Amount,Suma minima
+Minimum Order Amount,Suma minima pe comanda
+Mixed,Combinat
+Most Viewed,Cele mai vizualizate
+Most Viewed Products Report,Raport cele mai vizualizate produse
+Move to Shopping Cart,Muta in cos
+Move to Wishlist,Muta in favorite
+Multi-address Description Message,Mesaj descriere adrese multiple
+Multi-address Error to Show in Shopping Cart,Eroare de adrese multiple la Arata in Cos
+My Orders,Comenzile mele
+My Orders - Details,Comenzile mele - Detalii
+N/A,N/A
+Name,Nume
+New,Nou
+New Billing Agreement,Acord de Facturare nou
+New Credit Memo,Nota de credit noua
+New Credit Memo for Guest,Nota de credit noua pentru vizitator
+New Credit Memo for Invoice #%s,Nota de credit noua pentru factura #%s
+New Credit Memo for Order #%s,Nota de credit noua pentru comanda #%s
+New Invoice,Factura noua
+New Invoice and Shipment for Order #%s,Factura si livrare noua pentru comanda #%s
+New Invoice for Guest,Factura noua pentru vizitator
+New Invoice for Order #%s,Factura noua pentru comanda #%s
+New Order,Comanda noua
+New Order Confirmation Email Sender,Expeditor e-mail de confirmare comanda noua
+New Order Confirmation Template,Sablon e-mail de confirmare comanda noua
+New Order Confirmation Template for Guest,Sablon e-mail de confirmare comanda noua pentru vizitator
+New Order RSS,Comanda noua RSS
+New Order Status,Stare comanda noua
+New Order for Guest,Comanda noua pentru vizitator
+New Shipment,Livrare noua
+New Shipment for Guest,Livrare noua pentru vizitator
+New Shipment for Order #%s,Livrare noua pentru comanda #%s
+Newsletter Subscription,Abonare newsletter
+No,Nu
+No Items,Nici un articol
+No Items To Refund,Nici un articol de returnat
+No Payment Methods,Nici o metoda de plata
+"No detail for number ""%s""","Nici un detaliu pentru numarul ""%s"""
+No information available.,Nici o informatie disponibila.
+No items,Nici un articol
+No order(s) were put on hold.,Nici o  comenda nu a fost pusa in asteptare.
+No order(s) were released from holding status.,Nici o comanda nu a iesit din starea de asteptare.
+No ordered items,Nici un articol comandat
+No shipping information available,Nici o informatie de livrare nu este disponibila
+Nominal Items,Articole nominale
+Nominal item can be purchased standalone only. To proceed please remove other items from the quote.,"Articolul nominal poate fi achizitionat numai independent. Pentru a continua, va rugam, inlaturati alte articole din oferta."
+Nominal order registered.,Comanda nominala
+Not Capture,Nepreluat
+Not Initialized,Neinitializat
+Not Notified,Nenotificat
+Not enough valid data to save the parent transaction ID.,Nu sunt date suficiente pentru salvarea ID-ului tranzactiei principale.
+Notification Not Applicable,Notificarea nu este aplicabila
+Notified,Notificat
+Notify Customer by Email,Notifica prin e-mail clientul
+Number,Numar
+Number of Invoiced Orders,Numar de comenzi facturate
+Number of Orders,Numar de comenzi
+Number of Refunded Orders,Numar de comenzi rambursate
+OK,OK
+Offline Refunded,Rambursat Offline
+On Hold,In asteptare
+Online Refunded,Rambursat Online
+Order,Comanda
+Order #,Comanda #
+Order # ,Comanda # 
+Order # %s,Comanda # %s
+Order # %s %s | %s,Comanda # %s %s | %s
+Order #%s,Comanda #%s
+Order #%s - %s,Comanda #%s - %s
+Order API,API Comanda
+Order Address Information,Informatii Adresa Comanda
+Order Comment,Comentariu comanda
+Order Comment Email Sender,Expeditor e-mail comentarii comanda
+Order Comment Email Template,Sablon e-mail comentarii comanda
+Order Comment Email Template for Guest,Sablon e-mail comentarii comanda pentru vizitator
+Order Comments,Comentarii comanda
+Order Credit Memos,Nota de credit pe comanda
+Order Currency:,Valuta comenzii:
+Order Date,Data comenzii
+Order Date (%s),Data comenzii (%s)
+Order Date: ,Data comenzii: 
+Order Date: %s,Data comenzii: %s
+Order Details,Detalii comanda
+Order Grand Total,Total comanda
+Order History,Istoric comenzi
+Order History Info,Info Istoric comenzi
+Order ID,ID comanda
+Order Information,Informatii comanda
+Order Invoices,Factura comanda
+Order Shipments,Livrari comanda
+Order State,Starea comenzii
+Order Status,Starea comenzii
+Order Status Information,Informatii stare comanda
+Order Statuses,Starile comenzii
+Order Subtotal,Subtotal comanda
+Order Taxes Report Grouped by Tax Rates,Raport taxe comanda grupate dupa rata de impozitare
+Order Total,Total comanda
+Order Totals,Totaluri comenzi
+Order Update,Actualizare comanda
+Order Update for Guest,Actualizare comanda pentru2 vizitator
+Order View,Vizualizare comanda
+Order credit memo,Nota de credit comanda
+Order does not allow to be canceled.,Comanda nu permite anularea.
+Order invoice,Factura comanda
+Order is suspended as its capture amount %s is suspected to be fraudulent.,Comanda este suspendata deoarece suma ei de preluare in valoare de %s este suspectata de frauda.
+Order object is not specified.,Obiectul comenzii nu este specificat.
+Order saving error: %s,Eroare la salvarea comenzii: %s
+Order shipments,Livrari comanda
+Order status does not exist.,Starea comenzii nu exista.
+Order status with the same status code already exist.,O stare a comenzii cu acelasi cod de stare exista deja.
+Order was placed using %s,Comanda a fost facuta prin %s
+Ordered,Comandat
+Ordered amount of %s.,Cantitate comandata de %s.
+Ordering amount of %s is pending approval on gateway.,Comanda sumei de %s se afla in asteptarea aprobarii de la gateway.
+Orders,Comenzi
+Orders and Returns,Comenzi si Returnari
+Orders and Returns Search Form,Formular de cautare pentru comenzi si returnari
+Original Price,Pret Original
+Original order item that recurring payment profile correspondss to.,Articolul din comanda initiala care corespunde cu profilul de plata periodica.
+PDF Credit Memos,Note de credit PDF
+PDF Invoices,Facturi PDF
+PDF Packingslips,Bilete de ambalare PDF
+PDF Print-outs,Imprimari PDF
+PDF object is not specified.,Obiectul PDF nu este specificat.
+PDF page object is not specified.,Obiectul pagina PDF nu este specificat.
+PDF total model should extend Mage_Sales_Model_Order_Pdf_Total_Default,Modelul total PDF ar trebui sa extinda Mage_Vanzari_Model_Comanda_Pdf_Total_Standard
+Package,Ambalaj
+Package types are disregarded for USPS domestic shipments.,Tipurile de ambalaje nu sunt luate in considerare pentru livrari domestice USPS.
+Packages,Ambalaje
+Packingslip # ,Bilet ambalaj # 
+Paid,Platita
+Paid Amount,Suma platita
+Parent Transaction ID,ID tranzactie principala
+Parent transaction ID must have a transaction ID.,ID-ul tranzactiei principale trebuie sa contina un ID de tranzactie.
+Partial,Partial
+Payment Failed,Plata esuata
+Payment Information,Informatii plata
+Payment Method,Metoda de plata
+Payment Method Name,Numa Metoda de plata
+Payment Method:,Metoda de plata:
+Payment Review,Revizuire plata
+Payment disallow storing objects.,Plata nu permite memorarea obiectelor.
+Payment transactions disallow storing objects.,Tranzactiile de plata nu permit memorarea obiectelor.
+Payment type,Tip plata
+Payment update has been made.,Actualizarea platii a fost efectuata.
+Pending,In asteptare
+Pending Payment,Plata in asteptare
+Period,Perioada
+Place Order Using Billing Agreements,Plaseaza comanda folosind acord de facturare
+Placed from IP,Plasata de la IP
+Please Select Products to Add,"Va rugam, selectati produse pentru adaugare"
+Please Select a Customer,"Va rugam, selectati un client"
+Please Select a Store,"Va rugam, selectai un magazin"
+Please check billing address information. %s,"Va rugam, verificati informatiile adresei de facturare. %s"
+Please check shipping address information. %s,"Va rugam, verificati informatiile adresei de livrare. %s"
+Please define PDF object before using.,"Va rugam, definiti obictul PDF inainte de folosire."
+Please enter positive number in this field.,"Va rugam, introduceti un numar pozitiv in acest camp."
+Please select a valid payment method.,"Va rugam, selectati o metoda de plate valida."
+Please specify a shipping method.,"Va rugam, selectati o metoda de livrare."
+Please specify a valid grid column alias name that exists in grid table.,"Va rugam, specificati un nume alias de coloana din grila valid care exista in tabelul grila."
+Price,Pret
+Print,Tipareste
+Print All,Tipareste toate
+Print All Invoices,Tipareste toate facturile
+Print All Refunds,Tipareste toate rambursarile
+Print All Shipments,Tipareste toate livrarile
+Print Credit Memos,Tipareste note de credit
+Print Invoice,Tipareste factura
+Print Invoices,Tipareste facturi
+Print Order,Tipareste comanda
+Print Order # %s,Tipareste comanda # %s
+Print Packingslips,Tipareste bilete de ambalaj
+Print Refund,Tipareste rambursare
+Print Shipment,Tipareste livrare
+Print Shipping Label,Tipareste eticheta de livrare
+Print Shipping Labels,Tipareste etichete de livrare
+Processing,Se proceseaza
+Product,Produs
+Product Name,Nume produs
+Products,Produse
+Products Bestsellers Report,Raport Cele mai vandute produse
+Products in Comparison List,Produse in lista de comparatie
+Products should be added to package(s),Produsele ar trebui adaugate la pachet.
+Profile #%s,Profil #%s
+Profile Information,Informatii profil
+Profile State,Stare profil
+Profit,Profit
+Promotion Coupons Usage Report,Raport Uz cupoane promotionale
+Proper payment object must be set.,Un obiect de plata adecvat trebuie setat.
+Purchase Order Number:,Numar comanda achizitionare:
+Purchased From,Cumparat de la
+Purchased From (Store),Cumparat de la (Magazin)
+Purchased Item,Articol cumparat
+Purchased On,Cumparat la
+Qty,Cantitate
+Qty Invoiced,Cantitate facturata
+Qty Ordered,Cantitate comandata
+Qty Shipped,Cantitate livrata
+Qty To Add,Cantitate de adaugat
+Qty to Add,Cantitate de adaugat
+Qty to Invoice,Cantitate de facturat
+Qty to Refund,Cantitate de returnat
+Qty to Ship,Cantitate de livrat
+Quantity Ordered,Cantitate comandata
+Quote item id is not received.,ID-ul articolului din oferta nu a fost pimit.
+Quote item is not loaded.,Articolul din oferta nu este incarcat
+Rate,Curs
+Recent Orders,Comenzi recente
+Recently Compared Products,Produse recent comparate
+Recently Viewed,Recent vizualizate
+Recently Viewed Products,Produse recent vizualizate
+Recurring Profile # %s,Profil periodic # %s
+Recurring Profile Initial Fee,Tarif Initial Profil periodic
+Recurring Profiles,Profile periodice
+Recurring Profiles (beta),Profile periodice (beta)
+Reference ID,ID de referinta
+Reference ID:,ID de referinta:
+Refresh,Reimprospateaza
+Refund,Ramburseaza
+Refund #,Ramburseaza #
+Refund #%s,Ramburseaza #%s
+Refund Amount,Suma de rambursat
+Refund Offline,Ramburseaza Offline
+Refund Shipping,Ramburseaza livrarea
+Refund Shipping (Excl. Tax),Ramburseaza livrarea (Fara TVA)
+Refund Shipping (Incl. Tax),Ramburseaza livrarea (Cu TVA)
+Refund Totals,Totaluri rambursate
+Refunded,Rambursat
+Refunded amount of %s offline.,Suma de %s rambursata offline.
+Refunded amount of %s online.,Suma de %s rambursata online.
+Refunds,Rambursari
+Registered a Void notification.,A fost inregistrata o notificare anulata.
+Registered notification about approved payment.,A fost inregistrata o notificare in legatura cu plata aprobata.
+Registered notification about captured amount of %s.,A fost inregistrata o notificare in legatura cu suma preluata de %s.
+Registered notification about denied payment.,A fost inregistrata o notificare in legatura cu plata refuzata.
+Registered notification about refunded amount of %s.,A fost inregistrata o notificare in legatura cu suma rambursata de %s.
+Registered update about approved payment.,A fost inregistrata o actualizare in legatura cu plata aprobata.
+Registered update about denied payment.,A fost inregistrata o actualizare in legatura cu plata refuzata.
+Regular Payment,Plata normala
+Related Orders,Comenzi asociate
+Remove,Sterge
+Remove Coupon Code,Sterge cod cupon
+Remove tracking number,Sterge numar de urmarire
+Reorder,Re-comanda
+Retrieve credit memo info,Recupereaza informatii nota de credit
+Retrieve credit memo information,Recupereaza informatii nota de credit
+Retrieve credit memo list,Recupereaza lista note de credit
+Retrieve invoice info,Recupereaza informatii factura
+Retrieve invoice information,Recupereaza informatii factura
+Retrieve list of credit memos by filters,Recupereaza lista note de credit dupa filtre
+Retrieve list of invoices by filters,Recupereaza lista facturi dupa filtre
+Retrieve list of orders by filters,Recupereaza lista comenzi dupa filtre
+Retrieve list of shipments by filters,Recupereaza lista livrari dupa filtre
+Retrieve order information,Recupereaza informatii comanda
+Retrieve orders info,Recupereaza informatii comenzi
+Retrieve shipment info,Recupereaza informatii livrare
+Retrieve shipment information,Recupereaza informatii livrare
+Return to Stock,Inapoi la stoc
+Returned,Returnat
+Returns,Returnari
+Revenue,Venit
+Row Subtotal,Subtotal rand
+Row Total,Total pe rand
+SKU,COD
+Sales,Vanzari
+Sales Discount,Reduceri vanzari
+Sales Emails,E-mail-uri vanzari
+Sales Emails Section,Sectiune e-mail-uri vanzari
+Sales Invoice Print View,Vizualizare factura imprimata vanzari
+Sales Items,Articole vanzari
+Sales Order Print View,Vizualizare comanda imprimata vanzari
+Sales Section,Sectiune vanzari
+Sales Shipment Print View,Vizualizare livrare imprimata vanzari
+Sales Shipping,Livrare vanzari
+Sales Tax,Taxa vanzari
+Sales Total,Total vanzari
+Same As Billing Address,Identic cu adresa de confirmare
+Save Order Address,Salveaza adresa comenzii
+Save Status,Salveza stare
+Save Status Assignment,Salveaza alocare stare
+Save in address book,Salveaza in Agenda
+Schedule,Program
+Select,Selecteaza
+Select All,Selecteaza tot
+Select from existing customer addresses:,Alege din adresele existente ale clientului:
+Send Credit Memo Comment Email Copy To,Trimite copie e-mail comentarii nota de credit la
+Send Credit Memo Comments Email Copy Method,Trimite metoda copiere e-mail comentarii nota de credit
+Send Credit Memo Email Copy Method,Trimite metoda copiere e-mail nota de credit
+Send Credit Memo Email Copy To,Trimite copiere e-mail nota de credit la
+Send Email,Trimiti e-mail
+Send Invoice Comment Email Copy To,Trimite copie e-mail comentarii facturi la
+Send Invoice Comments Email Copy Method,Trimite metoda copiere e-mail comentarii factura
+Send Invoice Email Copy Method,Trimite metoda copiere e-mail factura
+Send Invoice Email Copy To,Trimite copie e-mail factura la
+Send Order Comment Email Copy To,Trimite copie e-mail comentarii comanda la
+Send Order Comments Email Copy Method,Trimite metoda copiere e-mail comentarii comanda
+Send Order Email,Trimite e-mail comanda
+Send Order Email Copy Method,Trimite metoda copiere e-mail comanda
+Send Order Email Copy To,Trimite copie e-mail comanda la
+Send Sales Emails,Trimite e-mail vanzari
+Send Shipment Comment Email Copy To,Trimite copie email comentarii livrari la
+Send Shipment Comments Email Copy Method,Trimite metoda copiere e-mail comentarii livrare
+Send Shipment Email Copy Method,Trimite metoda copiere e-mail livrare
+Send Shipment Email Copy To,Trimite copie e-mail livrare la
+Send Tracking Information,Trimite informatii urmarire
+Send shipment info,Trimite informatii livrare
+Set order for existing transactions not allowed,Comanda setata pentru tranzactiile existente nu este admisa
+Ship,Livreaza
+Ship To,Livreaza la
+Ship to Name,Nume
+Ship to:,Livreaza la:
+Shipment,Livrare
+Shipment #,Livrare #
+Shipment #%1$s | %3$s (%2$s),Livrare #%1$s | %3$s (%2$s)
+Shipment #%s,Livrare #%s
+Shipment Comment Email Sender,Expeditor e-mail comentarii livrari
+Shipment Comment Email Template,Sablon e-mail comentarii livrari
+Shipment Comment Email Template for Guest,Sablon e-mail comentarii livrari pentrut vizitator
+Shipment Comments,Comentarii livrari
+Shipment Email Sender,Expeditor e-mail livrari
+Shipment Email Template,Sablon e-mail livrari
+Shipment Email Template for Guest,Sablon e-mail livrari pentru vizitator
+Shipment Update,Actualizare livrari
+Shipment Update for Guest,Actualizare livrari pentru vizitator
+Shipments,Livrari
+Shipped,Livrat
+Shipped By,Livrat cu
+Shipping,Transport
+Shipping & Handling,Transport si manipulare
+Shipping &amp; Handling,Transport
+Shipping &amp; Handling Information,Informatii transport si manipulare
+Shipping Address,Adresa de livrare
+Shipping Amount,Cantitate de livrat
+Shipping Information,Informatii livrare
+Shipping Method,Metoda de livrare
+Shipping Method:,Metoda de livrare:
+Shipping Refund,Rambursare livrare
+Shipping and Tracking Information,Informatii transport si urmarire
+Shopping Cart,Cos de cumparaturi
+Show Packages,Arata pachete
+Signature Confirmation,Confirmarea semnaturii
+Signed Up From,Abonat de la
+Size,Dimensiune
+Sku,Cod
+Sold to:,Vandut catre:
+Some of the products below do not have all the required options. Please edit them and configure all the required options.,Unele dintre produsele de mai jos nu au toate optiunile necesare. Va rugam sa editati si sa configurati toate optiunile necesare.
+"Sorry, no quotes are available for this order at this time.","Ne pare rau, nu avem oferta pentru aceasta comanda momentan."
+Source object is not specified.,Obiectul sursei nu este specificat.
+Specified profile does not exist.,Profilul specificat nu exista.
+State Code [State Title],Cod Judet [Titlul Judet]
+State/Province,Judet
+Status,Stare
+Status Code,Cod stare
+Status Label,Eticheta stare
+Status:,Stare:
+Store Credit,Credit magazin
+Store View Specific Labels,Etichete specifice din vitrina
+Street Address,Adresa strada
+Submit Comment,Trimite comentariu
+Submit Credit Memo,Trimite note de credit
+Submit Invoice,Trimite factura
+Submit Invoice and Shipment,Trimite factura si livrare
+Submit Order,Trimite comanda
+Submit Shipment,Trimite livrare
+Subscribe to Newsletter,Aboneaza-te la Newsletter
+Subscribe to Order Status,Aboneaza-te la starea comenzilor
+Subtotal,Subtotal
+Subtotal after discount.,Subtotal dupa reducere.
+Subtotal:,Subtotal:
+Suspected Fraud,Suspiciune de frauda
+Suspend,Suspenda
+Suspended,Suspendat
+Tax,TVA
+Tax Amount,Valoare TVA
+Tax Percent,Procent TVA
+Telephone,Telefon
+"The Order State ""%s"" must not be set manually.","Starea comenzii ""%s"" nu trebuie setata manual."
+The address total model should be extended from Mage_Sales_Model_Quote_Address_Total_Abstract.,Modelul total al adresei ar trebui sa se extinda din Mage_Vanzari_Model_Oferta_Adresa_Total_Abstract.
+"The billing agreement ""%s"" has been canceled.","Acordul de facturare ""%s"" a fost anulat."
+"The billing agreement ""%s"" has been created.","Acordul de facturare ""%s"" a fost creat."
+The coupon code has been accepted.,Codul cuponului a fost acceptat.
+The message has been sent.,Mesajul a fost trimis.
+The message was sent.,Mesajul a fost trimis.
+The order address has been updated.,Adresa comenzii a fost actualizata.
+The order email has been sent.,E-mail-lul comenzii a fost trimis.
+The order has been cancelled.,Comanda a fost anulata
+The order has been created.,Comanda a fost creata.
+The order has been put on hold.,Comanda a fost pusa in asteptare.
+The order has been released from holding status.,Comanda a iesit din starea de asteptare.
+The order has not been cancelled.,Comanda nu a fost anulata.
+The order status has been assigned.,Starea comenzii a fost alocata.
+The order status has been saved.,Starea comenzii a fost salvata.
+The order status has been unassigned.,Starea alocata comenzii a fost anulata.
+The order was not put on hold.,Comanda nu a fost pusa in asteptare.
+The order was not unheld.,Comanda nu a fost retinuta.
+The order was placed using %s,Comanda a fost facuta folosind %s
+The order(s) cannot be canceled,Comenzile nu pot fi anulate.
+The payment has been accepted.,Plata a fost acceptata.
+The payment has been denied.,Plata a fost refuzata.
+The payment has been voided.,Plata a fost anulata.
+The profile has been updated.,Profilul a fost actualizat.
+The profile has no changes.,Profilul nu prezinta modificari.
+The profile state has been updated.,Starea profilului a fost actualizata.
+The quantity you want to add exceeds the total shipped quantity for some of selected Product(s),Cantitatea pe care doriti sa o adaugati depaseste cantitatea totala livrata pentru unele dintre produsele selectate.
+The requested Payment Method is not available.,Metoda de plata solicitata nu este disponibila.
+The shipping label has been created.,Eticheta de livrare a fost creata.
+"The transaction ""%s"" (%s) is already closed.","Tranzactia ""%s"" (%s) este deja incheiata."
+"The transaction ""%s"" cannot be captured yet.","Tranzactia ""%s"" nu poate fi preluata inca."
+The value that you entered is not valid.,Valoarea introdusa nu este valida.
+There are no billing agreements yet.,Nu exista inca acorduri de facturare. 
+There are no printable documents related to selected orders.,Nu exista documente printabile pentru comenzile selectate.
+There are no shipping labels related to selected %s.,Nu exista etichete de livrare pentru %s selectat.
+There is no need to approve this payment.,Nu este necesara aprobarea acestei plati.
+There is no need to deny this payment.,Nu este necesara refuzarea acestei plati.
+There is no update for the payment.,Nu exista actualizare pentru aceasta plata.
+This message will be shown in shopping cart when subtotal after discount less than minimum amount.,Acest mesaj va fi afisat in cos cand subtotalul dupa reducere este mai mic decat suma minima.
+This operation requires an existing transaction object.,Aceasta operatiune necesita un obiect al unei tranzactii existente.
+"This order contains (%s) items and therefore cannot be edited through the admin interface at this time, if you wish to continue editing the (%s) items will be removed, the order will be canceled and a new order will be placed.","Aceasta comanda contine (%s) articole, prin urmare nu poate fi editata momentan prin interfata de admin, daca doriti sa continuati editarea cele (%s) articole vor fi sterse, comanda va fi anulata si alta va fi plasata in locul acesteia."
+This order no longer exists.,Comanda nu mai exista.
+This product does not have any configurable options,Acest produs nu are optiuni configurabile
+"This profile state cannot be changed to ""%s"".","Starea acestui profil nu poate fi schimbata in ""%s""."
+"This will create an offline refund. To create an online refund, open an invoice and create credit memo for it. Do you wish to proceed?","Aceasa actiune va crea o rambursare offline. Pentru a crera o rambursare online, deschideti o factura si creati o nota de credit pentru aceasta. Doriti sa continuati?"
+Tier Pricing,Tier Pricing
+Title,Titlu
+To,La
+To Name,Catre Nume
+To:,La:
+Total,Total
+Total %d product(s),Total %d produse
+Total (ex),Total (ex)
+Total (inc),Total (inc)
+Total Due,Total de plata
+Total Invoiced,Total facturat
+Total Invoiced Paid,Total facturat platit
+Total Invoiced VS Paid Report,Total facturat VS Raport total platit
+Total Invoiced not Paid,Total facturat neplatit
+Total Ordered Report,Raport total comandat
+Total Paid,Total platit
+Total Qty,Cantitate totala
+Total Refund,Total ramburs
+Total Refunded,Total rambursat
+Total Refunded Report,Raport total rambursat
+Total Sales Shipping,Total livrari vanzari
+Total Shipped Report,Raport total livrat
+Total Shipping,Total livrari
+Total Shipping Charges,Total tarife de livrare
+Total Tax,Total TVA
+Total Weight,Greutate totala
+Total model should be extended from Mage_Sales_Model_Order_Total_Abstract.,Modelul total ar trebui extins din Mage_Vanzari_Model_Comanda_Total_Abstract.
+Track Order,Urmareste comanda
+Track all shipment(s),Urmareste toate livrarile
+Track all shipments,Urmareste toate livrarile
+Track this shipment,Urmareste aceasta livrarea
+Track your order,Urmareste comanda
+Tracking,Urmarire
+Tracking Number,Numar de urmarire a comenzii
+Tracking Number(s):,Numar de urmarire:
+"Transaction ""%s"" was already processed.","Tranzactia ""%s""a fost deja procesata."
+Transaction # %s | %s,Tranzactie # %s | %s
+Transaction ID,ID tranzactie 
+Transaction ID must not be empty.,ID-ul tranzactiei nu trebuie sa fie gol.
+"Transaction ID: ""%s"".","ID tranzactie: ""%s""."
+Transaction Type,Tip tranzactie 
+Transactions,Tranzactii
+Trial ,Proba
+Trial Payment,Plata de proba
+Trial Period,Perioada de proba
+Trial period payment,Plata perioada de proba
+Type,Tip
+Unassign,Nu aloca
+Unhold,Scoate din asteptare
+Unhold action is not available.,Actiunea de scoatere din asteptare nu este disponibila.
+Unhold order,Scoate comanda din asteptare
+Unknown State,Stare necunoscuta
+Unknown Status,Stare necunoscuta
+"Unsupported transaction type ""%s"".","Tip tranzactie nesuportat ""%s""."
+Update Changes,Actualizeaza schimbari
+Update Items and Qty\'s,Actualizeaza articole si cantitati
+Update Qty\'s,Actualizeaza cantitate
+Updated At,Actualizeaza la
+Updated:,Actualizat:
+Use Aggregated Data (beta),Foloseste date agregate (beta)
+Use Order Status As Default,Foloseste starea comenzii ca standard
+Validate Each Address Separately in Multi-address Checkout,Valideaza fiecare adresa separat in Finalizare adrese multiple
+Value,Valoare
+View,Vizualizeaza
+View All,Vizualizeaza toate
+View Another Order,Vizualizeaza alta comanda
+View Order,Vizualizeaza comanda
+Visible on Frontend,Vizibil la client
+Void,Anuleaza
+Void invoice,Anuleaza factura
+Voided authorization.,Autorizatie anulata
+Website,Site
+Weight,Greutate
+Whether buyer can define the date when billing for the profile begins.,Daca cumparatorul poate definii data de incepere a facturarii pentru profil.
+Width,Latime
+Wishlist,Favorite
+Wrong billing agreement ID specified.,ID-ul acordului de facturare specificat este incorect.
+Wrong quote item id to update configuration.,ID-ul articolului din oferta este incorect pentru configurarea actualizarii.
+"Wrong state: ""%s"".","Judet gresit: ""%s""."
+Yes,Da
+You can leave a box blank if you don\'t wish to add a gift message for whole order,Puteti lasa o casuta goala daca nu doriti sa adaugati un mesaj cadou pentru toata comanda.
+You have placed no orders.,Nu ati facut nici o comanda.
+You will be redirected to the payment system website.,Veti fi redirectionat catre site-ul de sistem a platilor.
+Your credit card will be charged for,Se va percepe din cardul dumneavoastra de credit suma de
+ZIP/Post Code,Cod postal
+Zip/Postal Code,Cod postal
+cm,cm
+in,in
+kg,kg
+lb,lb
+the credit memo email is not sent,E-mail nota de credit a fost trimis
+the credit memo email was sent,E-mail nota de credit nu a fost trimis
+the invoice email is not sent,E-mail factura nu a fost trimis
+the invoice email was sent,E-mail factura a fost trimis
+the order confirmation email is not sent,E-mail confirmare comanda nu a fost trimis
+the order confirmation email was sent,E-mail confirmare comanda a fost trimis
+the shipment email is not sent,E-mail livrare nu a fost trimis
+the shipment email was sent,E-mail livrare a fost trimis
+ The customer doesn't exist in the system anymore,Clientul nu mai exista in sistem
+"<span style=""color:red"">Warning: when catalog prices include tax, should be set to ""No""</span>","<span style=""color:red"">Atentie: cand pretul de catalog include taxa, trebuie setat ca ""Nu""</span>"
+"<span style=""color:red"">Requires Tax Based On Shipping Origin</span>","<span style=""color:red"">Necesita taxa bazata pe Locatia de origine a livrarilor</span>"
+Update Qty's,Actualizeaza cantitate
+Add Product,Adauga produs
+Add a gift message for <strong>each gift item</strong>,Adauga un mesaj cadou <strong>fiecarui articol</strong>
+Add a gift message for the <strong>entire order</strong>,Adauga un mesaj cadou <strong>intregii comenzi</strong>
+Please select products to add,"Va rugam, selectati produse pentru adaugare"
+Please select a customer,"Va rugam, selectati un client"
+Please select a store,"Va rugam, selectati un magazin"
+Notify Customer,Anunta client
+Apply Tax after Discount,Aplica TVA dupa reducere
+Items to Invoice,Articole de facturat
+Gift,Cadou
+Tax Calculation,Calcul TVA
+Can't get order instance,Nu se poate obtine instanta comenzii
+QTY,Cant.
+Qty Canceled,Cantitate anulata
+Some items have quantities exceeding allowed quantities. Please select a lower quantity to checkout.,Cantitatile unor articole depasesc cantitatile permise. Alegeti o cantitate mai mica.
+Gift Certificate,Certificat cadou
+Tax Class for Shipping,Clasa taxare pentru livrare
+Order was successfully cancelled.,Comada a fost anulata cu succes.
+Order was successfully put on hold.,Comanda a fost pusa in asteptare cu succes.
+Order was successfully released from holding status.,Comanda a fost scoasa din starea de asteptare cu succes.
+%s order(s) succesfully canceled,Comanda %s a fost anulata cu succes.
+%s order(s) successfully put on hold,Comanda %s a fost pusa in asteptare cu succes.
+%s order(s) succesfully released from holding status,Comanda %s a fost scoasa din starea de asteptare cu succes.
+Order was not cancelled.,Comanda nu a fost anulata.
+Order was not put on hold.,Comanda nu a fost pusa in asteptare.
+Order was not unholded.,Comanda nu a fost scoasa din starea de asteptare.
+Order not longer exist,Comanda nu mai exista
+Order not longer exist.,Comanda nu mai exista.
+Invoice was successfully canceled.,Factura a fost anulata cu succes.
+Invoice was successfully created.,Factura a fost creata cu succes.
+Invoice was successfully voided,Factura a fost anulata cu succes.
+Invoice and shipment was successfully created.,Factura si livrarea au fost create cu succes.
+Creditmemos,Nota de credit
+Purchased from (store),Cumparat de la (magazin)
+Document,Document
+Credit Memo email not sent,E-mail nota de credit netrimis.
+Credit Memo email sent,E-mail nota de credit trimis
+Shipment email not sent,E-mail-ul de livrare nu a fost trimis
+Shipment email sent,E-mail-ul de livrare trimis
+Invoice email sent,E-mail-ul factura a fost trimis
+Invoice email not sent,E-mail-ul factura nu a fost trimis
+Invoice cancel error.,Eroare la anularea facturii.
+Credit Memo cancel error.,Eroare la anularea notei de credit.
+Credit Memo void error,Eroare la anularea notei de credit.
+Invoice void error,Eroare la anularea facturii.
+Are you sure? This order will be cancelled and a new one will be created instead,Sunteti sigur? Comanda va fi anulata si una noua va fi creata in locul ei
+Invoice capture error,Eroare preluare factura
+Invoice was successfully captured,Factura a fost preluata cu succes
+Item qty declare error,Eroare declarare cantitate articole
+Link to the new order,Link spre comanda noua
+Link to the previous order,Link spre comanda precedenta
+Shipment was successfully created.,Livrarea a fost creata cu succes.
+Shipment was successfully sent.,Livrarea a fost trimisa cu succes.
+Ship to,Livreaza catre
+SHIP TO:,LIVREAZA CATRE:
+Logo (200x50),Sigla (200x50)
+Gift Message for Entire Order,Mesaj cadou pentru intreaga comanda
+There are no printable documents related to selected orders,Nu exista documente printabile pentru comenzile selectate
+Can not update item qty,Nu se poate actualiza cantitatea
+Can not add tracking number.,Nu se poate adauga numar de urmarire.
+Can not add order history.,Nu se poate adauga istoric comenzi.
+Can not add new comment.,Nu se poate adauga comentariu nou.
+Can not do invoice for order,Nu se poate factura comanda
+"Can not create block ""%s""","Nu se poate crea bloc ""%s"""
+Can not do shipment for order.,Nu se poate face livrare pentru comanda.
+Can not do credit memo for order,Nu se poate face nota de credit pentru comanda
+Can not load track with retrieving identifier.,Nu se poate incarca urmarirea cu ID-ul dat.
+Can not initialize shipment for adding tracking number.,Nu se poate initializa livrarea pentru adaugarea unui numar de urmarire.
+Can not initialize shipment for delete tracking number.,Nu se poate initializa livrarea pentru stergerea unui numar de urmarire.
+Can not register existing invoice,Nu se poate inregistra prezenta factura
+Can not register existing shipment,Nu se poate inregistra prezenta livrare
+Can not register existing creditmemo,Nu se poate inregistra prezenta nota de credit
+Can not save invoice,Nu se poate salva factura
+Can not save shipment.,Nu se poate salva livrarea.
+Can not save credit memo,Nu se poate salva nota de credit.
+Can not delete tracking number.,Nu se poate sterge numarul de urmarire.
+Can not retrieve tracking number detail.,Nu se pot incarca detaliile numarului de urmarire.
+Can not send shipment information.,Nu se pot trimite informatii de livrare.
+Tracking number can not be empty.,Numarul de urmarire nu poate fi gol.
+Ship to Last name,Livrare pe numele
+Bill to Last name,Factura pe numele
+Tracking Number(s),Numere de urmarire a comenzilor
+Order # %s | Order Date %s,Comanda # %s | Data Comanda %s
+Order Update (Credit Memo),Actualizare Comanda (Nota de credit)
+Order Update (Invoice),Actualizare Comanda (Factura)
+Order Update (Shipment),Actualizare Comanda (Livrare)
+Orders was canceled,Comanda a fost anulata.
+Orders was successfully put on hold,Comanda a fost pusa in asteptare cu succes.
+Orders was unholded,Comanda a fost scoasa din asteptare.
+Checkout totals sort order,Ordinea de sortare a totalului de comenzi finalizate
+Ship to First name,Livrare pe prenumele
+Ship to First Name,Livrare pe prenumele
+Bill to First name,Factura pe prenume
+Catalog prices include tax,Pretul de catalog include TVA
+Processing data problem,Probleme la procesarea datelor
+Products in Compare List,Produse in lista de comparatie
+The item %s (SKU %s) doesn't exist in the catalog anymore,Produsul %s (COD %s) nu mai exista in catalog
+Hold action is not available,Actiune de punere in asteptare nu e disponibila
+Discount ,Reducere 
+Discount :,Reducere :
+Change Status,Schimba stare
+"separate by ""","separate prin """
+You need specify carrier.,Specificati un curier.
+New Status,Stare nou
+Creditmemo,Nota de credit
+Adjustment Refund:,Ramburs ajustare:
+Credit Memo was successfully canceled.,Nota de credit a fost anulata.
+Credit Memo was successfully created,Nota de credit a fost creata.
+Credit Memo was successfully voided,Nota de credit a fost stearsa.
+Order Subtotal:,Subtotal comanda:
+Credit Memo total must be positive.,Suma totala din nota de credit trebuie sa fie pozitiva.
+Tax Based On,Taxa bazata pe
+Adjustment Fee:,Tarif ajustare:
+Comment text field can not be empty.,Textul comentariului nu poate fi gol.
+Grand Total to be charged,Total general de confirmat
+Grand Total:,Total general:
+Total(ex),Total(fara)
+Total(inc),Total(inclusiv)
+Shipping & Handling:,Transport:
+Tax :,TVA :
+Last ordered items,Ultimele articole comandate
+SOLD TO:,VANDUT CATRE:

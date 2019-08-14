@@ -1,0 +1,63 @@
+in rows: ,in randuri: 
+Please Select --,"Va rugam, selectati"
+Adapter must be an instance of Mage_ImportExport_Model_Import_Adapter_Abstract,Adaptorul trebuie sa fie o instanta Mage_ImportExport_Model_Import_Adaptor_Abstract
+Adapter type must be a non empty string,Tipul adaptorului nu trebuie sa fie o sir de caractere gol
+Can not determine attribute filter type,Nu se poate determina tipul de filtru al atributului
+Can not find required columns: ,Nu se pot gasi coloanele solicitate: 
+Can not get autoincrement value,Nu se poate obtine valoarea autoincrement
+Check Data,Verifica datele
+Column names have duplicates,Numele coloanelor au duplicate
+Column names is empty or is not an array,Numele de coloane nu exista sau nu sunt un array
+"Column names: ""%s"" are invalid","Numele coloanelor: ""%s"" nu sunt valide"
+Continue,Continua
+Data is invalid or file is not uploaded,Datele nu sunt valide sau fisierul nu este incarcat
+Destination directory is not writable,Directorul de destinatie nu poate fi scris
+Destination file is not writable,Fisierul de destinatie nu poate fi scris
+Destination file path must be a string,Calea fisierului de destinatie trebuie sa fie un sir de caractere
+Entity Attributes,Atribute Entitate
+Entity adapter object must be an instance of Mage_ImportExport_Model_Import_Entity_Abstract,Adaptorul de entitate trebuie sa fie o instanta a Mage_ImportExport_Model_Import_Entitate_Abstract
+Entity is unknown,Entitate necunoscuta
+Entity type model must be an instance of Mage_ImportExport_Model_Export_Entity_Product_Type_Abstract,Modelul tip entitate trebuie sa fie o instanta a Mage_ImportExport_Model_Export_Entitate_Produs_Tip_Abstract
+Entity type model must be an instance of Mage_ImportExport_Model_Import_Entity_Product_Type_Abstract,Modelul tip entitate trebuie sa fie o instanta a Mage_ImportExport_Model_Import_Entitate_Produs_Tip_Abstract
+Error in data structure: behaviors are mixed,Eroare in structura datelor: comportamentele sunt amestecate
+Error in data structure: entity codes are mixed,Eroare in structura datelor: codurile de entitate sunt amestecate
+Export,Export
+Export FAQ,FAQ Export
+FAQ,FAQ
+File does not contain data. Please upload another one,"Fisierul nu contine date. Va rugam, incarcati un alt fisier"
+File format is unknown,Formatul fisierului este necunoscut
+"File is partially valid, but import is not possible","Fisierul este partial valid, dar importul nu este posibil"
+File is totally invalid. Please fix errors and re-upload file,"Fisierul nu este valid. Va rugam, corectati erorile si reincarcati fisierul"
+"File is valid! To start import process press ""Import"" button","Fisierul este valid! Pentru a incepe procesul de importare apasati butonul ""Importare"" "
+"File is valid, but import is not possible","Fisierul este valid, dar importul nu este posibil"
+Header column names already set,Numele antetului coloanei sunt deja setate
+Import,Importare
+Import / Export FAQ (Frequently Asked Questions),Import / Export FAQ (Intrebari frecvente)
+Import FAQ,Importare FAQ
+Import successfully done.,Importare finalizata cu succes.
+Import/Export,Import/Export
+In/Out,In/Afara
+Input entity code is not equal to entity adapter code,Codul entitatii Input nu este echivalent cu codul adaptorului entitatii
+Invalid entity,Entitate nevalida
+Invalid file format,Format fisier nevalid
+Invalid parameters,Parametri nevalizi
+Invalid seek position,Pozitie de cautare nevalida
+Invalid value for '%s',Valoare nevalida pentru '%s'
+No filter data provided,Date nefiltrate furnizate
+No source specified,Nici o sursa specificata
+No valid data sent,Nici o informatie valida trimisa
+No writer specified,Nici un autor specificat
+Node does not has model token tag,Nodul nu are nici un model de eticheta pentru jeton
+Not implemented yet,Nici o implementare inca
+Please fix errors and re-upload file,"Va rugam, corectati erorile si reincarcati fisierul"
+"Please fix errors and re-upload file or simply press ""Import"" button to skip rows with errors","Va rugam, corectati erorile si reincarcati fisierul sau pur si simplu apasati butonul ""Import"" pentru a omite randurile cu erori"
+Some other FAQ,Alte FAQ
+Source file moving failed,Mutarea fisierului sursa a esuat
+Source file path must be a string,Calea fisierului sursa trebuie sa fie un sir de caractere
+Source is not set,Sursa nu este setata
+Status,Stare
+System busy,Sistem ocupat
+There are no product types available for export,Nu exista tipuri de produse disponibile pentru export
+Total size of uploadable files must not exceed %s,Marimea totala a fisierelor incarcabile nu trebuie sa depaseasca %s
+Uploaded file has no extension,Fisierul incarcat nu are extensii
+Validation Results,Rezultate Validare

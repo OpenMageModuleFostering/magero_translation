@@ -1,0 +1,161 @@
+"%d Shopping Cart Price Rules based on ""%s"" attribute have been disabled.","%d Regulile de pret din cosul de cumparaturi bazate pe atributul ""%s"" au fost dezactivate."
+%s Coupon(s) have been generated,%s Cupoane au fost generate
+Actions,Actiuni
+Active,Activ
+Add New Rule,Adauga regula noua
+Alphabetical,Alfabetic
+Alphanumeric,Alfanumeric
+An error occurred while generating coupons. Please review the log and try again.,"A aparut o eroare la generarea cupoanelor. Va rugam, verificati logurile si incercati din nou."
+Apply,Aplica
+Apply To,Aplica la
+Apply the rule only if the following conditions are met (leave blank for all products),Aplica regula numai daca urmatoarele conditii sunt indeplinite (lasati gol pentru toate produsele)
+Apply the rule only to cart items matching the following conditions (leave blank for all items),Aplica regula numai la articolele din cos care indeplinesc urmatoarele conditii (lasati gol pentru toate articolele)
+Apply the rule to cart items matching the following conditions,Aplica regula la articolele din cos care indeplinesc urmatoarele conditii
+Apply to Shipping Amount,Aplica la suma livrare
+Are you sure you want to delete the selected coupon(s)?,Sunteti sigur ca doriti sa stergeti cuponul(cupoanele) selectat(e)?
+Auto,Auto
+Auto Generated Specific Coupon Codes,Coduri specifice de cuponuri generate automat
+Buy X get Y free (discount amount is Y),Cumpara X si primesti Y gratis (suma redusa e Y)
+By Fixed value,Dupa valoare fixa
+By Percentage,Dupa procentaj
+Can\'t acquire coupon.,Nu puteti obtine cuponul.
+Cart Attribute,Atribut cos
+Catalog,Catalog
+Code Format,Format Cod
+Code Length,Lungime Cod
+Code Prefix,Prefix Cod
+Code Suffix,Sufix Cod
+Conditions,Conditii
+Conditions combination,Combinatie de conditii
+Coupon,Cupon
+Coupon Code,Cod cupon
+Coupon Qty,Cantitate Cupon
+Coupon with the same code,Cupon cu acelasi cod
+Coupons Information,Informatii cupoane
+Created On,Creat la
+Customer Groups,Grupuri clienti
+Dash Every X Characters,Pune cratima la fiecare X caractere
+Date Expire,Expira la
+Date Start,Incepe la
+Default Label,Eticheta standard
+Default Rule Label for All Store Views,Eticheta standard pentru regula pentru toate vizualizarile magazinului
+Description,Descriere
+Discount Amount,Suma reducere
+Discount Qty Step (Buy X),Treapta reducere la cantitate (Cumpara X)
+Edit Rule,Editeaza regula
+Edit Rule '%s',Editeaza regula '%s'
+"Excluding prefix, suffix and separators.","Fara prefix, sufix si separatoare."
+FOUND,GASIT
+Fixed amount discount,Reducere suma fixa
+Fixed amount discount for whole cart,Reducere suma fixa pe tot cosul
+For matching items only,Doar pentru articole asemanatoare
+For shipment with matching items,Pentru livrare cu articole asemanatoare
+Free Shipping,Livrare gratuita
+From Date,De la data
+General Information,Informatii generale
+Generate,Genereaza
+ID,ID
+If %s %s %s for a subselection of items in cart matching %s of these conditions:,Daca %s %s %s pentru o selectie secundara de articole care intrunesc %s din aceste conditii:
+If an item is %s in the cart with %s of these conditions true:,Daca un articol este %s in cos cu %s din aceste conditii adevarate:
+If empty no separation.,Daca nu este completat nu se separa.
+If you select and save the rule you will be able to generate multiple coupon codes.,Daca selectati si salvati regula veti putea genera coduri multiple de cupon.
+Inactive,Inactiv
+Item totals are not set for rule.,Totalurile articolelor nu sunt setate pentru regula.
+Labels,Etichete
+Manage Coupon Codes,Administreaza coduri cupon
+Maximum Qty Discount is Applied To,Reducere maxima la cantitate se aplica la
+NOT FOUND,NEGASIT
+NOT LOGGED IN,NELOGAT
+New Rule,Regula noua
+No,Nu
+No Coupon,Fara cupon
+Not valid data provided,Datele furnizate nu sunt valide
+Number of Uses,Numar de utilizari
+Numeric,Numeric
+Payment Method,Metoda de plata
+Percent of product price discount,Procent din reducerea de pret a produsului
+Period,Perioada
+Price in cart,Pret in cos
+Priority,Prioritate
+Product attribute combination,Combinatie atribut produs
+Products subselection,Selectie secundara produse
+Promotions,Promotii
+Public In RSS Feed,Public In RSS Feed
+Quantity in cart,Cantitate in cos
+Row total in cart,Total randuri in cos
+Rule Information,Informatii regula
+Rule Name,Nume regula
+Rule is not defined,Regula nu este definita
+Sales Discount Amount,Suma reducere vanzari
+Sales Subtotal Amount,Suma subtotal vanzari
+Sales Total Amount,Suma total vanzari
+Save and Continue Edit,Salveaza si continua editarea
+Shipping Country,Tara de livrare
+Shipping Method,Metoda de livrare
+Shipping Postcode,Cod postal de livrare
+Shipping Region,Regiunea de livrare
+Shipping State/Province,Judetul de livrare
+Shopping Cart Price Rule,Regula de pret pentru cos
+Shopping Cart Price Rules,Reguli de pret pentru cos
+Special Price,Pret Special
+Specific Coupon,Cupon specific
+Status,Stare
+Stop Further Rules Processing,Opreste procesarea ulterioara a regulilor 
+Store View Specific Labels,Etichete specifice din vitrina
+Subtotal,Subtotal
+Subtotal Amount,Suma Subtotal
+The rule has been deleted.,Regula a fost stearsa.
+The rule has been saved.,Regula a fost salvata.
+This rule no longer exists.,Aceasta regula nu mai exista.
+Times Used,Numar utilizari
+To Date,Pana la data
+To Fixed Value,La valoare fixa
+To Percentage,La procentaj
+Total,Total
+Total Amount,Suma Total
+Total Items Quantity,Cantitate totala articole
+Total Weight,Greutate totala
+Unable to create requested Coupon Qty. Please check settings and try again.,"Cantitatea solicitata a cuponului nu poate fi creata. Va rugam, verificati setarile si incercati din nou."
+Unable to find a rule to delete.,Nu s-a gasit o regula de sters.
+Update prices using the following information,Actualizeaza preturile folosind urmatoarele informatii
+Update product's %s %s: %s,Actualizeaza info produs %s %s: %s
+Update the Product,Actualizeaza produsul
+Use Auto Generation,Foloseste generare automata
+Used,Folosit
+Uses per Coupon,Utilizari per cupon
+Uses per Customer,Utilizari per client
+Website,Site
+Websites,Site-uri
+Wrong rule specified.,Regula specificata incorecta.
+Yes,Da
+total amount,suma total
+total quantity,cantitate total
+Apply to,Aplica la
+By Percentage of the original price,Prin procentaj din pretul original
+Checkout Price Rule,Regula pret Finalizare
+Customer registered: %s,Client inregistrat: %s
+Coupon code,Cod cupon
+Conditions Combination,Combinatie conditii
+Start at: %s,Incepe la: %s
+Description: %s,Descriere: %s
+By Fixed Amount,Dupa suma fixa
+Customer is new buyer: %s,Clientul este cumparator nou: %s
+Expire at: %s,Expira la: %s
+To Percentage of the original price,La procentaj din pretul original
+To Fixed Amount,La suma fixa
+Maximum Qty Discount is Applied to,Reducerea maxima la cantitate se aplica la
+Unable to find a page to delete,Nu s-a gasit o pagina de sters
+Name: %s,Nume: %s
+Stop further rules processing,Opreste procesarea ulterioara a regulilor
+The page you are trying to save no longer exists,Pagina pe care incercati sa o salvati nu mai exista
+Special price,Pret special
+This rule no longer exists,Aceasta regula nu mai exista
+Rule was successfully saved,Regula a fost salvata cu succes.
+Rule was successfully deleted,Regula a fost stearsa cu succes.
+Save Rule,Salveaza regula
+Delete Rule,Sterge regula
+Discount amount,Suma reducere
+Invalid discount amount.,Suma reducere nevalida.
+Free shipping,Livrare gratuita
+Uses per customer,Utilizari per client
+Uses per coupon,Utilizari per cupon

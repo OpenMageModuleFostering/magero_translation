@@ -1,0 +1,58 @@
+1.5.0.0 & later,1.5.0.0 si versiuni mai recente
+Action,Actiune
+Add Author,Adauga autor
+Add Contents Path,Adauga cale continut
+Add PHP Extension dependency,Adauga dependinta extensie PHP
+Add Package dependency,Adauga dependinta pachet
+Add files,Adauga fisiere
+Authors,Autori
+Channel,Canal
+Contents,Continut
+Create Extension Package,Creare pachet extensii
+Dependencies,Dependinte
+Description,Descriere
+Edit Extension,Modifica extensie
+Email,E-mail
+Extension,Extensie
+Extensions,Extensii
+Failed to create the package.,Crearea pachetului a esuat.
+Failed to load the package data.,Incarcarea datelor pachetului a esuat.
+Failed to save the package.,Salvarea pachetului a esuat.
+Files,Fisiere
+Folder,Registru
+Ignore,Ignora
+Include,Include
+License,Licenta
+License URI,URL Licenta
+Load Local Package,Incarca Pachet local
+Load local Package,Incarca Pachet local
+Magento Connect,Conectare Magento
+Magento Connect Manager,Administrator Conectare Magento
+Max,Max
+Maximum,Maxim
+Min,Min
+Minimum,Minim
+Name,Nume
+New Extension,Extensie noua
+PHP Version,Versiune PHP
+Package,Pachet
+Package Extensions,Extensii Pachet
+Package File Name,Nume Fisier pachet
+Package Info,Informatii pachet
+Packages,Pachete
+Path,Cale
+Pre-1.5.0.0,Inainte de 1.5.0.0
+Release Info,Informatii Lansare
+Remove,Sterge
+Save As...,Salveaza ca...
+Save Data and Create Package,Salveaza datele si creaza pachet
+Save package with custom package file name,Salveaza pachetul cu nume de fisier pachet personalizat
+Summary,Sumar
+Supported releases,Release-uri compatibile
+System,Sistem
+Target,Tinta
+The package %s data has been loaded.,Datele din pachetul %s au fost incarcate.
+The package data has been saved.,Datele pachetului au fost salvate.
+There was a problem saving package data,A aparut o problema in salvarea datelor din pachet
+Type,Tip
+User,Utilizator

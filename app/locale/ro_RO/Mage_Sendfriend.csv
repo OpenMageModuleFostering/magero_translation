@@ -1,0 +1,46 @@
+Add Recipient,Adauga destinatar
+Allow for Guests,Accepta si pentru vizitatori
+An invalid email address for recipient was entered.,A fost introdusa o adresa e-mail pentru destinatar nevalida.
+At least one recipient must be specified.,Cel putin un destinatar trebui specificat.
+Back,Inapoi
+Catalog Product Email to a Friend,Trimite unui prieten catalogul de produse
+Email Address,Adresa e-mail
+Email Address:,Adrese e-mail:
+Email Templates,Sabloane e-mail
+Email to a Friend,Trimite unui prieten
+Email:,E-mail:
+Enabled,Activat
+Invalid Sender Information,Informatii expeditor nevallide
+Invalid sender email.,E-mail expeditor nevalid
+Limit Sending By,Limiteaza trimiterile de catre
+Max Products Sent in 1 Hour,Nr. maxim de produse trimise in 1 ora
+Max Recipients,Nr. maxim de destinatari
+Maximum %d email addresses allowed.,Maxim %d adrese sunt permise.
+Message:,Mesaj:
+Name,Nume
+Name:,Nume:
+No more than %d emails can be sent at a time.,Maxim %d e-mail-uri pot fi trimise simultan.
+Please define a correct Cookie instance.,"Va rugam, definiti o instanta Cookie corecta."
+Please define a correct Product instance.,"Va rugam, definiti o instanta de produs corecta."
+Please define the correct Sender information.,"Va rugam, definiti o informatiile Expeditor corecte."
+Recipient:,Destinatar:
+Remove Email,Sterge e-mail
+Select Email Template,Selecteaza Sablon E-mail 
+Send Email,Trimite E-mail
+Send product to a friend,Trimite produsul unui prieten
+Sender:,Expeditor:
+Some emails were not sent.,Unele e-mail-uri nu au fost trimise
+The link to a friend was sent.,Link-ul a fost trimis catre prieten.
+The message cannot be empty.,Mesajul nu poate fi gol.
+The messages cannot be sent more than %d times in an hour,Mesajele nu pot fi trimise de mai mult de %d ori pe ora.
+The sender name cannot be empty.,Numele Expeditorului nu poate fi gol
+There were some problems with the data.,Exista probleme cu datele.
+You have exceeded limit of %d sends in an hour,Ati depasit limita de %d trimiteri pe ora.
+Select email template,Slectati sablon e-mail
+Some problems with data.,Exista probleme cu datele.
+Link to a friend was sent.,Link-ul a fost trimis catre prieten.
+You cannot email this product to a friend,Nu puteti trimite acest produs unui prieten
+You cannot send more than %d times in an hour,Nu puteti trimite mai mult de %d ori pe ora
+Email templates,Sabloane e-mail
+Send email,Trimite e-mail
+Some emails was not sent,Unele e-mailuri nu au fost trimise.

@@ -1,0 +1,22 @@
+Cron (Scheduled Tasks) - all the times are in minutes,Cron (Sarcina programata) - Toti timpii sunt exprimati in  minute
+Daily,Zilnic
+Failure History Lifetime,Tine istoric rulari esuate pentru
+For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.,"Pentru URL-uri corecte generate in timpul rularii cron, va rugam, asigurati-va ca URL-urile Web > Secure si Unsecure Base sunt setate explicit."
+Generate Schedules Every,Genereaza sarcini in fiecare
+History Cleanup Every,Golire istoric in fiecare
+Invalid callback: %s::%s does not exist,Callback invalid: %s::%s nu exista
+"Invalid model/method definition, expecting ""model/class::method"".","Definire Model/Metoda nevalida, se asteapta ""model/clasa::metoda""."
+Missed if Not Run Within,Pierdut daca nu este rulat in
+Monthly,Lunar
+No callbacks found,Nu s-au gasit callback-uri
+Schedule Ahead for,Program pentru
+Success History Lifetime,Tine istoric rulari efectuate cu succes pentru
+Too late for the schedule.,Prea tarziu pentru program.
+Unable to save the cron expression.,Nu se poate salva expresia cron.
+Unknown error.,Eroare necunoscuta.
+Weekly,Saptamanal
+Failure history lifetime,Esuare istoric perioada de activitate
+Missed if not run within,Pierdut daca nu este rulat in
+Schedule ahead for,Programat pentru
+Success history lifetime,Succes istoric perioada de activitate
+Unable to save Cron expression,Nu se poate salva expresia cron.

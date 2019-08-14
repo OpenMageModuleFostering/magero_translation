@@ -1,0 +1,22 @@
+<strong>Attention</strong>: Captcha is case sensitive.,<strong>Atentie</strong>: Captcha tine cont de majuscule.
+After number of attempts to login,Dupa numarul de tentative de logare
+Always,Intotdeauna
+CAPTCHA,CAPTCHA
+CAPTCHA Timeout (minutes),Expirare CAPTCHA (minute)
+"CAPTCHA for ""Create user"" and ""Forgot password"" forms is always enabled if chosen","CAPTCHA pentru formularele ""Creare Utilizator"" si ""Am uitat parola"" este intodeauna activat daca este selectat. "
+Case Sensitive,Susceptibil la majuscule
+Displaying Mode,Mod de afisare
+Enable CAPTCHA in Admin,Activeaza CAPTCHA in modul Admin
+Enable CAPTCHA on Frontend,Activeaza CAPTCHA in modul Frontend
+Font,Font
+Forms,Formulare
+"If 0 is specified, CAPTCHA on the Login form will be always available.","Daca 0 este specificat, in formularul de logare CAPTCHA va fi intotdeauna disponibil.."
+Incorrect CAPTCHA.,CAPTCHA incorect.
+Number of Symbols,Numar de simboluri
+Number of Unsuccessful Attempts to Login,Numarul de tentative esuate de logare
+Please specify 8 symbols at the most. Range allowed (e.g. 3-5),Va rugam specificati cel mult 8 simboluri. Valoare permisa (ex. 3-5)
+Please type the letters below,"Va rugam, introduceti literele de mai jos."
+Please type the letters from the image:,"Va rugam, introduceti literele din imagine:"
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Va rugam sa folositi numai litere (a-z sau A-Z) sau cifre (0-9) in acest camp. Spatiile si alte caractere nu sunt permise.<br />Caracterele asemanatoare (ex. ""i"", ""l"", ""1"") scad sansele clientului de recunoastere corecta."
+Reload captcha,Reincarca captcha
+Symbols Used in CAPTCHA,Simboluri folosite in CAPTCHA

@@ -1,0 +1,674 @@
+ But cart has some errors.,Dar cosul contine erori.
+"""Description"" is more than %d characters long","""Descriere"" e mai lunga de %d charactere"
+"""Title"" is more than %d characters long","""Titlu""este mai lung de  %d caractere"
+"""id"" attribute is required for a ""%s"" field.","Atributul ""Id""este necesar pentru campul ""%s""."
+"""line_count"" attribute is required for ""multiline"" element.","Atributul ""numaratoare_linii"" este necesar pentru elementul""multilinii"" ."
+"""message"" attribute is required for ""%s"" validator rule.","Atributul ""mesaj"" este necesar pentru regula validatorului ""%s"" ."
+%1$s has been added to your wishlist.,%1$s a fost adaugat la lista de Favorite.
+%1$s incl tax.,%1$s Tva inclus.
+%s API Key required.,%s  Codul API %s este necesar.
+%s Application ID required.,ID Aplicatie %s este necesar .
+%s Secret Key required.,Cod Secret %s este necesar.
+%s attribute is required.,Atributul %s este necesar.
+%s has been added to your cart.,%s a fost adaugat la cosul de cumparaturi.
+"(Includes more countries than those listed below. As the application owner, you are responsible for complying with country-specific laws related to the distribution or sale of your application into that country, including your home country.)","(Include mai multe tari decat cele din lista de mai jos.Ca si proprietarul aplicatiei, sunteti responsabil de a va conforma cu legile specifice tarii corelate cu distributia sau vanzarea aplicatiei dumneavoastra in acea tara, incluzand tara de origine.)"
+*Subject to change,*Subiect de schimbat
+10:40 AM,10:40 AM
+80px x 80px,80px x 80px
+80x80 px,80x80 px
+"<a href=""%s"" target=""_blank"">Login</a> to Urabn Airship.","<a href=""%s"" target=""_blank"">Login</a> to Urabn Airship."
+"A Catalog Only App will not support functions such as add to cart, add to wishlist, or login.","O aplicatie Numai Catalog nu va suporta functii ca ""Adauga la cos"", Adauga la Favorite"",sau ""Logare""."
+A new password has been sent.,O parola Noua a fost trimisa.
+Account,Cont
+Account confirmation is required. Please check your email for the confirmation link.,"Confirmarea contului este necesara.Va rugam, verificati-va e-mail-ul pentru link-ul de confirmare"
+Account information has been saved.,Informatiile de cont au fost salvate.
+Action,Actiune
+Activate,Activeaza
+Activate PayPal Checkout,Activeaza Finalizare PayPal 
+Activate PayPal MECL,Activeaza PayPal MECL
+Activation Key,Cod Activare
+Add App,Adauga Aplicatie
+Add New Template,Adauga Sablon Nou
+Add Page,Adauga Pagina
+Add to Cart,Adauga in cos
+Add to Wishlist,Adauga la Favoritet
+Additional Address,Adresa Aditionala
+Address,Adresa
+Address 2,Adresa 2
+Address data not specified.,Date adresa nespecificate.
+Address does not belong to this customer.,Adresa nu apartine acestui client.
+Address has been deleted.,Adresa a fost stearsa.
+Address has been saved.,Adresa a fost salvata.
+Administrative contact for this app and for app submission issues.,Contact administrativ pentru aceasta aplicatie si pentru problemele privind depunerea aplicatiilor.
+Advanced Settings,Setari Avansate
+"After submitting the App to Magento, please contact <a href=""mailto:%1$s"">%1$s</a> to receive the Application Key, Application Secret and Application Master Secret.","Dupa trimitearea aplicatiei la Magento, va rugam, contactati <a href=""mailto:%1$s"">%1$s</a> pentru a primi Codul, Secretul si Secretul Principal ale Aplicatiei."
+AirMail Message Queue,Lista de asteptare Mesaj Posta Aeriana
+AirMail Messages Queue,Lista de asteptare Mesaj Posta Aeriana
+AirMail Template Preview,Previzualizare Sablon Posta Aeriana
+AirMail message,Mesaj Posta Aeriana
+AirMail templates,Sabloane Posta Aeriana
+All Allowed Countries,Toate tarile acceptate
+All locations,Toate locatiile
+An account with this email address already exists.,Un cont cu aceasta adresa e-mail deja exista.
+An error occurred while adding item to wishlist.,A aparut o eroare in timpul adaugarii articolului la Favorite.
+An error occurred while deleting the address.,A aparut o eroare in timpul stergerii adresei.
+An error occurred while loading categories.,A aparut o eroare in timpul incarcarii categoriilor.
+An error occurred while loading category filters.,A aparut o eroare in timpul incarcarii filtrelor categoriilor.
+An error occurred while loading wishlist.,A aparut o eroare in timpul incarcarii listei Favorite.
+An error occurred while processing your order. Please contact us or try again later.,A aparut o eroare in timpul rocesarii comenzii.Va rugam contactati-ne sau incercati din nou mai tarziu.
+An error occurred while processing your request.,A aparut o eroare in timpul procesarii solicitarii dumneavoastra.
+An error occurred while removing item from wishlist.,A aparut o eroare in timpul stergerii articolului din Favorite.
+An error occurred while removing items from wishlist.,A aparut o eroare in timpul stergerii articolelor din Favorite.
+Analytics,Analitice
+Android,Android
+Android doesn\'t support AirMail message type.,Android nu suporta tipul mesajului prin Posta Aeriana.
+App Background,Fundal Aplicatie
+App Background (landscape mode).,Fundal Aplicatie(mod peisaj).
+App Background (portrait mode).,Fundal Aplicatie(mod portret).
+App Background <br />(landscape mode),Fundal Aplicatie <br />(mod peisaj)
+App Background <br />(portrait mode),Fundal Aplicatie <br />(mod portret)
+App Background image missing.,Imagine Fundal Aplicatie lipsa.
+App Code,Cod Aplicatie
+App Information,Informatii Aplicatie
+App Name,Nume Aplicatie
+App Stores,Magazine Aplicatie
+App Submission History,Istoric depunere Aplicatie
+App Title,Titlu Aplicatie
+App code required.,Cod Aplicatie necesar.
+App does not exist.,Aplicatia nu exista.
+App has been deleted.,Aplicatia a fost stearsa.
+App has been saved.,Aplicatia a fost salvata.
+App has been submitted.,Aplicatia a fost trimisa.
+App model not loaded.,Model Aplicatie neincarcat.
+App with specified code does not exist.,Aplicatia cu codul specificat nu exista.
+"Appears in the info section of your app (example: Copyright 2010 – Your Company, Inc.)","Apare la sectiunea de informatii a aplicatiei dumneavoastra (exemplu: Copyright 2010 – Your Company, Inc.)"
+Application,Aplicatie
+Application Key,Cod Aplicatie
+Application Master Secret,Secret Principal Aplicatie
+Application Name,Nume Aplicatie
+Application Secret,Secret Aplicatie
+Are you sure you want to delete this theme? This change will affect all applications.,Sunteti sigur ca doriti sa stergeti aceasta tema? Aceasta schimbare va afecta toate aplicatiile.
+Are you sure you want to do this?,Sunteti sigur ca doriti sa faceti asta?
+Are you sure you whant to cancel a message?,"""Sunteti sigur ca doriti sa anulati un mesaj?"
+Are you sure you whant to delete a message?,"""Sunteti sigur ca doriti sa stergeti un mesaj?"
+Are you sure you what to cancel selected records?,"""Sunteti sigur ca doriti sa anulati inregistrarile selectate?"
+Are you sure you what to delete selected records?,Sunteti sigur ca doriti sa stergeti inregistrarile selectate?
+"As a Magento customer, Urban Airship is offering you unlimited Push Notifications and Rich Push for $100/year* along with a 60 day free trial.","Ca un client Magento, Urban Airship va ofera Notificari Push si Rich Push nelimitat pentru $100/an* impreuna cu o perioada de proba gratuita de 60 zile."
+At last one application has to be created.,Trebuie creata cel putin on aplicatie.
+Authentication complete.,Autetificare completa.
+Back,Inapoi
+Back to App Edit,Inapoi la Editare Aplicatie
+Background Color,Culoare Fundal
+Balance,Sold
+Balance Change,Modificare Sold
+Balance History,Istoric Sold
+Banner on Home Screen,Banner pe pagina principala
+Banner on Home Screen (landscape mode) image missing.,Imagine Banner (mod peisaj) lipsa de pe pagina principala.
+Banner on Home Screen (portrait mode) image missing.,Imagine Banner (mod peisaj) lipsa de pe pagina principala.
+Banner on Home Screen <br />(landscape mode),Banner pe pagina principala <br />(mod peisaj)
+Banner on Home Screen <br />(portrait mode),Banner pe pagina principala <br />(mod portret)
+Banner on Home Screen image missing.,Imagine Banner lipsa de pe pagina principala.
+Billing Address,Adresa Facturare
+Billing address has been set.,Adresa de facturare a fost trimisa.
+Buy %1$s for %2$s,Cumpara %1$s la %2$s
+Buy %1$s for %2$s (%3$s incl. tax) each,Cumpara %1$s la %2$s (%3$sTVA inclus) fiecare
+Buy %1$s for %2$s each,Cumpara %1$s la %2$s fiecare
+Buy %1$s with %2$s discount each,Cumpara %1$s la %2$s reducere fiecare
+Buyer country is not allowed by store.,Tara cumparatoare nu este acceptata de magazin.
+Cache Lifetime (seconds),Perioada activitate Cache (secunde)
+Cache Management,Administrare Cache
+Can\'t add item to shopping cart.,Nu se poate adauga articolul in cos.
+Can\'t apply the coupon code.,Nu se poate folosi codul cuponului.
+"Can\'t copy file ""%s"" to ""%s"".","Nu se poate copia fisierul ""%s"" in ""%s""."
+Can\'t create wishlist.,Nu se poate crea lista de Favorite.
+"Can\'t delete ""%s"" theme.","Nu se poate sterge tema ""%s"" ."
+Can\'t load XML.,Nu se poate incarca XML.
+"Can\'t load application with id ""%s""","Nu se poate incarca aplicatia cu Id-ul ""%s"""
+Can\'t load cart info.,Nu se pot incarca informatiile cosului de cumparaturi.
+Can\'t load cart.,Nu se poate incarca cosul de cumparaturi.
+Can\'t load customer form.,Nu se poate incarca formularul pentru clienti.
+Can\'t load default themes.,Nu se pot incarca temele standard.
+Can\'t load selected theme. Please check your media folder permissions.,"Nu se poate incarca tema selectata. Va rugam, verificati permisiunile din directorul  Media."
+Can\'t open submission form.,Nu se poate deschide formularul de depunere.
+"Can\'t read file ""%s"".","Fisierul ""%s"" nu poate fi citit."
+Can\'t remove the item.,Articolul nu poate fi sters.
+Can\'t reset theme.,Tema nu poate fi resetata.
+Can\'t save address.,Adresa nu poate fi salvata.
+Can\'t save the customer.,Clientul nu poate fi salvat.
+Can\'t save theme.,Tema nu poate fi salvata.
+Can\'t show configuration.,Nu se poate arata configuratia.
+Can\'t specify product.,Produsul nu poate fi specificat.
+Can\'t submit application.,Aplicatia nu poate fi trimisa.
+Can\'t update cart.,Cosul de cumparaturi nu poate fi actualizat.
+"Can\'t write to file ""%s"".","Nu se poate scrie in fisierul ""%s""."
+Cancel,Anuleaza
+Canceled,Anulat
+Cancelled,Anulat
+Cannot apply gift card.,Cuponul cadou nu poate fi folosit.
+"Cannot load theme ""%s"".","Nu se poate incarca tema ""%s""."
+Cannot redeem Gift Card.,Cuponul cadou nu poate fi compensat.
+Cannot remove gift card.,Cuponul cadou nu poate fi sters.
+"Cannot save theme ""%s"". Incorrect data received","Nu se poate salva tema ""%s"". Date incorecte primite"
+Card Verification Number,Numar Verificare Card
+Card verification number is wrong,Numar  verificare card incorect
+Carrier,Curier
+Cart,Cos de cumparaturi
+Cart has been updated.,Cosul de cumparaturi a fost actualizat
+Cart has some errors.,Cosul de cumparaturi contine erori.
+Cart is empty.,Cosul este gol.
+Catalog Only App?,Aplicatie Numai Catalog?
+Category Button Color,Culoare Buton Categorie
+Category Item Background Color,Culoare Fundal Articol Categorie
+Chairs,Chairs
+Change Orientation,Schimba Orientare
+Change Password,Schimba Parola
+Changes have been saved to theme.,Modificarile temei au fost salvate.
+Checkout has been initialized.,Procesul de Finalizare a fost initializat.
+City,Oras
+Color Themes,Teme de culori
+Colors,Culori
+Company,Firma
+Completed,Finalizat
+Confirm New Password,Confirma parola noua
+Confirm Password,Confirma parola
+Contact Email,E-mail de contact
+Contact Information,Informatii de contact
+Container is not defined.,Recipientul nu este definit.
+Content,Continut
+Copyright,Copyright
+Copyright Page Logo,Sigla Pagina Copyright 
+Copyright Page Logo <br />(iPhone 4 retina),Sigla Pagina Copyright <br />(iPhone 4 retina)
+Countries Payment Applicable From,Tarile din care platile sunt aplicabile 
+Country,Tara
+"Country options don\'t recognized for ""%s"".","Country options don\'t recognized for ""%s""."
+Coupon code %s is not valid.,Cod cupon %s nevalid.
+Coupon code %s was applied.,Cod cupon %s a fost folosit.
+Coupon code is empty.,Codul cuponului este gol.
+Coupon code was canceled.,Cod cupon anulat.
+Creating a Template is allowed only for applications which have device type iPhone.,Crearea unui Sablon este permisa numai pentru aplicatile compatibile cu iPhone.
+Credit Card,Card de credit
+Credit Card %s,Carte de credit %s
+Credit Card Number,Numar Carte de Credit
+Credit Card Type,Tip Carte de Credit
+Credit card number does not match credit card type.,Numarul cardului de credit nu coincide cu tipul cardului de credit.
+Current Balance: %s,Sold curent: %s
+Current Password,Parola curenta
+"Currently, PayPal MEP is not available for the Android application",Momentan PayPal MEP nu este disponibil pentru aplicatia Android
+Custom App Icon,Pictograma Aplicatie Standard
+Custom App Icon <br />(iPhone 4 retina),Pictograma Aplicatie Standard <br />(iPhone 4 retina)
+Custom Colors,Culori Standard
+Customer authentication problem.,Problema la autentificarea clientului.
+Customer balance available in enterprise version of Magento only.,Soldul clientului este disponibil numai in versiunea Magento antreprenoriala.
+Customer balance is disabled for current store,Soldul clientului este dezactivat din magazinul curent
+Customer email not specified.,E-mail client nespecificat.
+Customer logout problem.,Problema delogare client.
+Customer not logged in.,Client nelogat.
+DD,ZZ
+Date,Data
+Date Created,Creat la data
+Date Submitted,Trimis la data
+Date Updated,Actualizat la data
+Day,Zi
+Deeper Messaging and Engagement with Rich Push.,Deeper Messaging and Engagement with Rich Push.
+Default Billing Address,Adresa Facturare Standard
+Default Shipping Address,Adresa Livrare Standard
+Default Theme,Tema Standard
+Delete,Sterge
+Delete theme,Sterge tema
+Deleted,Sters
+Description,Descriere
+Description that appears in Android Market. %s chars maximum. ,Descriere care apare pe piata Android. Minim %s caractere. 
+Description that appears in the iTunes App Store. %s chars maximum. ,Descriere care apare in Magazinul de Aplicatii iTunes. Maxim %s caractere. 
+Deselect All,Deselecteaza Toate
+Design,Design
+Device,Dispozitiv
+Device Information,Informatii dispozitiv
+Device Type,Tip Dispozitiv
+Device doesn\'t recognized.Unable to load a template .,Dispozitiv nerecunoscut. Nu se poate incarca un sablon.
+"Device doesn\'t recognized: ""%s"". Unable to load a helper.","Dispozitiv nerecunoscut: ""%s"".Nu se poate incarca un program de asistenta."
+"Device doesn\'t recognized: ""%s"". Unable to load preview model.","Dispozitiv nerecunoscut: ""%s"". Nu se poate incarca modelul de vizualizare."
+Edit,Editeaza
+Edit AirMail Message,Editeaza Mesaj Posta Aeriana
+Edit AirMail Message Queue #%s,Editeaza Lista de Asteptare Mesaj Posta Aeriana #%s
+"Edit App ""%s""","Editeaza Aplicatie""%s"""
+Edit Filter,Editeaza Filtru
+"Edit Template ""%s""","Editeaza Sablon ""%s"""
+Element with id %s already exists,Elementul cu Id-ul %s deja exista
+Email,E-mail
+Email Address,Adresa e-mail
+Enable AirMail Message Push notification,Activeaza Notificare Push a Mesajului trimis prin Posta Aeriana
+Enable Facebook,Activeaza Facebook
+Enable Flurry Analytics,Activeaza Analitice Flurry
+Enable Flurry Analytics for the merchant.,Activeaza Analitice Flurry pentru comerciant.
+Enable LinkedIn,Activeaza LinkedIn
+Enable Standard Checkout,Activeaza Finalizare standard
+Enable Twitter,Activeaza Twitter
+"Error while processing file ""%s"".","Eroare la procesarea fisierului ""%s""."
+"Error while reading data from Payment Bridge. Please, try again.","Eroare la citirea datelor din Puntea de Plata. Va rugam, incercati din nou."
+"Error while uploading file ""%s"".","Eroare la incarcarea fisierului ""%s""."
+"Error while uploading file ""%s"". Disallowed file type. Only ""jpg"", ""jpeg"", ""gif"", ""png"" are allowed.","Eroare la incarcarea fisierului ""%s"". Tip fisier nepermis. Numai formatele ""jpg"", ""jpeg"", ""gif"", ""png"" sunt permise."
+Error.,Error.
+Expiration Date - Month,Data Expirare - Luna
+Expiration Date - Year,Data Expirare - An
+Expires: %s,Expira: %s
+Extend the life of your app with Urban Airship Push Notifications.,Lungeste viata aplicatiei cu Notificarile Push prin Livrarea Aeriana Urban .
+Extensions,Extensii
+FILTERS APPLIED,FILTRE APLICATE
+Facebook API,API Facebook
+Facebook Application ID,ID Aplicatie Facebook
+Fax,Fax
+File can\'t be uploaded.,Fisierul nu poate fi incarcat.
+"File doesn\'t exist ""%s"".","Fisierul nu exista ""%s""."
+First Name,Prenume
+Flurry API Code,Cod API Flurry
+Flurry Analytics,Analitice Flurry
+Flurry Analytics Site,Site Analitice Flurry
+Fonts,Fonturi
+Free,Gratuit
+Funk Leaf,Funk Leaf
+General,General
+Get Content from CMS Page,Obtine Continut de pe pagna CMS 
+"Gift Card ""%s"" was added.","Cupon cadou""%s""adaugat."
+"Gift Card ""%s"" was redeemed.","Cupon cadou ""%s"" conpensat."
+"Gift Card ""%s"" was removed.","Cupon cadou""%s"" sters."
+Gift Card (%s),Cupon cadou (%s)
+Gift Card amount applied to order: %s,Suma Cuponului Cadou a fost folosita la comanda: %s
+Gift Card code is empty.,Codul Cuponului Cadou este gol.
+Gift Card: %s,Cupon cadou: %s
+Gift card account available in enterprise version of Magento only.,Cont Cupon cadou disponibil numai in versiunea Magento antreprenoriala.
+Grand Total (Excl. Tax),Total (fara TVA)
+Grand Total (Incl. Tax),Total (TVA inclus)
+Guest,Vizitator
+Header Background Color,Culoare Fundal Antet
+Header Font Color,Culoare Font Antet
+High Resolution Application Icon,Pictograma Aplicatie Rezolutie Inalta
+Home,Acasa
+Hot Red,Hot Red
+How do you rate this product?,Cum evaluati acest produs?
+How to incorporate Urban Airship within your application:,Cum sa incorporezi Livrare Aeriana Urban in aplicatia ta:
+ID,ID
+Icon that will appear on the user\'s device after they download your app. Recommended size: 48px x 48px.,Pictograma care va aparea pe dispozitivul utilizatorului dupa ce descarca aplicatia dumneavoastra.Rezolutie recomandata: 48px x 48px.
+Icon that will appear on the user\'s device after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 72px x 72px.,"Pictograma care va aparea pe dispozitivul utilizatorului dupa ce descarca aplicatia dumneavoastra.Nu este nevoie sa folositi efectele ""gradient"" sau ""soft edges""(facut automat de Apple).Rezolutie recomandata: 72px x 72px."
+Icon that will appear on the user\'s phone after they download your app. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Recommended size: 114px x 114px.,"Pictograma care va aparea pe telefonul utilizatorului dupa ce descarca aplicatia dumneavoastra.Nu este nevoie sa folositi efectele ""gradient"" sau ""soft edges""(facut automat de Apple).Rezolutie recomandata: 114px x 114px."
+Icon that will appear on the user’s phone after they download your app.  You do not need to apply a gradient or soft edges (this is done automatically by Apple).  Recommended size: 57px x 57px at 72 dpi.,"Pictograma care va aparea pe telefonul utilizatorului dupa ce descarca aplicatia dumneavoastra.Nu este nevoie sa folositi efectele ""gradient"" sau ""soft edges""(facut automat de Apple).Rezolutie recomandata:57px x 57px at 72 dpi."
+Icons,Pictograme
+"If leave this field empty, the message will be sent immediately","Daca lasati gol acest camp, mesajul va fi trimis imediat"
+"If you want to disable the cache on the application side, leave the field empty. Warning! When disabling cache, the application will take time to load each page.","Daca doriti sa dezactivati Cache-ul din aplicatie, lasati campul liber.Atentie!La dezactivarea Cache-ului, incarcarea fiecarei pagini din aplicatie va dura."
+Image file was not found.,Fisier imagini negasit.
+Image that appears on first screen while your app is loading. Required size: 1024px x 768px.,Imaginea care apare pe pagina principala in timp ce aplicatia se incarca.Rezolutie necesara: 1024px x 768px.
+Image that appears on first screen while your app is loading. Required size: 320px x 455px.,Imaginea care apare pe pagina principala in timp ce aplicatia se incarca.Rezolutie necesara: 320px x 455px.
+Image that appears on first screen while your app is loading. Required size: 320px x 460px.,Imaginea care apare pe pagina principala in timp ce aplicatia se incarca.Rezolutie necesara: 320px x 460px.
+Image that appears on first screen while your app is loading. Required size: 640px x 920px.,Imaginea care apare pe pagina principala in timp ce aplicatia se incarca.Rezolutie necesara: 640px x 920px.
+Image that appears on first screen while your app is loading. Required size: 768px x 1024px.,Imaginea care apare pe pagina principala in timp ce aplicatia se incarca.Rezolutie necesara: 768px x 1024px.
+Images,Imagini
+In Queue,In Lista de Asteptare
+In Stock,In Stoc
+"In addition, click here to review Urban Airship\'s Terms of Service: <a href=""%s"" target=""_blank"">click here</a>.","Suplimentar,click aici pentru a revizui Termenii de Servicii ai Livrare Aeriana Urban : <a href=""%s"" target=""_blank"">click aici</a>."
+"In order to resubmit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce","Pentru a redepune aplicatia, trebuie in primul rand sa achizitionati un <a href=""%s"" target=""_blank"">%s</a> de la MagentoCommerce"
+"In order to submit your app, you need to first purchase a <a href=""%s"" target=""_blank"">%s</a> from MagentoCommerce","Pentru a redepune aplicatia, trebuie in primul rand sa achizitionati un<a href=""%s"" target=""_blank"">%s</a> de la MagentoCommerce"
+Inactive Tabs,Tab-uri inactive
+Invalid XML.,XML nevalid.
+Invalid current password.,Parola curenta nevalida.
+Invalid customer data.,Date client nevalide.
+Invalid data.,date nevalide.
+Invalid email address.,Adresa e-mail nevalida.
+Invalid item or wishlist.,Lista Favorite sau Articol nevalid(a).
+Invalid login or password.,Utilizator sau parola nevalid(a).
+Invalid shipping method.,Metoda livrare nevalida.
+Issue Number,Numarul de emitere 
+It\'s not allowed to delete submitted application.,Stergerea aplicatiei trimise nu este permisa.
+Item has been added to cart.,Articolul a fost adaugat in cos.
+Item has been deleted from cart.,Articolul a fost sters din cos.
+Item has been removed from wishlist.,Articolul a fost sters din Favorite.
+Items were updated. But can\'t update wishlist.,"Articolele au fost actualizate,dar nu se poate actualiza lista de Favorite."
+Key,Cod
+Keywords,Cuvinte-cheie
+Label,Eticheta
+Large iTunes Icon,Pictograma Mare iTunes
+Large icon that appears in the iTunes App Store. You do not need to apply a gradient or soft edges (this is done automatically by Apple). Required size: 512px x 512px.,"Pictograma Mare care apare in Magazinul iTunes.Nu va trebui sa folositi efectele ""gradient"" sau ""soft edges""(este facut automat de catre Apple).Rezolutia necesara: 512px x 512px."
+Last Name,Nume
+LinkedIn API,API LinkedIn 
+LinkedIn API Key,Cod API LinkedIn 
+LinkedIn Secret Key,Cod Secret LinkedIn
+Loader Splash Screen,Incarcator Splash Screen
+Loader Splash Screen <br />(iPhone 4 retina),Incarcator Splash Screen <br />(iPhone 4 retina)
+Loader Splash Screen <br />(landscape mode),Incarcator Splash Screen <br />(mod peisaj)
+Loader Splash Screen <br />(portrait mode),Incarcator Splash Screen <br />(mod portret)
+Loading Preview...,Se incarca Previzualizarea...
+Locations,Locatii
+Log In,Logare
+Login and password are required.,Utilizatorul si Parola sunt necesare.
+Logo in Header,Sigla in Antet
+Logo in Header image missing.,Sigla din Imagine Antet lipseste.
+Logout complete.,Delogare finalizata.
+M.I.,M.I.
+"MEP is PayPal\'s native checkout experience for the iPhone. You can choose to use MEP alongside standard checkout, or use it as your only checkout method for Magento mobile. PayPal MEP requires a <a href=""%s"">PayPal business account</a>","MEP este experienta PayPal de finalizare nativa pentru iPhone. Puteti alege sa folositi MEP alaturi de finalizarea standard, sau sa o folosit ca singura metoda de finalizare pentru mobilul Magento. MEP PayPal  necesita un  <a href=""%s""> cont de afaceri PayPal </a>"
+MM,LL
+Mailbox title,Titlu Cutie postala
+Main Tabs,Tab-uri principale
+Make Inactive,Dezactiveaza
+Make this app available in the following territories,Faceti aceasta aplicatie disponibila in urmatoarele teritorii
+Manage Apps,Administreaza Aplicatii
+Manage Mobile App,Administreaza Aplicatie Mobil
+Maximum length is 140,Lungimea maxima este 140
+Maximum length is 255,Lungimea maxima este 255
+Merchant Label,Eticheta Comerciant
+Message Queue,Lista de asteptare Mesaj
+Message Settings,Setari Mesaje
+Message Templates,Sabloane Mesaje
+Message Title,Titlu Mesaj
+Message Type,Tip Mesaj
+"Message can be edited when status of the message is ""In Queue"" only.","Mesajul poate fi editat numai cand starea mesajului este  ""In Asteptare"" ."
+Message content,Continut Mesaj
+Message title,Titlu Mesaj
+Mobile,Mobil
+Mobile Express Checkout has been canceled.,Finalizarea Expres a Mobilului a fost anulata.
+Mobile Express Checkout processed successfully.,Finalizare Expres Mobil procesata cu succes.
+Month,Luna
+More,Mai mult
+More Info,Mai multe informatii
+More Tabs,Mai multe Tab-uri
+Name on Card,Nume pe Card
+Name that appears beneath your app when users install it to their device. We recommend choosing a name that is 10-12 characters and that your customers will recognize. %s chars max.,Numele care apare sub aplicatia dumneavoastra cand utilizatorii o instaleaza la dispozitivele lor.Va recomandam alegerea unui nume de 10-12 caractere si pe care clientii dumneavoastra il vor recunoaste.Maxim %s caractere.
+New AirMail Message,Mesaj Nou prin Posta Aeriana 
+New AirMail Message Queue,Lista de Asteptare a Mesajelor Noi prin Posta Aeriana 
+New App,Aplicatie Noua
+New Password,Parola Noua
+New Template,Sablon Nou
+Nickname,Alias
+No Payment Information Required,Nu sunt necesare Informatii de Plata
+No items were specifed to update.,Nu s-au specificat articole pentru actualizare.
+No items were updated.,Nici un articol nu a fost actualizat.
+No product selected.,Nici un produs selectat.
+No shipping method required.,Nu este necesara nici o metoda de livrare.
+"No such file ""%s"".","Nu exista un astfel de fisier ""%s""."
+Not Submitted,Netrimis
+Notice,Notificare
+One or more keywords that describe your app. Keywords are matched to users\' searches in the App Store and help return accurate search results. Separate multiple keywords with commas. 100 chars is maximum.,Unul sau mai multe cuvinte-cheie care sa descrie aplicatia dumneavoastra. Cuvintele-cheie sunt corelate cu cautarile utilizatorilor din Magazinul de Aplicatii si ajuta la redarea unor rezultate de cautare precise.Separati cuvintele-cheie multiple prin virgule.Maximul este de 100 caractere.
+Onepage checkout is disabled.,Finalizarea pe o singura pagina este dezactivata.
+Only custom theme can be deleted,Numai tema standard poate fi stearsa
+Only default theme can be reset,Numai tema standard poate fi resetata
+Only free apps are allowed in this version.,Numai aplicatii gratuite sunt permise in aceasta versiune.
+"Only registered users can write reviews. Please, log in or register.","Numai utilizatorii inregistrati pot face recenzii. Va rugam, logati-va sau inregistrati-va."
+Options menu items,Articole Meniu Optiuni
+Order #%s - %s,Comanda #%s - %s
+Order Date: %s,Comanda: %s
+Order id is not specified.,Id-ul comenzii nu este specificat.
+Order is not available.,Comanda nu este disponibila.
+Ordered,Comandat
+"Output format is not specified. Please, specify ""format"" key in constructor, or set it using setFormat().","Formatul Output nu este specificat. Va rugam specificati codul ""format"" in constructor sau setati-l folosind SetareFormat()."
+POST data is not valid.,Datele postale nu sunt valide .
+Pages,Pagini
+Password,Parola
+Password fields cannot be empty.,Campul parolei nu poate fi gol.
+"PayPal MECL is the mobile version of PayPal\'s Express Checkout service. You can choose to use MECL alongside standard checkout, or use it as your only checkout method for Magento Mobile.",MECL PayPal este versiunea pentru mobil a Serviciului de Finalizare Expres PayPal. Puteti alege sa folositi MECL alaturi de Finalizarea standard sau sa o folositi ca singura metoda de finalizare pentru Mobilul Magento.
+PayPal MEP,MEP PayPal
+PayPal Mobile Embedded Payment (MEP),Plata de pe mobil PayPal(MEP)
+PayPal Mobile Express Checkout,Finalizare Expres de pe mobil PayPal
+PayPal Mobile Express Checkout Library (MECL),Biblioteca Finalizare Expres de pe mobil PayPal (MECL)
+PayPal Mobile Express Checkout Token does not exist.,Jeton Finalizare Expres de pe mobil PayPal nu exista.
+Payer Email: %s,E-mail Platnic: %s
+Payment Applicable From,Plata aplicabila de la 
+Payment Bridge module unavailable.,Modulul Punte de Plata nu este disponibil.
+Payment Method,Metoda de plata
+Payment Method has been set.,Metoda de plata a fost setata.
+Payment Methods,Metode de plata
+Payment method was successfully set.,Metoda de plata a fost setata cu succes.
+Paypal MEP doesn\'t support checkout with any discount.,MEP Paypal nu suporta Fenalizare cu reduceri.
+"Please <a href=""%s"" target=""_blank"">click here</a> to see how to setup and retrieve API credentials.","Va rugam, <a href=""%s"" target=""_blank"">click aici</a> pentru a vedea cum sa setati si sa recuperati acreditarile API."
+Please Select Application,"Va rugam, selectati aplicatie"
+Please Select Device Type,"Va rugam, selectati tipul dispozitivului"
+Please agree to all the terms and conditions before placing the order.,"Va rugam, acceptati Termenii si Conditiile inainte de a plasa comanda."
+Please create and save an application first.,"Va rugam, intai creati si salvati o aplicatie."
+"Please enter ""App Title"".","Va rugam, introduceti ""Titlu Aplicatie""."
+"Please enter a valid URL. Protocol is required (http://, https:// or ftp://)","Va rugam, introduceti un URL valid. Protocolul este necesar (http://, https:// or ftp://)"
+Please enter a valid date.,"Va rugam, introduceti o data valida."
+Please enter a valid email address. For example johndoe@domain.com.,"Va rugam, introduceti o adresa de e-mail valida. De exemplu johndoe@domain.com."
+Please enter issue number or start date for switch/solo card type.,"Va rugam,  introduceti numarul emiterii sau data inceperii pentru cardul tip switch/solo."
+Please enter the Activation Key.,"Va rugam, introduceti codul de activare."
+Please enter the Copyright.,"Va rugam, introduceti Copyright."
+Please enter the Description.,"Va rugam, introduceti Descriere."
+Please enter the Price.,"Va rugam, introduceti Pret."
+Please enter the Resubmission Key.,"Va rugam, introduceti Cod Retrimitere."
+Please enter the Title.,"Va rugam, introduceti Titlu."
+Please make sure your passwords match.,"Va rugam, asigurati-va ca parolele coincid."
+Please select an option.,"Va rugam, selectati o optiune."
+Please select at least one country.,"Va rugam, selectati cel putin o tara."
+"Please upload  an image for ""App Background (landscape mode)"" field from Design Tab.","Va rugam, incarcati o imagine pentru campul ""Fundal Aplicatie (mod peisaj)"" din Tab-ul Design."
+"Please upload  an image for ""App Background (portrait mode)"" field from Design Tab.","Va rugam, incarcati o imagine pentru campul ""Fundal Aplicatie (mod portret)"" din Tab-ul Design."
+"Please upload  an image for ""App Background"" field from Design Tab.","Va rugam, incarcati o imagine pentru campul ""Fundal Aplicatie"" din Tab-ul Design."
+"Please upload  an image for ""Banner on Home Screen (landscape mode)"" field from Design Tab.","Va rugam, incarcati o imagine pentru campul ""Banner pe pagina principala (mod peisaj)"" din Tab-ul Design."
+"Please upload  an image for ""Banner on Home Screen (portrait mode)"" field from Design Tab.","Va rugam, incarcati o imagine pentru campul ""Banner pe pagina principala (mod portret)"" din Tab-ul Design."
+"Please upload  an image for ""Banner on Home Screen"" field from Design Tab.","Va rugam, incarcati o imagine pentru campul ""Banner pe pagina principala "" din Tab-ul Design."
+"Please upload  an image for ""Logo in Header"" field from Design Tab.","Va rugam, incarcati o imagine pentru campul ""Sigla in Antet"" din Tab-ul Design."
+Please use letters only (a-z or A-Z) in this field.,"Va rugam, utilizati numai litere (a-z or A-Z) in acest camp."
+Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.,"Va rugam, utilizati numai litere in acest camp. Va rugam, evitati spatiile sau alte caractere cum ar fi punctele sau virgulele"
+Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.,"Va rugam, utilizati numai litere (a-z or A-Z) sau cifre (0-9) in acest camp. Spatiile sau alte caractere nu sunt permise."
+Prefix,Prefix
+Preset Theme,Preseteaza Tema
+Preview,Previzualizare
+Price,Pret
+Price Font Color,Culoare Font Pret
+Primary Color,Culoare Primara
+Primary Font Color,Culoare Font Primara
+Problem changing or sending password.,A aparut o problema la modificarea sau trimiterea parolei.
+Product Name3 ,Nume3 Produs
+Product Name3 1,Nume3 1 Produs
+Product Name3 2,Name3 2 Produs
+Product is unavailable.,Produsul nu este disponibil.
+Product was not specified.,Produsul nu a fost specificat.
+Product(s) currently out of stock.,Produsul(Produsele) nu sunt in stoc momentan
+Purchase Order Number,Numar de achizitionare comanda
+Push Notification,Notificare Push
+"Push Notifications allow you to send messages directly to the people who have installed your app on their device. Send messages to your full audience even when your app is closed. Push Notifications are one of the best ways to keep your app active by delivering valuable content directly to your customers. Learn more about Push Notifications - <a href=""%1$s"" target=""_blank"">%1$s</a>","Notificarile Push va permit sa trimiteti mesaje direct catre persoanele care au instalat aplicatia dumneavoastra pe dispozitivul lor. Trimiteti mesaje catre tot publicul dumneavoastra chiar si atunci cand aplicatia dumneavoastra este inchisa. Notificarile sunt unele din cele mai bune modalitati de a mentine aplicatia dumneavoastra activa prin livrarea continutului de valoare direct catre clientii dumneavoastraAflati mai multe despre Notificarile Push- <a href=""%1$s"" target=""_blank"">%1$s</a>"
+Push Title,Titlu Push
+Push message,Mesaj Push
+Push title,Titlu Push
+Queue Date,Data lista de asteptare
+Queue Message,Mesaj lista de asteptare
+Queue does not exist.,Lista de asteptare nu exista.
+Queue is allowed only for applications with enabled Push Notification.,Lista de asteptare este permisa numai pentru aplicatiile cu Notificari Push activate.
+Quote instance is required.,Instanta ofertei este necesara.
+Recipient Information,Informatii Destinatar
+Recommended size 1024px x 344px. Note: Image size affects the performance of your app.,Rezolutia recomandata 1024px x 344px. Nota: Rezolutia imaginii afecteaza performantele aplicatiei dumneavoastra.
+Recommended size 1024px x 704px. Note: Image size affects the performance of your app.,Rezolutia recomandata 1024px x 704px. Nota: Rezolutia imaginii afecteaza performantele aplicatiei dumneavoastra.
+Recommended size 320px x 230px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance.,Rezolutia recomandata 320px x 230px. Nota: Rezolutia imaginii afecteaza performantele aplicatiei dumneavoastra. Pastrati rezolutia imaginii dumneavoastra sub 50 KB pentru performante optime.
+Recommended size 320px x 258px. Note: Image size affects the performance of your app. Keep your image size below 50 KB for optimal performance.,Rezolutia recomandata 320px x 258px. Nota: Rezolutia imaginii afecteaza performantele aplicatiei dumneavoastra. Pastrati rezolutia imaginii dumneavoastra sub 50 KB pentru performante optime.
+Recommended size 320px x 367px. Note: Image size affects the performance of your app. Keep your image size below 75 KB for optimal performance.,Rezolutia recomandata 320px x 367px. Nota: Rezolutia imaginii afecteaza performantele aplicatiei dumneavoastra. Pastrati rezolutia imaginii dumneavoastra sub 75 KB pentru performante optime.
+Recommended size 35px x 35px.,Rezolutia recomandata 35px x 35px.
+Recommended size 768px x 294px. Note: Image size affects the performance of your app.,Rezolutia recomandata 768px x 294px. Nota: Rezolutia imaginii afecteaza performantele aplicatiei dumneavoastra. 
+Recommended size 768px x 960px. Note: Image size affects the performance of your app.,Rezolutia recomandata 768px x 960px. Nota: Rezolutia imaginii afecteaza performantele aplicatiei dumneavoastra.
+Redemption functionality is disabled.,Functionalitatea compensarii este dezacticata.
+Refunded,Rambursat
+Regular and confirmation passwords must be equal,Parolele normale si cele de confirmare trebuie sa fie egale
+Related Product Background Color,Culoare Fundal Produse Asociate 
+Request internal error.,Eroare interna solicitare
+Reset theme to default,Reseteaza tema la standard
+Resubmission Key,Cod Retrimitere
+Resubmit App,Retrimite aplicatia
+Review,Recenzie
+"Rich Push allows you to create and send engaging experiences by adding HTML and other rich media components to your push notifications. Moving beyond alerts and badge updates, Rich Push takes users into the app while displaying content in a customizable WebKit view. Create branded messages that engage your users with new content and information, all without having to update your app. Learn more about Rich Push - <a href=""%1$s"" target=""_blank"">%1$s</a>","Rich Push va permite sa creati si sa trimiteti experiente captivante prin adaugarea de HTML si a altor componente media performante la Notificarile Push. Trecand peste alerte si actualizari badge, Rich Push transporta utilizatorii in aplicatie in timpul afisarii continutului intr-o vizualizare WebKit personalizabila. Creaza mesaje cu marca firmei care captiveaza utilizatorii cu continuturi noi si informatii, toate fara a fi necesar sa actualizeze aplicatia dumneavoastra. Aflati mai multe despre Rich Push - <a href=""%1$s"" target=""_blank"">%1$s</a>"
+SORT BY:,SORTEAZA DUPA:
+Save,Salveaza
+Save As,Salveaza ca
+Save Theme,Salveaza tema
+Save and Continue Edit,Salveaza si continua editarea
+Save and Submit App,Salveaza si trimite aplicatie
+Save in address book,Salveaza in Agenda
+Screens:,Pagini:
+Scroll Background Color,Culoare Fundal Lista
+Search,Cautare
+Secondary Color,Culoare secundara
+Secondary Font Color,Culoare Font secundara
+Select All,Selecteaza Toate
+Selected product is unavailable.,Produsul selectat nu este disponibil.
+Sender Information,Informatii Expeditor
+Settings,Setari
+Shipped,Livrat
+Shipping Address,Adresa livrare
+Shipping Method,Metoda livrare
+Shipping address has been set.,Adresa de livrare a fost setata.
+Shipping method has been set.,Metoda de livrare a fost setata.
+Shipping method is required,Metoda de livrare este necesara
+Shipping method successfully updated,Metoda de livrare a fost actualizata cu succes
+Shipping to this address is not possible.,Livrarea la aceasta adresa nu este posibila.
+Shop,Cumpara
+Shopping cart is empty.,Cosul de cumparaturi este gol.
+Sky Blue,Sky Blue
+Social Networking,Retele de socializare
+Some emails were not sent.,Unele e-mail-uri nu au fost trimise.
+"Sorry, no payment options are available for this order at this time.","Ne pare rau, nici o optiune de plata nu este disponibila pentru aceasta comanda momentan."
+"Sorry, no quotes are available for this order at this time.","Ne pare rau, nici o oferta nu este disponibila pentru aceasta comanda momentan."
+Specific Countries,Anumite tari
+Specified address does not exist.,Adresa specificata nu exista.
+Specified invalid app code.,Cod aplicatie specificat nevalid.
+Specified invalid data.,Date specificate nevalide.
+Specified item does not exist in wishlist.,Articolul specificat nu exista la Favorite.
+Standard Checkout,Finalizare standard
+"Standard Checkout uses the checkout methods provided by Magento. Only inline payment methods are supported. (e.g PayPal Direct,  Authorize.Net, etc.)","Finalizarea Standard foloseste metodele de finalizare asigurate de Magento. Numai metodele de plata inline sunt suportate (ex. PayPal Direct,  Authorize.Net, etc.)"
+Start Date,Data inceperii
+Start Date - Month,Data inceperii - Luna
+Start Date - Year,Data inceperii - An
+State/Province,Judet
+Status,Stare
+Store Credit payment is not being used in your shopping cart.,Plata Store Credit nu este folosita in cosul dumneavoastra de cumparaturi.
+Store View,Vitrina
+Store logo that is displayed on copyright page of app. Preferred size: 100px x 100px.,Sigla magazinului este afisata pe pagina de copyright a aplicatiei. Rezolutie recomandata: 100px x 100px.
+Store logo that is displayed on copyright page of app. Preferred size: 200px x 200px.,Sigla magazinului este afisata pe pagina de copyright a aplicatiei. Rezolutie recomandata: 200px x 200px.
+Street Address,Strada
+Street Address %s,Strada %s
+Submission,Trimitere
+Submission Fields,Campuri trimitere
+Submission History,Istoric trimitere
+Submit App,Trimite aplicatie
+"Submit App ""%s""","Trimite aplicatie ""%s"""
+Submit App failure. %s,Trimiterea aplicatiei a esuat. %s
+Submit App failure. Invalid activation key provided,Trimiterea aplicatiei a esuat. Cod activare nevalid
+Submitted,Trimis
+Subtotal (Excl. Tax),Subtotal (fara TVA)
+Subtotal (Incl. Tax),Subtotal (cu TVA inclus)
+Suffix,Sufix
+Summary of Your Review,Sumarul recenziei dumneavoastra
+T-Shirts,Tricouri
+Tabs,Tab-uri
+Tax,TVA
+Telephone,Telefon
+Tell a Friend,Spune unui prieten
+Tell a Friend is disabled.,"""Spune unui prieten"" este dezactivat."
+Tell a Friend link has been sent.,"Link-ul ""Spune unui prieten"" a fost trimis."
+Template,Sablon
+Template Content,Continut Sablon
+Template Name,Nume Sablon
+Template does not exist.,Sablonul nu exista.
+Template for new AirMail Message does not exist.,Sablonul pentru un mesaj nou prin Posta Aeriana nu exista.
+Template has been deleted.,Sablonul a fost sters.
+Text length does not satisfy specified max text range.,Lungimea textului nu satisface intervalul maxim de text specificat.
+Text length does not satisfy specified min text range.,Lungimea textului nu satisface intervalul minim de text specificat.
+Thank you for registering!,Va multumim pentru inregistrare!
+Thank you for your purchase! ,Va multumim pentru achizitionare! 
+"The Mailbox title will be shown in the More Info tab. To understand more about the title, please <a target=""_blank"" href=""http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png"">click here</a>","Titlul Casutei Postale va fi aratat in tab-ul Mai Multe Informatii. Pentru a afla mai multe despre titlu, va rugam, <a target=""_blank"" href=""http://www.magentocommerce.com/img/product/mobile/helpers/mail_box_title.png"">click aici</a>"
+The icon that appears in the Android Market. Recommended size: 512px x 512px. Maximum size: 1024 KB.,Pictograma care apare pe piata Android. Rezolutie recomandata: 512px x 512px. Rezolutie maxima: 1024 KB.
+The store credit payment has been removed from shopping cart.,Plata Store Credit a fost stearsa din cosul de cumparaturi.
+Theme configurations are successfully reset.,Configurarile Temei au fost resetate cu succes.
+Theme has been created.,Tema a fost creata.
+Theme has been delete.,Tema a fost stearsa.
+Theme label can\'t be empty,Eticheta temei nu poate fi goala
+Theme label:,Eticheta temei:
+Theme name is not set.,Numele temei nu este setat.
+There were some problems with the data.,Au fost probleme cu datele.
+This email address was not found in our records.,Aceasta adresa de e-mail nu a fost gasita in registrele noastre.
+This is a required field.,Acesta este un camp necesar.
+Title,Titlu
+Title bar,Bara Titlu
+To activate PayPal MEP payment method activate Express checkout first. ,Pentru activarea metodei de plata MEP  PayPal activati intai Finalizare Expres. 
+Token has not been set.,Jetonul nu a fost setat.
+Total incl. Tax: %1$s,Total cu TVA inclus: %1$s
+Twitter API, API Twitter
+Twitter API Key,Cod  API Twitter
+Twitter Secret Key,Cod Secret Twitter
+Unable to cancel Mobile Express Checkout.,Finalizarea Expres a Mobilului nu a putut fi anulata.
+Unable to cancel queue.,Lista de asteptare nu poate fi anulata.
+Unable to collect cart totals.,Nu se pot colecta totalurile cosului.
+Unable to delete queue.,Lista de asteptare nu poate fi stearsa.
+Unable to find an app to delete.,Aplicatia nu poate fi gasita pentru a fi stearsa.
+Unable to find template to delete.,Sablonul nu poate fi gasit pentru a fi sters.
+Unable to get shipping methods list.,Lista cu metodele de livrare nu poate fi obtinuta.
+Unable to initialize MEP Checkout.,Finalizarea MEP nu poate fi initializata.
+Unable to initialize PayPal Mobile Express Checkout.,Finalizarea Expres PayPal pentru Mobil nu poate fi initializata.
+Unable to initialize express checkout review.,Recenzia Finalizarii Expres nu poate fi initializata.
+Unable to initialize express checkout shipping method list.,Lista Metoda Livrare Finalizare Expres nu poate fi initializata.
+Unable to initialize return action.,Actiunea de returnare nu poate fi initializata.
+Unable to load addresses.,Adresa nu poate fi incarcata.
+Unable to load application form.,Formularul de aplicare nu poate fi incarcat.
+Unable to load billing address form.,Formularul adresei de facturare nu poate fi incarcat.
+Unable to load billing address.,Adresa de facturare nu poate fi incarcata.
+Unable to load categories.,Categoriile nu pot fi incarcate.
+Unable to load checkout.,Finalizarea nu poate fi incarcata.
+Unable to load order list.,Lista comenzii nu poate fi incarcata.
+Unable to load order review.,Recenzia comenzii nu poate fi incarcata.
+Unable to load product gallery.,Galeria produsului nu poate fi incarcata.
+Unable to load product info.,Informatiile produsului nu pot fi incarcate.
+Unable to load product options.,Optiunile produsului nu pot fi incarcate.
+Unable to load product review.,Recenzia produsului nu poate fi incarcata.
+Unable to load product reviews.,Recenziile produsului nu pot fi incarcate.
+Unable to load review form.,Formularul de recenzie nu poate fi incarcat.
+Unable to load search.,Cautarea nu poate fi incarcata.
+Unable to load shipping address form.,Formularul adresei de livrare nu poate fi incarcat.
+Unable to place the order.,Comanda nu poate fi plasata.
+Unable to post the review.,Recenzia nu poate fi postata.
+Unable to process preview.,Previzualizarea nu poate fi procesata.
+Unable to render a gift card account.,Contul de pe cuponul cadou nu poate fi redat.
+Unable to render an order.,Nu se poate reda o comanda.
+Unable to render the store credits.,Creditele magazinului nu pot fi redate.
+Unable to save app.,Aplicatia nu poate fi salvata.
+Unable to save message.,Mesajul nu poate fi salvat.
+Unable to save shipping address.,Adresa de livrare nu poate fi salvata.
+Unable to save shipping method.,Metoda de livrare nu poate fi salvata.
+Unable to save template.,Sablonul nu poate fi salvat.
+Unable to start MEP Checkout.,Finalizarea MEP nu poate fi pornita.
+Unable to start Mobile Express Checkout.,Finalizarea Expres a Mobilului nu poate fi pornita.
+Unable to update shipping method.,Metoda de livrare nu poate fi actualizata.
+Undefined,Nedefinit
+Unknown Error,Eroare necunoscuta
+Unknown Error.,Eroare necunoscuta.
+"Unsupported character in path: ""%s""","Caracterul din cale nu este suportat: ""%s"""
+Unsupported value type received,Tip valoare primita nu este suportata
+Update Preview,Actualizeaza Previzualizare
+"Upon receiving these credentials, please fill in the corresponding fields.","La primirea acreditarilor, va rugam, completati campurile corespunzatoare."
+Urban Airship Push Notification,Notificare Push Posta Aeriana Urban
+Use Store Credit (%s available),Foloseste Credit Magazin (%s disponibil)
+Use as my default billing address,Foloseste ca adresa mea standard de facturare
+Use as my default shipping address,Foloseste ca adresa mea standard de livrare
+View Details,Vizualizeaza detalii
+View Gallery,Vizualizeaza galerie
+Warning: All related AirMail messages will be deleted!,Atentie: Toate mesajele prin Poata Aeriana corelate vor fi sterse!
+Website is offline.,Site-ul este offline.
+Wishlist has been cleared.,Lista de Favorite a fost golita.
+Wishlist has been updated.,Lista de Favorite a fost actualizata.
+Wishlist has been updated. But there are accrued some errors while updating some items.,"Lista de Favorite a fost actualizata, dar s-au acumulat anumite erori in timpul actualizarii unor articole."
+"Wrong Ipad background image orientation has been specified: ""%s"".","Orientarea imaginii de fundal iPad specificata este incorecta: ""%s""."
+Wrong PayPal Mobile Express Checkout Token specified.,Jetonul de Finalizare Expres PayPal pentru Mobil specificat este incorect.
+Wrong device type.,Tip dispozitiv incorect.
+Wrong email format,Format e-mail incorect
+Wrong or expired Gift Card Code.,Cod Cupon Cadou incorect sau expirat.
+Wrong theme format.,Format tema incorect.
+YYYY,AAAA
+Year,An
+You are already logged in.,Sunteti deja logat.
+You can watch statistics here.,Puteti vedea statisticile aici.
+You need to enable PayPal Express Checkout first from the Payment configuration before enabling PayPal MECL.,Trebuie sa activati intai Finalizarea Expres PayPal din configuratia Plata inainte de a activa MECL PayPal.
+You will receive an order confirmation email with details of your order and a link to track its progress.,Veti primi un e-mail de confirmare a comenzii cu detalii despre comanda dumneavoastra si un link pentru a urmari progresul comenzii.
+Your current balance is:,Soldul dumneavoastra curent este:
+Your order # is: %s. ,comanda dumneavoastra # este: %s. 
+Your review has been accepted for moderation.,Recenzia dumneavoastra a fost acceptata pentru moderare.
+Zip/Postal Code,Cod postal
+\'%s\' exceeds the allowed file size: %d (bytes),\'%s\' depaseste marimea de fisier permisa: %d (bytes)
+\'%s\' height exceeds allowed value of %d px,\'%s\' inaltimea depaseste valoarea permisa de %d px
+\'%s\' is not a valid file extension. Allowed extensions: %s,\'%s\' nu este o extensie de fisier valida. Extensii acceptate: %s
+\'%s\' width exceeds allowed value of %d px,\'%s\' latimea depaseste valoarea permisa de %d px
+and,si
+each,fiecare
+iPad,iPad
+iPhone,iPhone
+ou,ou
+ver. %s,ver. %s

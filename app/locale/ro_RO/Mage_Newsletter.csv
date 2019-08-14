@@ -1,0 +1,170 @@
+ Copy, Copiaza
+Action,Actiune
+Add New Template,Adauga sablon nou
+Add to Queue,Adauga in lista de asteptare
+Allow Guest Subscription,Accepta abonare vizitatori anonimi
+An error occurred while saving your subscription.,A aparut o eroare in timpul salvarii abonarii.
+Are you sure that you want to delete this template?,Sunteti sigur ca doriti sa stergeti sablonul?
+Are you sure that you want to strip all tags?,Sunteti sigur ca doriti sa inlaturati toate etichetele?
+Back,Inapoi
+Cancel,Anuleaza
+Cancelled,Anulat
+Cannot mark as received subscriber.,Nu poate fi marcat ca abonat acceptat.
+Confirmation Email Sender,Expeditor email de confirmare
+Confirmation Email Template,Sablon email de confirmare
+Confirmation request has been sent.,Cererea de confirmare a fost trimisa.
+Convert to Plain Text,Schimba in Plain Text
+Create Newsletter Template,Creaza sablon pentru newsletter
+Customer,Client
+Customer First Name,Prenume client
+Customer Last Name,Nume client
+Customer My Account Newsletter Subscriptions,Abonamente Newsletter Contul Meu client
+Date Added,Adaugat la data
+Date Updated,Actualizat la data
+Delete,Sterge
+Delete Selected Problems,Sterge problemele selectate
+Delete Template,Sterge sablon
+Do you really want to cancel the queue?,Sunteti sigur ca doriti sa anulati lista de asteptare?
+Duplicate template code.,Duplicare cod sablon.
+Edit Newsletter,Modifica newsletter
+Edit Newsletter Template,Modifica sablon newsletter
+Edit Queue,Modifica lista de asteptare
+Edit Template,Modifica sablon
+Email,E-mail
+Enter your email address,Introduceti adresa de e-mail...
+Error Code,Cod eroare
+Error Text,Text eroare
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Accesati acest link pentru dezabonare <!-- Aceasta eticheta va redirectioneaza catre link-ul pentru dezabonare  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>"
+Guest,Vizitator Anonim
+ID,ID
+Invalid queue selected.,Lista de asteptare selectata nu este valida.
+Invalid subscription ID.,ID-ul de abonare nu este valid.
+Invalid subscription confirmation code.,Codul de confirmare al abonarii nu este valid.
+Message,Mesaj
+Need to Confirm,Necesita confirmare
+New Newsletter Template,Sablon nou de newsletter
+New Template,Sablon nou
+Newsletter,Newsletter
+Newsletter Message Preview,Previzualizare mesaj newsletter
+Newsletter Problem Reports,Rapoarte probleme newsletter
+Newsletter Queue,Lista asteptare Newsletter
+Newsletter Section,Sectiunea Newsletter
+Newsletter Sign-up:,Abonare Newsletter:
+Newsletter Styles,Stiluri Newsletter
+Newsletter Subscribers,Abonati Newsletter
+Newsletter Subscription,Abonament Newsletter
+Newsletter Subscription Form Before,Formular initial pentru abonarea la Newsletter
+Newsletter Subscriptions,Abonamente Newsletter
+Newsletter Templates,Sabloane Newsletter
+Newsletter subscription confirmation,Confirmarea abonarii la newsletter
+Newsletter subscription success,Abonare la newsletter reusita
+Newsletter unsubscription success,Dezabonare de la newsletter reusita
+No Templates Found,Nu a fost gasit nici un sablon.
+No problems found.,Nu a fost gasita nici o problema.
+No subscribers selected.,Nici un abonat nu a fost selectat.
+Not Activated,Inactiv
+Not Sent,Netrimis
+Pause,Pauza
+Paused,In pauza
+Please enter a valid email address.,"Va rugam, introduceti o adresa de e-mail valida."
+Please enter new template name,"Va rugam, introduceti numele noului sablon."
+Please refer to exeption.log,Va rugam sa va adresati la exeption.log
+Please select subscriber(s),Va rugam alegeti abonat(i)
+Preview,Previzualizeaza
+Preview Template,Previualizeaza sablon
+Processed,Procesat
+Queue Date Start,Data de inceput a listei de asteptare
+Queue Finish,Finalul listei de asteptare
+Queue Information,Informatii lista de asteptare
+Queue Newsletter...,Lista de asteptare Newsletter...
+Queue Start,Porneste lista de asteptare
+Queue Subject,Subiect lista de asteptare
+Recipients,Destinatari
+Reset,Resetare
+Resume,Continua 
+Return HTML Version,Return HTML Version
+Save As,Salveaza ca
+Save Newsletter,Salveaza newsletter
+Save Template,Salveaza sablon
+Save and Resume,Salveaza si continua
+Selected problem subscribers have been unsubscribed.,Abonatii problema selectati au fost dezabonati.
+Selected problems have been deleted.,Problemele selectate au fost sterse.
+Sender,Expeditor
+Sender Email,E-mail expeditor
+Sender Name,Nume expeditor
+Sending,Se trimite
+Sent,Trimis
+Sign Up for Our Newsletter:,Abonati-va la  Newsletter-ul nostru:
+Sign up for our newsletter,Abonati-va la  Newsletter-ul nostru
+"Sorry, but administrator denied subscription for guests. Please <a href=""%s"">register</a>.","Ne pare rau, dar administratorul a interzis abonarea pentru vizitatorii anonimi. Va rugam, <a href=""%s"">inregistrati-va</a>."
+Start,Start
+Status,Status
+Store,Magazin
+Store View,Vitrina
+Subject,Subiect
+Submit,Trimite
+Subscribe,Aboneaza-te
+Subscribed,Abonat
+Subscriber,Abonat
+Subscribers,Abonati
+Subscribers From,Abonati de la
+Subscription Options,Optiuni abonare
+Success Email Sender,Expeditor email succes
+Success Email Template,Sablon email succes
+Template Content,Continut sablon
+Template Information,Informatii sablon
+Template Name,Nume sablon
+Template Styles,Stiluri sablon
+Template Subject,Subiect sablon
+Template Type,Tip sablon
+Thank you for your subscription.,Va multumim pentru abonare.
+The subscription has been removed.,Abonarea a fost stearsa.
+The subscription has been saved.,Abonarea a fost salvata.
+There was a problem with the subscription.,A aparut o problema cu abonarea.
+There was a problem with the subscription: %s,Exista o problema cu abonarea: %s
+There was a problem with the un-subscription.,Exista o problema cu dezabonarea.
+This email address is already assigned to another user.,Aceasta adresa de e-mail este deja alocata altui utilizator
+Type,Tip
+Unconfirmed,Neconfirmat
+Unsubscribe,Dezabonare
+Unsubscribe Selected,Dezaboneaza pe selectati
+Unsubscribed,Dezabonat
+Unsubscription Email Sender,Expeditor e-mail dezabonare
+Unsubscription Email Template,Sablon e-mail dezabonare
+View Newsletter,Vizualizare newsletter
+Website,Site
+You have been unsubscribed.,Ati fost dezabonat.
+Your subscription has been confirmed.,Abonarea a fost confirmata.
+The subscription was successfully saved,Abonarea a fost salvata cu succes.
+Your subscription was successfully confirmed,Abonarea a fost confirmata cu succes
+Subcribed,Abonat
+Selected problem subscribers successfully unsubscribed,Abonatii problema selectati au fost dezabonati cu succes.
+Sign up for our newsletter:,Aboneaza-te la newsletter:
+You have been successfully unsubscribed.,Ai fost dezabonat cu succes.
+Cannot mark as received subscriber,Nu poate fi marcat ca abonat acceptat.
+Confirmation request has been sent,Cererea de confirmare a fost trimisa
+Invalid subscription confirmation code,Codul de confirmare al abonarii nu este valid.
+Duplicate of template code,Duplicare cod sablon.
+Unsubcribed,Dezabonat
+There was a problem with the subscription,A aparut o problema cu abonarea.
+There was an error while saving your subscription,A aparut o eroare in timpul salvarii abonarii.
+Form was filled incorrectly,Formular completat gresit
+Invalid subscription ID,ID abonare nevalid
+Invalid subscriber ID,ID abonat nevalid
+Thank you for your subscription,Va multumim pentru abonare
+Not activated,Inactiv
+Newsletter Sign-up,Abonare Newsletter
+No problems found,Nu a fost gasita nici o problema.
+No subscribers selected,Nici un abonat nu a fost selectat.
+Cannot save your subscription: %s,Abonarea nu poate fi salvata: %s
+Cannot delete subscriber,Abonatul nu poate fi sters.
+Cannot delete template,Sablonul nu poate fi sters.
+Customer Lastname,Nume client
+Customer Firstname,Prenume client
+Selected problems successfully deleted,Problemele selectate au fost sterse cu succes.
+Queue Newsletter,Lista de asteptare Newsletter
+Invalid queue selected,Lista de asteptare selectata nu este valida. 
+Return Html Version,Return Html Version
+Save And Resume,Salveaza si continua
+Toggle Editor,Schimba editor
+Sign me up,Aboneaza-ma

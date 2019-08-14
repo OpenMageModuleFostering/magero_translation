@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Magero_Translation",
+    "type": "magento-module",
+    "license": "eula",
+    "homepage": "",
+    "description": "Traducere completa in limba romana pentru Magento 1.7.0.2 si versiuni mai vechi",
+    "authors": [
+    {
+        "name": "Magento Romania",
+        "email": "mage.experts@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

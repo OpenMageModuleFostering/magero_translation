@@ -1,0 +1,79 @@
+Active,Activ
+Add Attribute Mapping,Adauga Mapare Atribut
+Add New Attribute,Adauga Atribut Nou
+Add to Google Base,Adauga la Google Base
+Are you sure?,Sunteti sigur?
+Attribute,Atribut
+Attribute Set,Set Atribute
+Attribute Set and Item Type,Tip Articol si Set Atribute
+Attributes,Atribute
+Attributes Mapping,Mapare Atribute
+Attributes Set,Set Atribute
+AuthSub,AuthSub
+Available Products,Produse disponibile
+Base Currency should be set to %s for %s in system configuration. Otherwise item prices won't be correct in Google Base.,Valuta de baza ar trebui setata la %s pentru %s in configuratia sistemului. Altfel preturile articolelor nu vor fi corecte in Google Base.
+Cannot update Google Base Item for Store '%s',Articol Google Base nu poate fi actualizat pentru magazin '%s'
+Captcha confirmation error: %s,Eroare confirmare Captcha: %s
+Captcha has been confirmed.,Captcha a fost confirmat.
+Catalog,Catalog
+Clicks,Click-uri
+ClientLogin,Logare clienti
+Confirm,Confirmare
+Current Mapping will be reloaded. Continue?,Maparea curenta va fi reincarcata. Continuati?
+"Custom attribute, no mapping","Atribut standard, fara mapare"
+Delete,Sterge
+Delete Mapping,Sterge Mapare
+Edit Item Type,Editeaza Tip Articol
+"Edit Item Type ""%s""","Editeaza Tip Articol ""%s"""
+Error: %s,Eroare: %s
+Expires,Expira
+Google,Google
+Google Base,Google Base
+Google Base Attribute,Atribut Google Base
+Google Base ID,ID Google Base
+Google Base Item Type,Tip Articol Google Base
+Google Base Item type,Tip Articol Google Base
+Google Base Items,Articole Google Base
+Google base,Google Base
+Hide,Ascunde
+Hosted,Gazduit
+Hosted or Google,Gazduit sau Google
+Impr.,Impr.
+Invalid Product Model for Google Base Item,Model produs nevalid pentru Articol Google Base
+Item Type was deleted,Tipul articolului a fost sters
+Item Types,Tipuri Articol
+Item model is not specified to delete Google Base entry.,Nu este specificat modelul articolului pentru a sterge intrarea din Google Base.
+Items,Articole
+Manage Attribute Mapping,Administreaza Mapare Atribut
+Manage Attributes,Administreaza Atribute
+Manage Items,Administreaza Articole
+New Item Type,Tip Articol Nou
+New ItemType,Tip Articol Nou
+No,Nu
+No items were deleted from Google Base,Nici un articol nu a fost sters din Google Base
+No items were published,Nici un articol nu a fost publicat
+No items were saved as inactive items,Nici un articol nu a fost salvat ca fiind inactiv
+No products were added to Google Base,Nici un produs nu a fost adaugat la Google Base
+Object model is not specified to save Google Base entry.,Modelul obiectului nu a fost speificat pentru salvarea intrarii din Google Base.
+"Please, select Attribute Set and Google Item Type to load attributes","Va rugam, selectati Setul de Atribute si Tipul Articolului Google pentru a incarca atribute"
+Product Name,Nume produs
+Publish,Publicare
+Published,Publicat
+Remove,Sterge
+Save Mapping,Salveaza mapare
+Session expired during export. Please revise exported products and repeat the process if necessary.,"Sesiunea a expirat in timpul exportului.Va rugam, revizuiti produsele exportate si repetati procesul daca este necesar."
+Synchronize,Sincronizeaza
+Target Country,Tara Tinta
+The item type has been saved.,Tipul Articolului a fost salvat.
+This action will update items statistics and remove the items which are not available in Google Base. Continue?,Aceasta actiune va actualiza statisticile articolelor si va sterge articolele care nu sunt disponibile in Google Base. Continuati?
+Total of %d items(s) have been deleted; total of %d items(s) have been updated.,Un total de %d articol(e) au fost sterse
+Total of %d items(s) have been published.,Un total de %d articol(e) au fost publicate.
+Total of %d items(s) have been removed from Google Base.,Un total de %d articol(e) au fost sterse din Google Base.
+Total of %d items(s) have been saved as inactive items.,Un total de%d Articol(e) au fost salvate ca fiind inactive.
+Total of %d product(s) have been added to Google Base.,Un total de %d produs(e) au fost adaugate la Google Base.
+"Unable to connect to Google Base. Please, check Account settings in configuration.","Nu se poate face conectarea la Google Base. Va rugam, verificati setarile contului in Configurare."
+Unable to select a Store View.,Nu se poate selecta o Vitrina.
+View Available Products,Vizualizeaza Produse Disponibile
+View Item in Google Base,Vizualizeaza Articol in Google Base
+Yes,Da
+total of %d items(s) have been updated.,Un total de %d articol(e) au fost actualizate

@@ -1,0 +1,113 @@
+%d Review(s),%d Recenzii
+%s Review(s),%s Recenzii
+(Posted on %s),(Postat la data %s)
+1 star,1 stea
+2 stars,2 stele
+3 stars,3 stele
+4 stars,4 stele
+5 stars,5 stele
+"<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>","<a href=""%1$s"" onclick=""this.target=\'blank\'"">%2$s %3$s</a> <a href=""mailto:%4$s"">(%4$s)</a>"
+Add New Review,Adauga recenzie
+Add Your Review,Spune-ti parerea
+Administrator,Administrator
+All Reviews,Toate recenziile
+All Reviews of Customer `%s`,Toate recenziile clientului `%s`
+All Reviews of Product `%s`,Toate recenziile produsului `%s`
+Allow Guests to Write Reviews,Permite vizitatorilor sa scrie recenzii
+Are you sure you want to do this?,Esti sigur ca vrei sa faci acest lucru?
+Are you sure?,Esti sigur?
+Average Customer Rating,Evaluare medie
+Average Customer Rating:,Evaluare medie:
+Back,Inapoi
+Back to Main Product Info,Inapoi la Informatii produs
+Back to My Reviews,Inapoi la Recenziile mele
+Back to Product Reviews,Inapoi la Recenzii produs
+Be the first to review this product,Fii primul care evalueaza acest produs.
+Catalog Product Review View,Vizualizare recenzie produs catalog
+Catalog Product Reviews List,Lista recenzii produs catalog
+Created On,Creat la
+Customer,Client
+Customer My Account Product Reviews,Client Contul Meu Recenzii Produse
+Customer My Account Review Details,Client Contul Meu Detalii Recenzii 
+Customer Reviews,Recenzii client
+Customers Reviews,Recenzii clienti
+Delete,Sterge
+Delete Review,Sterge recenzie
+Detailed Rating,Evaluare detaliata
+Edit Review '%s',Modifica recenzie '%s'
+Guest,Vizitator
+How do you rate this product?,Cum evaluezi acest produs?
+ID,ID
+Manage Ratings,Administrare Evaluari
+My Product Reviews,Recenziile mele
+My Recent Reviews,Recenziile mele recente
+Name,Nume
+Name in Store,Nume in Magazin
+New Review,Recenzie noua
+Nickname,Nume
+Nickname can\'t be empty,Aliasul nu poate fi gol
+"Only registered users can write reviews. Please, <a href=""%s"">log in</a> or <a href=""%s"">register</a>","Numai utilizatorii inregistrati pot scrie recenzii. Va rugam sa va <a href=""%s"">Logati</a> sau sa va <a href=""%s"">Inregistrati</a>"
+Pending Reviews,Pareri in asteptare
+Pending Reviews of Customer `%s`,Recenziile in asteptare ale clientului `%s`
+Please select a product,Alege un produs
+Please select one of each of the ratings above,Alege dintre evaluarile de mai sus
+Posted By,Postat de
+Price,Pret
+Product,Produs
+Product Name,Nume produs
+Product Rating,Evaluare produs
+Product Rating:,Evaluare produs:
+Product Review (submitted on %s):,Recenzie produs (pe data %s):
+Product Reviews,Recenzii produs
+Product SKU,Cod produs
+Products Reviews,Recenzii produse
+Qty,Cantitate
+Rating:,Evaluare:
+Review,Recenzie
+Review (submitted on %s):,Recenzie (pe data %s):
+Review Details,Detalii recenzie
+Review Form Fields Before,Review Form Fields Before
+Review by <span>%s</span>,Recenzie de <span>%s</span>
+Review can\'t be empty,Recenzia nu poate fi goala
+Review summary can\'t be empty,Sumarul recenziei nu poate fi gol
+Reviews and Ratings,Recenzii si Evaluari
+SKU,Cod produs
+Save Review,Salveaza recenzie
+Status,Stare
+Submit Review,Trimite recenzie
+Summary Rating,Sumar evaluare
+Summary of Review,Sumar recenzie
+Summary of Your Review,Sumarul recenziei tale
+Title,Titlu
+Type,Tip
+Unable to post the review.,Recenzia nu poate fi postata
+Update Status,Actualizeaza stare
+View All Reviews,Vezi toate recenziile
+View Details,Vezi detalii
+Visible In,Vizibil In
+Websites,Site-uri
+Write Your Own Review,Scrie propria ta recenzie
+You have submitted no reviews.,Nu ai adaugat nici o recenzie.
+You're reviewing:,Faceti recenzie la:
+Your Rating:,Evaluare ta:
+Your Review (submitted on %s):,Recenzia ta (din %s):
+Your review has been accepted for moderation.,Recenzia ta a fost acceptata pentru moderare.
+Update status,Actualizeaza stare
+Add Items to Cart,Adauga articolele in cos
+Add to Cart,Adauga in cos
+Add to Compare,Adauga la comparatie
+Add to Wishlist,Adauga la favorite
+Zoom In,Marire
+Buy %s for %s,Cumpara %s pentru %s fiecare
+Zoom Out,Micsorare
+Availability: In stock.,Disponibilitate: In stoc.
+Availability: Out of stock.,Disponibilitate: Stoc epuizat.
+You're reviewing: %s,Faci recenzie la: %s
+"Unable to post review. Please, try again later.",Nu s-a putut adauga recenzia. Incearca mai tarziu.
+Name In Store,Nume in magazin
+OR,SAU
+Review by %s,Recenzia lui %s
+Your review has been accepted for moderation,Recenzia ta a fost acceptata pentru moderare.
+Summary of review,Sumar recenzie
+Store Views,Vitrine
+Visible In,Vizibilitate In

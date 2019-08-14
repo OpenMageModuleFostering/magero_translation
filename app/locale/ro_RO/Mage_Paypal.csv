@@ -1,0 +1,563 @@
+-OR-,-SAU-
+2-pixel perimeter around the header space.,Perimetru de 2-pixeli in jurul antetului
+3D Secure,3D Secure
+3D Secure Card Validation,Validare card 3D Secure
+"3D Secure validation is required for Maestro cards. Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Pentru cardurile Maestro este necesara validarea 3D Secure. Acceptarea cardurilor American Express necesita un acord aditional. Afla mai multe pe <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>."
+"<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">Incepe acceptarea platilor via PayPal!</a>"
+A value is required for live mode. Refer to your CardinalCommerce agreement.,O valoare este necesara pentru modul live. Adresati-va acordului CardinalCommerce.
+ACH Deposit (Hold for Dispute or Other Investigation),Suma depusa ACH (Tineti apasat pentru dispute si alte investigatii)
+ACH Deposit (Reversal),Suma depusa ACH (Inversare)
+ACH Funding for Funds Recovery from Account Balance,Sponsorizare ACH pentru recuperarea fondurilor din soldul contului
+ACH Withdrawal,Retragere ACH
+API Authentication Methods,Metode de autentificare API
+API Certificate,Cerificat API
+API Password,Parola API
+API Signature,Semnatura API
+API Username,Utilizator API
+API Uses Proxy,API foloseste Proxy
+Ability for buyer to purchase without PayPal account.,Posibilitatea cumparatorului de a cumpara fara cont PayPal.
+Accept credit card and PayPal payments securely.,Accepta plata in siguranta de pe carduri de credit si PayPal.
+"Accept credit cards, debit cards and PayPal payments securely.","Accepta plata in siguranta de pe carduri de credit, carduri de debit si PayPal."
+Accept payments in your shopping cart. PayPal will process your card payments through the Payflow Gateway.,Accepta plati din cosul de cumparatori. PayPal va procesa platile de pe card prin  gatway-ul Payflow.
+Accept payments with a PCI compliant checkout that keeps customers on your site.,Accepta platile cu o finalizare compatibila PCI care pastreaza clientii pe site-ul dumneavoastra.
+Accept payments with a PCI-compliant checkout that keeps customers on your site.,Accepta platile cu o finalizare compatibila PCI care pastreaza clientii pe site-ul dumneavoastra.
+Accept payments with a completely customizable checkout page.,Accepta platile cu o pagina de finalizare complet personalizabila.
+Accept payments with a completely customizable checkout.,Accepta platile cu o finalizare complet personalizabila.
+Acceptance Mark,Semn de aprobare
+Acceptance Mark Image,Imagine semn de aprobare
+"Account-to-Account Payment, initiated by PayPal","Plata de la cont la cont, initiata de PayPal"
+Add PayPal as an additional payment method to your checkout page to increase your sales.,Adauga PayPal la pagina de finalizare ca o metoda de plata aditionala pentru a va mari vanzarile.
+Add PayPal as an additional payment method to your checkout page.,Adauga PayPal la pagina de finalizare ca o metoda de plata aditionala.
+Add another payment method to your existing solution or as a stand-alone option.,Adauga o alta metoda de plata solutiei prezente sau ca o optiune independenta.
+Additional Options,Optiuni aditionale
+Address,Adresa
+Address Verification System Response,Raspuns sistem varificare adresa
+Advanced Settings,Setari avansate
+All the address information matched,Toate informatiile adreselor coincid
+Allow in Billing Agreement Wizard,Admite in acordul de facturare
+"Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Valori admise: ""paypal"", ""primary"" (standard), your_custom_value (stilul personalizat al paginii de plata de pe profilul comerciantului)."
+Allowed Credit Card Types,Carti de credit permise
+Also affects mini-shopping cart.,Afecteaza de asemenea mini-cos de cumparaturi.
+Ask Customer,Intreaba client
+"Attempted Authentication, Bad Result","Tentativa de autentificare, rezultat nefavorabil"
+"Attempted Authentication, Good Result","Tentativa de autentificare, rezultat favorabil"
+Auction Payment other than through eBay,Plata licitatie altfel decat prin eBay
+"Authenticated, Bad Result","Autentificat, rezultat nefavorabil"
+"Authenticated, Good Result","Autentificat, rezultat favorabil"
+Authorization,Autorizatie
+Authorization Honor Period (days),Perioada de onoare a autorizatiei (zile)
+Authorization transaction is required to void.,Tranzactia de autorizare este necesara pentru anulare.
+Authorized amount of %s.,A fost autorizata suma de %s.
+Authorizing amount of %s is pending approval on gateway.,Autorizarea sumei de %s este in asteptarea aprobarii de la gateway.
+Auto,Auto
+AutoSweep,AutoSweep
+Available Balance,Sold disponibil
+Balance Manager Account Bonus,Bonus cont administrator sold
+Basic Settings - PayPal Express Checkout,Setari de baza - PayPal Express Checkout
+Basic Settings - PayPal Integral Evolution,Setari de baza - PayPal Integral Evolution
+Basic Settings - PayPal Pasarela integral,Setari de baza - PayPal Pasarela integral
+Basic Settings - PayPal Payflow Link,Setari de baza - PayPal Payflow Link
+Basic Settings - PayPal Payflow Pro,Setari de baza - PayPal Payflow Pro
+Basic Settings - PayPal Payments Advanced,Setari de baza - PayPal Payments Advanced
+Basic Settings - PayPal Payments Pro,Setari de baza - PayPal Payments Pro
+Basic Settings - PayPal Payments Pro Hosted Solution,Setari de baza - PayPal Payments Pro Hosted Solution
+Basic Settings - PayPal Payments Standard,Setari de baza - PayPal Payments Standard
+Basic Settings - PayPal Pro,Setari de baza - PayPal Pro
+Basic Settings - PayPal Website Payments Plus,Setari de baza - PayPal Website Payments Plus
+Basic Settings - PayPal Website Payments Pro,Setari de baza - PayPal Website Payments Pro
+Basic Settings - PayPal Website Payments Pro Hosted Solution,Setari de baza - PayPal Website Payments Pro Hosted Solution
+Basic Settings - PayPal Website Payments Pro Payflow Edition,Setari de baza - PayPal Website Payments Pro Payflow Edition
+Basic Settings - PayPal Website Payments Standard,Setari de baza - PayPal Website Payments Standard
+Billing Address,Adresa de facturare
+Billing Agreement Signup,Semnare acord de facturare
+Bonus for first ACH Use,Bonus pentru prima utilizare ACH
+Both section above must be complete. ,Ambele sectiuni de mai sus trebuie sa fie complete
+Buyer Credit Payment,Plata credit cumparator
+Buyer\'s Tax ID,ID taxa cumparator
+Buyer\'s Tax ID Type,Tip ID taxa cumparator
+"By default it is ""reports.paypal.com"".","Standard este ""reports.paypal.com""."
+CNPJ,CNPJ
+CPF,CPF
+CVV Entry is Editable,Intrarea CVV se poate edita
+CVV2 Check Result by PayPal,Verifica rezultat CVV2 prin PayPal
+Can not send new order email.,E-mail comanda noua nu poate fi trimis.
+Cannot create target file for reading reports.,Nu se poate crea un filier tinta pentru citirea rapoartelor.
+Centinel API URL,Centinel API URL
+Centinel Custom API URL,Centinel Custom API URL
+Charge-off,Charge-off
+Chargeback,Chargeback
+Chargeback by customer.,Chargeback by customer.
+Checkout with PayPal,Finalizeaza cu PayPal
+Choose a secure bundled payment solution for your business.,Alege o solutie sigura de plata la pachet pentru afacerea dumneavoastra.
+City,Oras
+Click here if you are not redirected within 10 seconds...,Faceti click aici daca nu sunteti redirectionat in 10 secunde...
+Close,Inchide
+Company,Firma
+Completion Date,Data completarii
+Configure,Configureaza
+Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site.,Conecteaza contul tau de comerciant un gateway compatibil PCI care permite plata clientilor fara sa paraseasca site-ul.
+Connect your merchant account with a fully customizable gateway that lets customers pay without leaving your site.,Conecteaza contul tau de comerciant un gateway complet personalizabil care permite plata clientilor fara sa paraseasca site-ul.
+Connecting to PayPal SFTP server to fetch new reports. Are you sure you want to proceed?,Se conecteaza la serverul SFTP PayPal pentru a recupera rapoarte. Sunteti sigur ca vreti sa continuati?
+Continue,Continua
+Countries Payment Applicable From,Tarile din care se poate face plata
+Country,Tara
+Coupon Redemption,Compensare cupon
+Credit,Credit
+Credit Card Settings,Setari card credit
+Currency Conversion required to cover negative balance,Schimb valutar necesar pentru acoperirea soldului negativ
+Custom,Personalizat
+Custom Endpoint Hostname or IP-Address,Adresa IP sau hostname final personalizat
+Custom Path,Cale personalizata
+Customer Information,Informatii client
+Customer complaint.,Reclamatie client
+Customer did not include a confirmed address.,Clientul nu a inclus o adresa confirmata.
+Customer triggered a money-back guarantee.,Clientul a declansat o garantie de rambursare.
+Daily,Zilnic
+Debit,Debit
+Debit Card Cash Back,Debit Card Cash Back
+Debit Card Transaction,Tranzactie card debit
+Debit or Credit,Credit sau Debit
+Debug Mode,Mod depanare
+Direct Payment API,API plata directa
+Discount,Reducere
+Display Express Checkout in the Payment Information step,Afiseaza finalizare expres in pasul Informatii Plata
+Displays on catalog pages and homepage.,Afisari pe paginile catralogului si pagina principala.
+Don't have a PayPal account? Simply enter your email address.,Nu aveti cont PayPal? Doar introduceti adresa de e-mail.
+Dynamic,Dinamic
+EFT Funding (German banking),Sponsorizari EFT (German banking)
+Edit Shopping Cart,Modifica cos
+Email Address,Adresa e-mail
+Email Associated with PayPal Merchant Account,E-mail asociat cu contul de comerciant PayPal
+Email Associated with PayPal Merchant Account (Optional),E-mail asociat cu contul de comerciant PayPal (Optional)
+Enable Automatic Fetching,Activeaza recuperare automata
+Enable Express Checkout,Activeaza Express Checkout
+Enable PayPal Guest Checkout,Activeaza PayPal Guest Checkout
+Enable Payflow Link,Activeaza Payflow Link
+Enable SSL verification,Activeaza verificarea SSL
+Enable this Solution,Activeaza aceasta solutie
+Enabled,Activat
+Event,Eveniment
+Event Code,Cod eveniment
+Every 10 days,La fiecare 10 zile
+Every 14 days,La fiecare 14 zile
+Every 3 days,La fiecare 3 zile
+Every 30 days,La fiecare 30 zile
+Every 40 days,La fiecare 40 zile
+Every 7 days,La fiecare 7 zile
+Exact Match. Address and Postal Code. International,Potrivire perfecta. Adresa si codul postal. International
+Exact Match. Address and Postal Code. UK-specific,Potrivire perfecta. Adresa si codul postal. UK-specific
+Exact Match. Address and nine-digit ZIP code,Potrivire perfecta. Adresa si codul postal de 9 cifre
+Express Checkout,Express Checkout
+Express Checkout APIs,Api-uri Express Checkout
+Express Checkout and Order have been canceled.,Comanda si Express Checkout au fost anulate.
+Express Checkout has been canceled.,Express Checkout a fost anulat.
+Failed to fetch reports from '%s@%s'.,Recuperarea rapoartelor de la '%s@%s' a esuat.
+Fax,Fax
+Fee Amount,Suma tarif
+Fee Debit or Credit,Tarif Credit sau Debit 
+Fee Reversal,Rambursare tarif
+Fee: Foreign ACH Withdrawal,Tarif: Retragere ACH strain
+Fee: Mass Pay Request,Tarif: Cerere de plata in masa
+Fee: Web Site Payments Pro Account Monthly,Tarif: Cont lunar site plati Pro
+Fee: WorldLink Check Withdrawal,Tarif: Retragere cec WorldLink
+Fetch,Recupereaza
+Fetch Updates,Recupereaza actualizare
+Fetched %s report rows from '%s@%s'.,Au fost recuperate %s randuri de raport din '%s@%s'.
+For Virtual Quotes Only,Numai pentru oferte virtuale
+Frontend Experience Settings,Setari experienta frontend
+Funding,Sponsorizare
+General (Authorization),General (Autorizatie)
+General (Dividend),General (Dividend)
+General (Funds Transfer from PayPal Account to Another),General (Transfer fonduri de la un cont PayPal la altul)
+General (Purchase with a credit card),General (Cumpara cu card de credit)
+General Adjustment without businessrelated event,Ajustare generala fara eveniment in legatura cu afaceri
+General Currency Conversion,Schimb valutar general
+General Funding of PayPal Account ,Sponsorizare generala a contului PayPal
+General Redemption,Compensare generala
+General Withdrawal from PayPal Account,Retragere generala din contul PayPal
+General. Product no longer supported,General. Produsul nu mai este suportat
+General: Use of PayPal account for purchasing as well as receiving payments,General: Folosirea contului PayPal atat pentru cumparare cat si pentru primirea platilor
+General: Withdrawal from PayPal Account,General: Retragere din contul PayPal
+General: Withdrawal to Non-Bank Entity,General: Retragere la entitate nonbancara
+General: adjustment of a type not belonging to the other T12xx categories,General: ajustare de tip ce nu apartine celor T12xx categorii
+General: bonus of a type not belonging to the other T08xx categories,General: bonus de tip ce nu apartine celor T08xx categorii
+General: event not yet categorized,General: evenimentul nu a fost clasificat
+General: non-payment fee of a type not belonging to the other T01xx categories,General: tarif non-plata de tip ce nu apartine celor T01xx categorii
+General: received payment of a type not belonging to the other T00xx categories,General: primit plata de tip ce nu apartine celor T00xx categorii
+General: reversal of a type not belonging to the other T11xx categories,General: inversare de tip ce nu apartine celor T11xx categories
+General: temporary hold of a type not belonging to the other T15xx categories,General: asteptare temporara de tip ce nu apartine celor T15xx categorii
+Get Credentials from PayPal,Obtine acreditari de la PayPal
+Gift Certificate Payment: purchase of Gift Certificate,Plata certificat cadou: cumpara certificat cadou
+Gift Certificate Redemption,Compensare certificat cadou
+Gross Amount,Suma Brut
+Header Background Color,Culoare fundal antet
+Header Border Color,Culoare chenar antet
+Header Image URL,URL imagine antet
+Help,Ajutor
+Hidden Virtual PayPal Debit Card Transaction,Tranzactie card debit PayPal virtual ascunsa
+Hold for Dispute Investigation,Tineti apasat pentru investigarea disputei
+"IPN ""%s"".","IPN ""%s""."
+"If empty, a default value will be used. Custom URL may be provided by CardinalCommerce agreement.","Daca necompletat, o valoare standard va fi folosita. URL personalizat ar putea fi furnizat de catre acordul CardinalCommerce"
+"If not specified, Default Country from General Config will be used","Daca nespecificat, tara standard  din configurarea generala va fi folosita. "
+"If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","Daca aceasta optiune este activata, clientul isi poate schimba adresa de livrare si modalitatea de livrare pe site-ul PayPal. In mod live functioneaza numai prin protocolul HTTPS. "
+"If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Daca nu aveti utilizatori multiplii setati pe contul dumnevoastra, va rugam, reintroduceti informatiile de logare vanzator/comerciant aici."
+Impossible to issue a refund transaction because the capture transaction does not exist.,Nu se poate emite o tranzactie de rambursare deoarece tranzactia de preluare nu exista.
+Incentive,Bonus
+Initiation Date,Data initieri
+Integral Evolution,Evolutie integrala
+Invoice ID,ID factura
+Issuer Liability,Obligatiile emitentului
+"It is recommended to set this value to ""Debit or Credit Card"" per store views.","Se recomanda setarea acestei valori pe ""Card credit sau debit"" in vitrine."
+"It is recommended to set this value to ""PayPal"" per store views.","Se recomanda setarea acestei valori pe ""PayPal"" in vitrine."
+Items in Your Shopping Cart,Articole in cos
+Last Correlation ID,ID ultima corelare
+Last Transaction ID,ID ultima tranzactie
+Learn More,Citeste mai multe
+Login,Logare
+Mass Pay Payment,Plata in masa
+Matched (CVV2),Echivalat (CVV2)
+Matched (CVV2CSC),Echivalat (CVV2CSC)
+Matched Address only (no ZIP),Numai adresa echivalata (fara cod poastal)
+Matched Address only (no ZIP). International,Numai adresa echivalata (fara cod poasta). International
+Matched Postal Code only (no Address),Numai cod postal echivalat (fara adresa)
+Matched five-digit ZIP only (no Address),Numai cod postal echivalat de 5 cifre (fara adresa)
+Matched whole nine-didgit ZIP (no Address),Cod postal echivalat de 9 cifre (fara adresa)
+Merchant Account,Cont comerciant
+Merchant Country,Tara comerciant
+Merchant Liability,Obligatiile comerciantului
+Merchant Location,Locatia comerciantului
+Merchant Protection Eligibility,Eligibilitate protectie comerciant
+Merchant Referral Bonus,Bonus sesizare comerciant
+Merchant holds a non-U.S. account and does not have a withdrawal mechanism.,Comerciantul detine un cont non-S.U.A si nu are un mecanism de retragere.
+Merchant reference ID format is not supported.,Formatul ID-ului de referinta al comerciantului nu este suportat.
+Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.,Comerciantii trebuie sa aplice la PayPal pentru activarea optiunii de acord de facturare. Nu activati aceasta optiune pana cand PayPal nu confirma ca acordurile de facturare sunt active pe contul de comerciant.
+Mobile Payment (made via a mobile phone),Plata mobila (efectuata de pe un telefon mobil)
+N/A,N/A
+"N/A. Address not checked, or acquirer had no response. Service not available","N/A. Adresa nu a fost verificata, sau achizitorul nu a avut nici un raspuns. Serviciul nu este disponibil"
+N/A. Global Unavailable,N/A. Global indisponibil 
+N/A. International Unavailable,N/A. International indisponibil
+N/A. Merchant has indicated that CVV2 is not present on card,N/A. Comerciantul a indicat ca CVV2 nu este prezent pe card
+N/A. No response,N/A. Nici un raspuns
+N/A. Not allowed for MOTO (Internet/Phone) transactions,N/A. Nu este permis pentru tranzactii MOTO (Internet/Telefon)
+N/A. Not processed,N/A. Neprocesat
+N/A. Retry,N/A. Reincercati
+N/A. Service not Supported,N/A. Serviciul nu este suportat
+N/A. Service not available,N/A. Serviciul nu este disponibil
+N/A. Service not supported,N/A. Serviciul nu este suportat
+N/A. The merchant did not provide AVS information,N/A. Comerciantul nu a furnizat informatii AVS
+N/A. The merchant has not implemented CVV2 code handling,N/A. Comerciantul nu a implementat manipularea codului CVV2
+N/A. Unavailable,N/A. Indisponibil
+Negative Balance,Sold negativ
+Never,Niciodata
+No,Nu
+No Details matched,Nici un detaliu echivalat
+No Details matched. International,Nici un detaliu echivalat. International
+No Liability Shift,Nici o schimbare in obligatii
+No Logo,Nici o sigla
+No match,Nici o echivalare
+None of the address information matched,Nu a fost echivalate informatiile de adresa
+"Not sure what PayPal payment method to use? Click <a href=""%s"" target=""_blank"">here</a> to learn more.","Nu sunteti sigur ce metoda de plata PayPal sa folositi? Click <a href=""%s"" target=""_blank"">aici</a> pentru a afla mai multe."
+Note: %s,Nota: %s
+Nothing to fetch because of an empty configuration.,Nimic de recuperat din cauza unei configuratii goale.
+Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.,Observati ca PayPal poate manipula pana la 10 optiuni de livrare. Din acest motiv Magento va transfera numai primele 10 cele mai ieftine optiuni de livrare disponibile.
+Notified customer about creditmemo #%s.,Notificat clintul despre nota de credit #%s.
+Notified customer about invoice #%s.,Notificat clintul despre factura #%s.
+Now accepting PayPal (150 X 40),Acum se accepta PayPal (150 X 40)
+Now accepting PayPal (150 X 60),Acum se accepta PayPal (150 X 60)
+Number of Child Authorizations,"Numar de autorizatii ""copil"""
+Open Authorization,Autorizatie deschisa
+Order,Comanda
+Order ID,ID Comanda
+Order Valid Period (days),Perioada valida comanda (days)
+Ordered amount of %s.,Cantitatea comandata %s.
+Ordering amount of %s is pending approval on gateway.,Cantitatea conamdata %s este in asteptarea aprobarii de la gateway
+Page Background Color,Culoare fundal pagina
+Page Style,Stil pagina
+Part of the address information matched,A fost echivalata o parte a informatiei adresei
+Partner,Partener
+Pasarela integral,Pasarela integral
+Password,Parola API
+PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>,Solutii de plata PayPal All-in-Ones&nbsp;&nbsp;<i>Accepta si proceseaza platile prin card credit si PayPal.</i>
+PayPal Balance Manager function of PayPal account,Administrator sold PayPal functie a contului PayPal
+PayPal Billing Agreement Settings,Setari acord de facturare PayPal 
+PayPal Buyer Warranty Bonus,Bonus garantie cumparator PayPal
+PayPal Debit Card Cash Advance,Avans cash card debit PayPal
+PayPal Debit Card Withdrawal from ATM,Retragere de la bancomat card debit PayPal
+PayPal Express Checkout,PayPal Express Checkout
+PayPal Express Checkout Shortcut Wrapper,PayPal Express Checkout Shortcut Wrapper
+PayPal Express Checkout Token does not exist.,Jetonul de PayPal Express Checkout nu exista.
+PayPal Express Checkout is not enabled.,PayPal Express Checkout nu este activat. 
+PayPal Express Order Review Form,Formular revizuire comanda PayPal Express Checkout
+PayPal Fee Information,Informatii tarifare PayPal
+PayPal Merchant Pages Style,Stiluri pagini comerciant PayPal
+PayPal Payment Gateways,Gateway-uri de plata PayPal
+PayPal Payment Solutions,Solutii de plata PayPal 
+PayPal Pro,PayPal Pro
+PayPal Product Logo,Sigla produs PayPal 
+PayPal Protection Bonus,Bonus protectie PayPal 
+PayPal Reference ID,ID referinta PayPal
+PayPal Reference ID Type,Tip ID referinta PayPal
+PayPal Settlement Reports,Rapoarte intelegeri PayPal 
+PayPal certificate does not exist.,Certificatul PayPal nu exista.
+PayPal certificate file is empty.,Fisierul certificatului PayPal este gol.
+"PayPal does not support processing orders with zero amount. To complete your purchase, proceed to the standard checkout process.","PayPal nu suporta procesarea comenzilor cu cantitate 0. Pentru a completa achizitionarea, mergeti la procesul standard de finalizare."
+PayPal gateway has rejected request. %s,Gateway-ul PayPal a refuzat cererea. %s
+PayPal recommends that you set up an additional User on your account at manager.paypal.com,PayPal recomanda crearea unui utilizator aditional in contul dumneavoastra pe manager.paypal.com
+"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal recomanda crearea unui utilizator aditional in contul dumneavoastra pe manager.paypal.com, in loc sa va introduceti aici numele si parola de admin.Aceasta va imbunatati siguranta si va preveni intreruperea serviciilor daca ulterior va schimbati parola. Daca nu doriti sa creati un alt utilizator aditional, puteti sa va reintroduceti datele de logare comerciant aici."
+PayPal response hasn't required fields.,Raspunsul PayPal nu are campuri necesare.
+PayPal retains reports for 45 days.,PayPal retine rapoarte  timp de 45 de zile.
+PayPal/Centinel Electronic Commerce Indicator,Indicator comercial electronic PayPal/Centinel
+PayPal/Centinel Visa Payer Authentication Service Result,Rezultat servicii de autentificare platnic Visa PayPal/Centinel
+Payer Address ID,ID Adresa platnic
+Payer Address Status,Stare adresa platnic
+Payer Email,E-mail platnic
+Payer ID,ID platnic
+Payer Status,Stare platnic
+Payer is not identified.,Platnicul nu este identificat.
+Payflow Link,Link Payflow
+Payflow Link (Includes Express Checkout),Link Payflow (Include Express Checkout)
+Payflow Pro,Payflow Pro
+Payflow Pro (Includes Express Checkout),Payflow Pro (Include Express Checkout)
+Payflow Pro and Express Checkout,Payflow Pro si Express Checkout
+Payment Action,Actiune de plata
+Payment Applicable From,Plata aplicabila de la
+Payment Refund initiated by merchant,Rambursarea platii a fost initiata de comerciant
+Payment has been declined. Please try again.,"Plata a fost refuzata. Va rugam, reincercati."
+Payment transactions disallow storing objects.,Tranzactiile de plata nu permit stocarea obiectelor.
+Payments Advanced,Plati avansate
+Payments Advanced (Includes Express Checkout),Plati avansate (Include Express Checkout)
+Payments Pro (Includes Express Checkout),Plati Pro (Include Express Checkout)
+Payments Pro Hosted Solution,Plati Pro Hosted Solution
+Payments Pro and Express Checkout,Plati Pro si Finalizare Expres
+Payments Standard,Plati Standard
+Payments by PayPal (150 X 40),Plati prin PayPal (150 X 40)
+Payments by PayPal (150 X 60),Plati prin PayPal (150 X 60)
+Pending PayPal,PayPal in asteptare
+Place Order,Plaseaza comanda
+Please agree to all the terms and conditions before placing the order.,"Va rugam, acceptati toti termenii si conditiile inainte de face o comanda."
+Please do not refresh the page until you complete payment.,"Va rugam, nu reimprospatati pagina inainte de finalizarea platii."
+Please re-enable the previously enabled payment solutions.,"Va rugam, reactivati solutiile de plata anterior activate."
+Please select a shipping method...,Alege o metoda de livrare...
+"Please select region, state or province","Va rugam, selectati o regiune, stat sau judet"
+Please update order data to get shipping methods and rates,"Va rugam, actualizati datele comenzii pentru a obtine metode de livrare si cursuri"
+Points Incentive Redemption,Compensarea punctelor bonus
+Postage Payment to either USPS or UPS,Plata tarifelor postale catre USPS sau UPS
+"Preapproved Payment (BillUser API), either sent or received","Plata preaprobata (BillUser API), fie trimisa fie primita"
+Preapproved Payment ID,ID Plata preaprobata
+Price,Pret
+Pro,Pro
+Process payments using your own internet merchant account.,Procesati plati folosind propriul dumneavoastra cont de comerciant.
+Product Name,Nume produs
+Proxy Host,Proxy Host
+Proxy Port,Proxy Port
+Qty,Cantitate
+Reauthorization,Reautorizare
+Reference Information,Informatii de referinta
+Refund issued by merchant.,Rambursare emisa de comerciant.
+Reimbursement for a chargeback.,Rambursarea platii
+Reimbursement of Chargeback,Rambursarea platii
+Report Date,Date raport
+Reports,Rapoarte
+Require CVV Entry,Necesita intrare CVV
+Require Customer's Billing Address,Ncesita adresa de facturare a clientului
+Required PayPal Settings,Setari PayPal necesare
+Required Settings,Setari necesare
+Reversal,Inversare
+Reversal of General Account Hold,Reversal of General Account Hold
+Reversal of Points Usage,Inversarea utilizarii punctelor
+Reversal of an adjustment.,Inversarea unei ajustari.
+Reversal of hold for Dispute Investigation,Reversal of hold for Dispute Investigation
+Review Order,Revizuieste comanda
+Reward Voucher Redemption,Compensarea voucher-ului recompensa
+SFTP Credentials,Acreditari SFTP
+Sale,Vanzare
+Sales,Vanzari
+Same as shipping,La fel ca livrarea
+Sandbox Credentials,Acreditari Sandbox
+Sandbox Mode,Mod Sandbox
+Schedule,Program
+Schedule description is too long.,Descrierea programului este prea lunga.
+Scheduled Fetching,Recuperare programata
+Select a Payment Solution,Selectati o solutie de plata
+Send Email Confirmation,Trimite e-mail de confirmare
+Server Error. Please try again.,"Eroare server. Va rugam, reincercati."
+Settlement Consolidation,Consolidarea acordului
+Settlement Report Settings,Setari raport acord
+Settlement of a chargeback.,Acord pentru returnarea platii
+Severe 3D Secure Card Validation,Validare card sever securizata 3D
+Severe Validation Removes Chargeback Liability on Merchant,Validarea severa inlatura obligatiile de returnare a platii ale comerciantului
+Severe validation removes chargeback liability on merchant.,Validarea severa inlatura obligatiile de returnare a platii ale comerciantului.
+Shipping,Livrare
+Shipping Address,Adresa livrare
+Shipping Method,Metoda livrare
+Shop now using (150 X 40),Cumpara acum folosind (150 X 40)
+Shop now using (150 X 60),Cumpara acum folosind (150 X 60)
+Shortcut,Scurtatura
+Shortcut Buttons Flavor,Shortcut Buttons Flavor
+Shortcut on Product View,Scurtatura pe Vizualizare Produs
+Shortcut on Shopping Cart,Scurtatura pe Cos de Cumparaturi
+Sign a billing agreement to streamline further purchases with PayPal.,Semnati un acord de facturare pentru a rationaliza cu PayPal viitoarele achizitionari.
+Solo,Solo
+Some PayPal solutions conflict.,Unele solutii PayPal sunt in conflict.
+"Sorry, no quotes are available for this order at this time.","Ne pare rau, o oferta pentru aceasta comanda este imposibila momentan."
+Sort Order,Sortare Comanda
+Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.,Specifica perioada de onoare a autorizatiei de pe contul PayPal al comerciantului.Trebuie sa reflecte setarea din PayPal.
+Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.,Specifica perioada de valabilitate a comenzii de pe contul PayPal al comerciantului.Trebuie sa reflecte setarea din PayPal.
+State/Province,Judet
+Static,Static
+Street Address,Adresa strada
+Street Address %s,Adresa strada%s
+Submitting order information...,Se trimit informatiile comenzii...
+Subscriber name is too long.,Numele abonatului este prea lung.
+Subscription ID,ID Abonament
+"Subscription Payment, either payment sent or payment received","Plata abonamentului, fie plata trimisa fie plata primita"
+Subtotal,Subtotal
+Summary Text for Aggregated Cart,Sumar pentru ansamblul cosului de cumparaturi
+"Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","Acceptarea cardurilor American Express necesita un acord aditional. Afla mai multe pe <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>."
+Switch/Maestro,Switch/Maestro
+Telephone,Telefon
+Test Mode,Mod Test
+The background color for the checkout page around the header and payment form.,Culoarea de fundal pentru pagina de finalizare si din jurul antetului si al formularului de plata.
+The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.,Culoarea de fundal a antetului de pe pagina de finalizare. Cod culori hexazecimal HTML de 6 caractere insensibil la majuscule in ASCII.
+The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.,Numarul standard de autorizatii secundare din contul PayPal este 1. Pentru a efectua autorizatii multiple va rugam contactati PayPal pentru a solicita o marire.
+The following error(s) occured:,Au aparut urmatoarele erori:
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Imaginea din stanga-sus a paginii de finalizare. Marimea maxima este de 750x90-pixeli. <strong style=""culoarea:rosu"">https</strong> este recomandata."
+The maximum number of child authorizations is reached.,Numarul maxim de autorizatii secundare a fost atins.
+The merchant account is not yet verified.,Contul de comerciant nu a fost inca verificat.
+The payment curency does not match any of the merchant\'s balances currency.,Valuta platii nu se potriveste cu nici una dintre valutele comerciantului.
+The payment eCheck is not yet cleared.,eCheck-ul platii nu a fost inca achitat.
+The payment is authorized but not settled.,Plata este autorizata dar nu este achitata.
+The payment is pending because it was made to an email address that is not yet registered or confirmed.,Plata este in asteptare deoarece a fost facuta catre un e-mail care nu este inca inregistrat sau confirmat.
+The payment is pending while it is being reviewed by PayPal for risk.,Plata este in asteptare in timp ce este reviziuita de PayPal pentru detectarea riscurilor.
+The payment was made via credit card. In order to receive funds merchant must upgrade account to Business or Premier status.,Plata a fost facuta prin card de credit. Pentru a primi fonduri comerciantul trebuie sa faca upgrade stari contului la Business sau Premier. 
+There is already another PayPal solution enabled. Enable this solution instead?,Exista deja o alta solutie PayPal activata. Activati aceasta solutie in locul ei?
+There was an error processing your order. Please contact us or try again later.,A aparut o eroare in timpul procesarii comenzii. Va rugam sa ne contactati sau sa incercati mai tarziu.
+This feature needs be enabled first for the merchant account through PayPal technical support.,Aceasta optiune trebuie intai sa fie activata penrtu contul de comerciant prin suportul tehnic PayPal.
+This operation requires an existing transaction object.,Aceasta operatiune necesita un obiect de tranzactie existent.
+Time of Day,Timpul zilei
+Title,Titlu
+Transaction ID,ID tranzactie
+Transaction ID must not be empty.,Id-ul tranzactiei nu trebuie sa fie gol.
+Transaction Information,Informatii tranzactie
+Transfer Cart Line Items,Transfera articolele din cos
+Transfer Shipping Options,Transfera optiunile de livrare
+Triggered Fraud Filters,Filtre de frauda declansata
+URL method for Cancel URL and Return URL,Metoda URL pentru Anuleaza URL si Returneaza URL
+Unable to cancel Express Checkout.,Nu s-a putut anula Express Checkout.
+Unable to change status. Current status is not correspond to real status.,Nu s-a putut schimba starea. Starea curenta nu corespunde cu starea reala.
+Unable to communicate with the PayPal gateway.,Nu se poate comunica cu gateway-ul PayPal.
+Unable to initialize Express Checkout review.,Nu se poate initializa revizuirea finalizarii expres.
+Unable to initialize Express Checkout.,Nu se poate initializa finalizarea expres.
+Unable to place the order.,Nu se poate plasa comanda.
+Unable to process Express Checkout approval.,Nu s-a putut procesa aprobarea finalizarii expres.
+Unable to start Express Checkout.,Nu s-a putut incepe finalizarea expres.
+Unable to update Order data.,Nu s-au putut actualiza datele comenzii.
+Unable to update shipping method.,Nu s-a putut actualiza metoda de livrare.
+Unknown Error. Please try again later.,"Eroare necunoscuta. Va rugam, incercati mai tarziu."
+Unknown reason. Please contact PayPal customer service.,"Motiv necunoscut. Va rugam, contactati servicii clienti PayPal."
+Update Order Data,Actualizeaza datele comenzii
+Use Proxy,Foloseste Proxy
+"Use colon to specify port. For example: ""test.example.com:5224"".","Folositi doua puncte pentru a specifica portul. De exemplu: ""test.exemplu.com:5224""."
+User,Utilizator
+User-initiated Currency Conversion,Conversie valuta initiata de utilizator
+Uses store frontend name by default.,Se foloseste numele partii client ca standard.
+VAT Number,Numar VAT
+Vendor,Vanzator
+View,Vizualizare
+View Demo,Vizualizare Demo
+View Transaction,Vizualizare tranzactie
+View Transaction Details,Vizualizare detalii tranzactie
+Virtual PayPal Debit Card Transaction,Tranzactie card debit PayPal virtual
+Virtual Terminal Payment,Plata terminal virtual
+Void,Anuleaza
+We prefer PayPal (150 X 40),Noi preferam PayPal (150 X 40)
+We prefer PayPal (150 X 60),Noi preferam PayPal (150 X 60)
+Website Payments Plus,Plati Plus pe site
+Website Payments Pro (Includes Express Checkout),Plati Pro pe site (include Express Checkout)
+Website Payments Pro Hosted Solution,Website Payments Pro Hosted Solution
+Website Payments Pro Hosted Solution (Includes Express Checkout),Website Payments Pro Hosted Solution (include Express Checkout)
+Website Payments Pro Hosted Solution and Express Checkout,Website Payments Pro Hosted Solution and Express Checkout
+Website Payments Pro Payflow Edition (Includes Express Checkout),Plati Pro pe site editia Payflow (include Express Checkout)
+Website Payments Pro Payflow Edition and Express Checkout,Plati Pro pe site editia Payflow si Finalizare Expres
+Website Payments Pro and Express Checkout,Plati Pro pe site si Express Checkout
+Website Payments Standard,Plati pe site standard
+Website Payments Standard Payment,Website Payments Standard Payment
+What is PayPal?,Ce este PayPal?
+"Whether to create a billing agreement, if there are no active billing agreements available.","Daca sa se creeze un acord de facturare, daca nu exista acorduri de facturare active disponibile."
+Will appear as a payment option only for customers who have at least one active billing agreement.,Va aparea ca o optiune de plata doar clientilor care au cel putin un acord de facturare activ.
+WorldLink Withdrawal,Retragere WorldLink
+Would you like to sign a billing agreement to streamline further purchases with PayPal?,Ati dori semnati un acord de facturare pentru a rationaliza cu PayPal viitoarele achizitionari?
+Wrong PayPal Express Checkout Token specified.,Jetonul de Express Checkout PayPal specificat nu este corect
+Yes,Da
+Yes. Matched Address and five-didgit ZIP,Da. Adresa si codul postal corespund
+You cannot void a verification transaction,Nu puteti anula o tranzactie de verificare
+You will be redirected to the PayPal website in a few seconds.,Veti fi redirectionat catre site-ul PayPal in cateva secunde.
+You will be redirected to the PayPal website when you place an order.,Veti fi redirectionat catre site-ul PayPal cand plasati o comanda.
+You will be redirected to the PayPal website.,Veti fi redirectionat catre site-ul PayPal.
+You will be required to enter your payment details after you place an order.,Va fi necesara introducerea detaliilor de plata dupa ce plasati o comanda.
+Zip/Postal Code,Cod Postal
+eBay Auction Payment,Plata licitatie eBay
+Update Shipping Method,Actualizeaza metoda de livrare
+Your billing address will be ignored and you will be redirected to PayPal UK website,Adresa dumneavoastra de facturare va fi ignorata si veti fi redirectionat catre site-ul PayPal UK
+Please select a valid shipping method,Alege o metoda de livrare valida
+Amex,Amex
+API User Name,Nume utilizator API
+Authorize and Capture,Autorizeaza si preia
+Card Verification Number,Numar verificare card
+What is this?,Ce e asta?
+Business Account,Cont firma
+Credit Card Number,Numar card credit
+Credit Card Number: xxxx-%s,Numar card credit: xxxx-%s
+Credit Card Type,Tip card credit
+Credit Card Type: %s,Tip card credit: %s
+Credit Card Types,Tipuri card credit
+Start Date,Data inceperii
+Debug Flag,Pavilion de depanare / Depaneaza pavilion
+Discover,Descopera
+Error in creating an invoice,Eroare la crearea unei facturi
+Error in refunding the payment,Eroare la rambursarea platii
+Expiration Date,Data de expirare
+Expiration Date: %s/%s,Data de expirare: %s/%s
+Invoice ,Factura 
+Place an Order,Finalizeaza comanda
+Billing Information,Informatii facturare
+Shipping Information,Informatii livrare
+Invalid transaction id,ID tranzactie nevalid
+Issue Number,Numar de emitere
+MasterCard,MasterCard
+Business Name,Nume firma
+Name on Card,Numele de pe card
+Name on the Card: %s,Numele de pe card: %s
+Order total amount does not match paypal gross total amount,Suma totala de pe comanda nu corespunde cu suma totala bruta de pe PayPal
+Sort order,Ordine de sortare
+Payment from applicable countries,Plata din tarile acceptate
+Payment from Specific countries,Plata din anumite tari
+Payment Method,Metoda de plata
+PayPal Accounts,Conturi PayPal
+Paypal Checkout,Paypal Checkout
+PayPal Direct (Website Payments Pro),PayPal Direct (Website Payments Pro)
+PayPal Email,E-mail PayPal E-mail
+Paypal Express (Website Payments Pro),Paypal Express (Website Payments Pro)
+Paypal IPN Invalid.,IPN Paypal nevalid.
+Paypal Logo Image URL(150x150),URL imagine sigla Paypal(150x150)
+PayPal Standard (Website Payments Standard),PayPal Standard (Website Payments Standard)
+PayPal Uk Account,Cont PayPal Uk
+Problem during communication with PayPal,Problema in comunicarea cu PayPal
+Received IPN verification,Verificarea IPN a fost primita.
+Sandbox Flag,Pavilion Sandbox
+Change Shipping Address,Schimba adresa de livrare
+Change Payment Method,Schimba metoda de plata
+Selected currency code (,Cod valuta selectat (
+New order status,Stare comanda noua
+Switch/Solo card issue number: %s,Numar de emitere card Switch/Solor: %s
+Switch/Solo card start Date: %s/%s,Data inceperii cardului Switch/Solo: %s/%s
+Switch/Solo Only,Numai Switch/Solo
+There has been an error processing your payment. Please try later or contact us for help.,A aparut o eroare in timpul procesarii comenzii. Va rugam sa ne contactati sau sa incercati mai tarziu.
+There was an error connecting to the Paypal server: %s,A aparut o eroare in timpul conectarii la serverul PayPal: %s
+There was an error during communication with Paypal: %s - %s,A aparut o eroare in timpul comunicarii la serverul PayPal: %s - %s
+Type,Tip
+Transaction Type,Tip tranzactie
+Unknown PayPal API error: %s,Eroare API PayPal necunoscuta: %s
+You will be redirected to paypal in a few seconds.,Veti fi redirectionat catre Paypal in cateva secunde.
+Visa,Visa
+"Website Payments Pro (Express, Direct)","Website Payments Pro (Expres, Direct)"

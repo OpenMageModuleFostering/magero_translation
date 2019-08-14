@@ -1,0 +1,59 @@
+Add,Adauga
+Add gift message for shopping cart,Adauga mesaj cadou in cosul de cumparaturi
+Add gift messages for quote item of shopping cart,Adauga mesaj cadou pentru articol oferta din cosul de cumparaturi
+Add gift messages to products of shopping cart,Adauga mesaje cadou la produsele din cosul de cumparaturi 
+Add gift options,Adauga optiuni cadou
+Add gift options for Individual Items,Adauga optiuni cadou pentru Articole Individuale
+Add gift options for the Entire Order,Adauga optiuni cadou pentru Toata Comanda
+Add gift options.,Adauga optiuni cadou.
+Allow Gift Messages for Order Items,Accepta mesaje cadou pentru articolele comenzii
+Allow Gift Messages on Order Level,Accepta mesaje cadou la Nivelul Comenzii
+An error occurred while saving the gift message.,A aparut o eroare in timpul salvarii mesajului cadou.
+Are you sure?,Sunteti sigur?
+Cancel,Anuleaza
+Do you have any gift items in your order?,Aveti articole cadou in comanda dumneavoastra?
+Edit,Editeaza
+From,De la
+Gift Message,Mesaj cadouri
+Gift Message API,Mesaj cadou API
+Gift Options,Optiuni Cadou
+Gift Options for,Optiuni Cadou pentru
+Gift Options for Individual Items,Optiuni Cadou pentru Articole Individuale
+Gift Options for the Entire Order.,Optiuni Cadou pentru Toata Comanda.
+Gift Options for this address.,Optiuni Cadou pentru aceasta adresa.
+Item %d of %d,Articolul %d din %d
+Message,Mesaj
+No,Nu
+OK,OK
+Save Gift Message,Salveaza Mesajul Cadou
+The gift message has been removed,Mesajul Cadou a fost sters
+The gift message has been saved,Mesajul Cadou a fost salvat
+The gift message has been saved.,Mesajul Cadou a fost salvat.
+To,Catre
+Unknown entity type,Tip entitate necunoscut.
+Use config,Folosete configurarile
+Yes,Da
+You can leave this box blank if you do not wish to add a gift message for the item.,Puteti lasa aceasta casuta goala daca nu doriti sa adaugati un mesaj cadou pentru articol.
+You can leave this box blank if you do not wish to add a gift message for this address.,Puteti lasa aceasta casuta goala daca nu doriti sa adaugati un mesaj cadou pentru aceasta adresa.
+You can leave this box blank if you do not wish to add a gift message for whole order.,Puteti lasa aceasta casuta goala daca nu doriti sa adaugati un mesaj cadou pentru intreaga comanda.
+* Required Fields,* Campuri necesare
+Add Gift Message,Adauga un mesaj cadou
+Check this checkbox if you want to add gift messages to your items.,Bifati casuta daca doriti sa adaugati mesaje cadou la articolele dumneavoastra.
+Check this checkbox if you want to add gift messages.,Bifati casuta daca doriti sa adaugati mesaje cadou.
+Error while saving gift message,Eroare la salvarea mesajului.
+Close,Inchide
+Enter a gift message for each item in your order.,Introduceti cate un mesaj cadou pentru fiecare articol din comanda dumneavoastra.
+Enter a gift message for this address.,Introduceti un mesaj cadou pentru aceasta adresa.
+Enter a gift message for entire order.,Introduceti un mesaj cadou pentru intreaga comanda.
+Your gift message successfully saved,Mesajul cadou a fost salvat cu succes
+Your gift message successfully removed,Mesajul cadou sters cu succes.
+Gift Messages,Mesaje cadouri
+Your gift message has been successfully saved,Mesajul cadou a fost salvat cu succes.
+Gift message has been successfully saved,Mesajul cadou a fost salvat cu succes.
+Your gift message has been successfully removed,Mesajul cadou a fost sters cu succes.
+Edit Gift Message,Editeaza mesajul cadou
+You can leave a box blank if you don't wish to add a gift message for this address.,Puteti lasa aceasta casuta goala daca nu doriti sa adaugati un mesaj cadou pentru aceasta adresa.
+You can leave a box blank if you don't wish to add a gift message for the item.,Puteti lasa aceasta casuta goala daca nu doriti sa adaugati un mesaj cadou pentru articol.
+You can leave a box blank if you don't wish to add a gift message for whole order.,Puteti lasa aceasta casuta goala daca nu doriti sa adaugati un mesaj cadou pentru intreaga comanda.
+Save,Salveaza
+Remove,Sterge

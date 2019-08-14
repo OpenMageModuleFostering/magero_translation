@@ -1,0 +1,21 @@
+Collected Files Count,Numar fisiere colectate
+Compilation,Compilare
+Compilation State,Starea Compilarii
+Compilation error,Eroare Compilare
+Compiled,Compilat
+Compiled Scopes Count,Numar domenii compilate
+Compiler Status,Stare Compilator
+Compiler include path is disabled.,Calea de includere a compilatorului este dezactivata.
+Compiler include path is enabled.,Calea de includere a compilatorului este activata.
+"Directory ""%s"" must be writeable","Directorul ""%s""trebuie sa fie disponibil pentru scriere"
+Disable,Dezactiveaza
+Disabled,Dezactivat
+Enable,Activeaza
+Enabled,Activat
+"File ""%s"" must be writeable","Fisierul ""%s""trebuie sa fie disponibil pentru scriere."
+Not Compiled,Necompilat
+Run Compilation Process,Ruleaza procesul de compilare
+Scopes Compilation Settings,Setari compilare domenii
+System,Sistem
+The compilation has completed.,Compilarea s-a incheiat.
+Tools,Unelte

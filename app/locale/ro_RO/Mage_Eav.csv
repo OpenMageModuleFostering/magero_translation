@@ -1,0 +1,144 @@
+"""%s"" contains not only digit characters.","""%s"" nu contine numai cifre."
+"""%s"" does not fit the entered date format.","""%s"" nu se potriveste cu formatul datei introduse."
+"""%s"" exceeds the allowed file size.","""%s"" depaseste marimea permisa a fisierului."
+"""%s"" exceeds the allowed length.","""%s"" depaseste lungimea permisa."
+"""%s"" has not only alphabetic and digit characters.","""%s"" nu contine numai litere si cifre."
+"""%s"" has not only alphabetic characters.","""%s"" nu contine numai litere."
+"""%s"" height exceeds allowed value of %s px.","""%s"" inaltimea depaseste valoarea permisa de %s px."
+"""%s"" invalid type entered.","""%s"" tip introdus nevalid."
+"""%s"" is a required value.","""%s"" este o valoare necesara."
+"""%s"" is an empty string.","""%s"" este o serie goala."
+"""%s"" is not a valid URL.","""%s"" nu este un URL valid."
+"""%s"" is not a valid date.","""%s"" nu este o data valida."
+"""%s"" is not a valid email address.","""%s"" nu este o adresa e-mail valida."
+"""%s"" is not a valid file","""%s"" nu este un fisier valid"
+"""%s"" is not a valid file extension.","""%s"" nu este o extensie de fisier valida."
+"""%s"" is not a valid file.","""%s"" nu este un fisier valid."
+"""%s"" is not a valid hostname.","""%s"" nu este un nume de administrator valid."
+"""%s"" is not a valid image format","""%s"" nu este un format de imagine valid"
+"""%s"" length must be equal or greater than %s characters.","""%s"" lungimea trebuie sa fie egala sau mai mare de %s caractere."
+"""%s"" length must be equal or less than %s characters.","""%s"" lungimea trebuie sa fie egala sau mai mica de %s caractere."
+"""%s"" width exceeds allowed value of %s px.","""%s"" latimea depaseste valoarea permisa de %s px."
+'%value%' appears to be a DNS hostname but cannot extract TLD part,"'%value%' apare ca fiind un DNS hostname, dar nu se poate extrage partea TLD"
+'%value%' appears to be a DNS hostname but cannot match TLD against known list,"'%value%' apare ca fiind un DNS hostname, dar nu se poate potrivi TLD-ul cu lista cunoscuta"
+'%value%' appears to be a DNS hostname but cannot match against hostname schema for TLD '%tld%',"'%value%' apare ca fiind un DNS hostname, dar nu se poate potrivi cu schema hostname-ului pentru TLD '%tld%'"
+'%value%' appears to be a DNS hostname but contains a dash in an invalid position,"'%value%' apare ca fiind un DNS hostname, dar contine o linie de despartire intr-o pozitie nevalida"
+'%value%' appears to be a DNS hostname but the given punycode notation cannot be decoded,"'%value%' apare ca fiind un DNS hostname, dar notatia punycode data nu poate fi decodata"
+'%value%' appears to be a local network name but local network names are not allowed,"'%value%' apare ca fiind un nume de retea locala, dar numele de retele locale nu sunt permise"
+"'%value%' appears to be an IP address, but IP addresses are not allowed","'%value%' apare ca fiind o adresa IP, dar adresele IP nu sunt permise"
+'%value%' does not appear to be a valid URI hostname,'%value%' nu apare ca fiind un URL valid
+'%value%' does not appear to be a valid local network name,'%value%' nu apare ca fiind un nume de retea locala valid
+'%value%' does not match the expected structure for a DNS hostname,'%value%' nu se potriveste cu structura standard hostname DNS
+A joint field with this alias (%s) is already declared,Un camp comun cu aliasul (%s) a fost declarat deja.
+Add Option,Adauga optiune
+"An error occurred while loading a record, aborting. Error: %s","A aparut o eroare in timpul incarcarii unei inregistrari, se anuleaza. Eroare: %s"
+"An error occurred while loading the collection, aborting. Error: %s","A aparut o eroare in timpul incarcarii colectiei, se anuleaza. Eroare: %s"
+"An error occurred while saving a record, aborting. Error:","A aparut o eroare in timpul salvarii unei inregistrari, se anuleaza. Eroare:"
+Attempt to add an invalid object,Incercati sa adaugati un obiect nevalid
+Attribute '%s' used in configurable products,Atribut '%s' folosit la produse configurabile
+Attribute Code,Cod atribut
+Attribute Label,Eticheta atribut
+Attribute Properties,Proprietati atribut
+Attribute object is undefined,Obiectul - atribut nu este definit
+"Attribute set with the ""%s"" name already exists.","Atributul stabilit cu numele ""%s"" deja exista."
+Attribute with the same code,Atribut cu acelasi cod
+Can\'t create table: %s,Nu se poate crea tabel: %s
+Catalog Input Type for Store Owner,Tip input catalog pentru proprietarul magazinului
+Current module EAV entity is undefined,Entitatea EAV a modulului curent nu este definita
+Current module pathname is undefined,Calea modulului curent nu este definita
+Data integrity: No header row found for attribute,Integritatea informatiei: Nici un rand-antet nu a fost gasit pentru atribut
+Date,Data
+Decimal Number,Numar zecimal
+Default Product Listing Sort by not exists on Available Product Listing Sort By,Criteriul de sortare implicit nu exista in lista de criterii de sortare disponibile
+Default Value,Valoare standard
+Default option value is not defined,Valoarea optiunii standard nu este definita
+Delete,Sterge
+Dropdown,Dropdown
+Email,E-mail
+Entity collection expected.,Se asteapta o colectie de entitati
+Entity collections expected.,Se asteapta colectii de entitati
+Entity instance is not defined,Instanta nu este definita.
+Entity is not initialized,Entitatea nu a fost initializata.
+Entity object is undefined,Obiectul nu este definit.
+Failed to load node %s from config,Nu s-a putut incarca nodul %s din config.
+For internal use. Must be unique with no spaces. Maximum length of attribute code must be less then %s symbols,Pentru uz intern. Trebuie sa fie unic si fara spatii. Lungimea maxima a codului atribut trebuie sa fie mica de %s simboluri.
+Form Element with the same attribute,Element formular cu acelasi atribut.
+Form Fieldset with the same code,Grup campuri cu acelasi cod.
+Form Type with the same code,Tip formular cu acelasi cod.
+Form code is not defined,Codul formularului nu este definit.
+Frontend label is not defined,Eticheta pentru frontend nu este definita.
+Input Validation for Store Owner,Validare pentru proprietarul magazinului
+Integer Number,Numar intreg
+Invalid EAV attribute.,Atribut EAV nevalid.
+"Invalid alias, already exists in joint attributes","Alias nevalid, deja exista in atributele comune."
+Invalid attribute name: %s,Nume atribut nevalid: %s
+Invalid attribute requested: %s,Solicitare atribut nevalid: %s
+Invalid attribute type,Tip atribut nevalid.
+Invalid character encountered in increment ID: %s,Caracter nevalid intalnit in ID: %s
+Invalid date,Data nevalida
+Invalid default date,Data standard nevalida
+Invalid default decimal value,Valoare zecimala nevalida
+Invalid entity specified,Entitate nevalida specificata
+Invalid entity supplied.,Entitate nevalida furnizata
+Invalid entity supplied: %s,Entitate nevalida furnizata: %s
+Invalid entity type,Tip entitate nevalid
+"Invalid entity_id, skipping the record.","ID entitate nevalid, se omite intregistrarea."
+Invalid entity_type specified: %s,Tip entitate specificat nevalid: %s
+Invalid foreign key,Cheie straina nevalida
+Invalid form type.,Tip formular nevalid
+Invalid joint fields,Campuri comune nevalide
+Invalid store specified,Magazin nevalid specificat
+Invalid type given. String expected,Tip nevalid furnizat. Se asteapta sir de date.
+Joined field with this alias is already declared,Un camp comun cu acest alias a fost declarat deja.
+Joint field or attribute expression with this alias is already declared,Un camp comun sau expresie de atribute cu acest alias a fost declarat deja.
+Letters,Litere
+"Letters (a-z, A-Z) or Numbers (0-9)","Litere (a-z, A-Z) sau cifre (0-9)"
+Loaded %d records,S-au incarcat %d inregistrari
+Maximum length of attribute code must be less then %s symbols,Lungimea maxima a codului atribut trebuie sa fie mai mica de %s simboluri.
+Multiple Select,Selectare multipla
+No,Nu
+No options found in config node %s,Nici o optiunde nu a fost gasita in nodul de configurare %s
+None,Nici unul
+Not shared with other products,Nu se imparte cu alte produse.
+"Problem loading the collection, aborting. Error: %s","A aparut o problema in timpul incarcarii colectiei, se anuleaza. Eroare: %s"
+"Problem saving the collection, aborting. Error: %s","A aparut o problema in timpul salvarii colectiei, se anuleaza. Eroare: %s"
+Required,Obligatoriu
+Saved %d record(s).,S-au salvat %d inregistrari.
+"Source model ""%s"" not found for attribute ""%s""","Modelul sursa ""%s"" nu a fost gasit pentru atributul ""%s""."
+System,Sistem
+Text Area,Arie text
+Text Field,Camp text
+The attribute code \'%s\' is reserved by system. Please try another attribute code,Codul atribut \'%s\' este rezervat de sistem. Va rugam incercati alt cod atribut.
+"The value of attribute ""%s"" must be unique","Valoarea atributului ""%s"" trebuie sa fie unica"
+"The value of attribute ""%s"" must be unique.","Valoarea atributului ""%s"" trebuie sa fie unica"
+This attribute is used in configurable products,Acest atribut este folosit la produse configurabile
+URL,URL
+Unique Value,Valoare unica
+Unique Value (not shared with other products),Valoare unica (nu se regaseste la alte produse)
+Unknown parameter,Parametru necunoscut
+Values Required,Valori necesare
+Wrong attribute group ID,ID grup atribute gresit.
+Wrong attribute set ID,ID set atribute gresit
+Wrong entity ID,ID entitate gresit
+Wrong type definition for %s,Tip definitie pentru %s gresit.
+Yes,Da
+Yes/No,Da/Nu
+Attribute '%s' used in configurable products.,Atribut '%s' folosit la produse configurabile.
+Attribute used in configurable products.,Atribut folosit la produse configurabile
+Entity collection expected,Se asteapta colectie de entitati.
+Entity collections expected,Se asteapta colectii de entitati.
+Wrong attribute ID,ID atribut gresit
+"Invalid alias, already exists in joined attributes","Alias nevalid, deja exista in atributele comune."
+Invalid attribute specified: %s,Atribut nevalid specificat: %s
+Invalid data object key,Cheie obiect date nevalida.
+Invalid entity supplied,Entitate nevalida furnizata
+"Invalid entity_id, skipping the record","ID entitate nevalid, se omite intregistrarea."
+Invalid joined fields,Campuri comune nevalide
+Joined field or attribute expression with this alias is already declared,Un camp comun sau expresie de atribute cu acest alias a fost declarat deja.
+Joined field with this alias (%s) is already declared,Un camp comun cu aliasul (%s) a fost declarat deja.
+No options root node found,Nu s-au gasit optiuni in nodul radacina.
+"Problem loading a record, aborting. Error: %s","A aparut o problema in timpul incarcarii unei inregistrari, se anuleaza. Eroare: %s"
+"Problem saving a record, aborting. Error:","A aparut o problema in timpul salvarii unei inregistrari, se anuleaza. Eroare: %s"
+Saved,Salvat
+Valid store_id is expected!,Se asteapta un store_id valid.
+"Value of attribute ""%s"" must be unique","Valoarea atributului ""%s"" trebuie sa fie unica"

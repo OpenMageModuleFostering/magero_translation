@@ -1,0 +1,336 @@
+ was not delivered nor scanned, Nu a fost nici livrat nici scanat
+"""Per Order"" allows single handling fee for entire order. ""Per Package"" allows individual  handling fee for each package.","""Per Comanda"" Permite un singur tarif de manipulare pentru intreaga comanda. ""Per Pachet"" permite un tarif de manipulare pentru fiecare pachet individual."
+1 Day Freight,1 Day Freight
+2 Day,2 Day
+2 Day AM,2 Day AM
+2 Day Freight,2 Day Freight
+2Day,2Day
+2nd Day Air,2nd Day Air
+2nd Day Air AM,2nd Day Air AM
+2nd Day Air AM Letter,2nd Day Air AM Letter
+2nd Day Air Letter,2nd Day Air Letter
+3 Day Freight,3 Day Freight
+3 Day Select,3 Day Select
+Access ID,ID de acces
+Access License Number,Numar licenta de acces
+Account ID,ID Cont
+Account Number,Numar Cont
+Additional Protection Configuration Value,Valoare Configuratie Protectie Suplimentara
+Additional Protection Enabled,Protectie Suplimentara activata
+Additional Protection Min Subtotal,Subtotal minim pentru Protectia Suplimentara
+Additional Protection Value,Valoare Protectie Suplimentara
+Additional Protection Value Rounding Method,Metoda de Rotunjire a Valorii Protectiei Suplimentare
+Adult,Adult
+Adult Signature Required,Este necesara semnatura unui adult
+Allowed Methods,Metode Permise
+Allows breaking total order weight into smaller pieces if it exeeds %s %s to ensure accurate calculation of shipping charges.,Permite impartirea greutatii totale a comenzii in parti mai mici daca depaseste %s %s pentru a asigura calcularea precisa a taxelor de livrare.
+Allows breaking total order weight into smaller pieces if it exeeds 70 kg to ensure accurate calculation of shipping charges.,Permite impartirea greutatii totale a comenzii in parti mai mici daca depaseste70 kg pentru a asigura calcularea precisa a taxelor de livrare.
+Bound Printed Matter,Leaga Materia Printata
+Break bulk economy,Break bulk economy
+Break bulk express,Break bulk express
+Business Service Center,Centru Servicii Afaceri
+Calculate Handling Fee,Calculeaza Tarif de Manipulare
+Canada Standard,Standard Canada
+Cannot identify measure unit for %s,Nu se poate identifica unitatea de masura pentru %s
+Cannot identify weight unit for %s,Nu se poate identifica unitatea de greutate pentru %s
+Cannot retrieve shipping rates,Nu se pot recupera cursurile de livrare
+Centimeters,Centimetri
+Commercial,Commercial
+Configuration,Configuratie
+Container,Container
+Content Type,Tip Continut
+Customer Packaging,Ambalaje Client
+Customer Supplied Package,Pachet furnizat clientului
+Customer services,Relatii Clienti
+DHL,DHL
+DHL (Deprecated),DHL (Depreciat)
+Debug,Debug
+Default Package Height,Inaltime Pachet Standard 
+Default Package Length,Lungime Pachet Standard
+Default Package Width,Latime Pachet Standard
+Delivered,Livrat
+Delivery Confirmation,Confirmare Livrare
+Depth,Adancime
+Destination Type,Tipul Destinatiei
+Destination facility code is empty,Codul de facilitate al destinatiei
+Development,Dezvoltare
+Direct,Direct
+Displayed Error Message,Mesaj de eroare afisat
+Divide Order Weight,Imparte greutatea comenzii
+Documents,Documente
+Domestic Shipment Days,Domestic Shipment Days
+Domestic economy select,Selectare economie interna
+Domestic express,Expres intern
+Drop Box,Drop Box
+Dropoff,Dropoff
+Easy shop,Cumpara usor
+Economy select,Selectare Economie
+Empty response,Raspuns gol
+Enable Negotiated Rates,Activeaza Cursurile Negociate
+Enabled for Checkout,Activat pentru Finalizare
+Enables/Disables SSL verification of Magento server by UPS.,Activeaza/Dezactiveaza verificarea SSL a server-ului Magento de catre UPS.
+Error #%s : %s,Eroare #%s : %s
+Error #%s : %s (%s),Eroare #%s : %s (%s)
+Error #%s: %s,Eroare #%s: %s
+Europack,Europack
+Europe First Priority,Europe First Priority
+Exchange rate %s (Base Currency) -> %s not found. DHL method %s skipped,Curs valutar %s (Valuta de baza) -> %s negasit. Metoda DHL %s omisa
+Express,Expres
+Express 10:30,Expres 10:30
+Express 10:30 AM,Expres 10:30 AM
+Express 12:00,Expres 12:00
+Express 9:00,Expres 9:00
+Express Mail,Express Mail
+Express Saturday,Express Saturday
+Express Saver,Express Saver
+Express easy,Express easy
+Express envelope,Express envelope
+Express worldwide,Express worldwide
+Failed to parse xml document: %s,Analizare document xml esuata: %s
+FedEx,FedEx
+FedEx 10kg Box,Cutie FedEx 10kg 
+FedEx 25kg Box,Cutie FedEx 25kg
+FedEx Box,Cutie FedEx
+FedEx Envelope,Plic FedEx 
+FedEx Pak, Pak FedEx
+FedEx Tube,FedEx Tube
+First Overnight,First Overnight
+First-Class,First-Class
+Flat,Fix
+Flat-Rate Box,Cutie cu taxa fixa
+Flat-Rate Envelope,Plic cu taxa fixa
+Free Method,Metoda gratuita
+Free Shipping with Minimum Order Amount,Livrare gratuita pentru suma comanda minima 
+Freight,Cheltuieli de transport
+Freight worldwide,Cheltuieli de transport la nivel mondial
+Gateway URL,URL Gateway
+Gateway XML URL,URL XML Gateway
+Gift,Cadou
+Girth,Circumferinta
+Globalmail business,Afacere de Expediere la nivel mondial
+"Ground,",ransport Terestru
+Ground Commercial,Transport Terestru catre persoana juridica
+Ground Residential,Transport Terestru catre persoana fizica
+Handling Applied,Manipulare Aplicata
+Handling Fee,Taxa Manipulare
+Height,Inaltime
+"Height, width and length should be equal or greater than %s","Inaltimea,latimea si lungimea ar trebui sa fie egale sau mai mari de %s"
+Home Delivery,Livrare la domiciliu
+Hub ID,ID Hub
+Inches,Inci
+Indirect,Indirect
+International Economy,International Economy
+International Express,International Express
+International First,International First
+International Ground,International Ground
+International Priority,International Priority
+International Shipment Days,International Shipment Days
+Intl Economy Freight,Intl Economy Freight
+Intl Priority Freight,Intl Priority Freight
+Jetline,Jetline
+Jumbo box,Cutie Jumbo
+Key,Cod
+Kilograms,Kilograme
+Large,Mare
+Large Express Box,Cutie Expres Mare
+Length,Lungime
+Letter,Scrisoare
+Library,Biblioteca
+Live,Live
+Machinable,Prelucrabil
+Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight),"Greutate Pachet Maxima (Va rugam, contactati curierul pentru aflarea greutatii maxime permise pentru livrare)"
+Media Mail,Expediere Media
+Medical express,Medical express
+Medium Express Box,Cutie Expres Medie
+Merchandise,Marfa
+Meter Number,Numar Contor
+Minimum Order Amount for Free Shipping,Suma minima a comenzii pentru livrare gratuita 
+Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight),"Greutatea minima a pachetului (Va rugam, contactati curierul pentru aflarea greutatii minime permise pentru livrare)"
+Mode,Mod
+National Freight,Cheltuieli de transport la nivel national
+Next Afternoon,Next Afternoon
+Next Day Air,Next Day Air
+Next Day Air Early AM,Next Day Air Early AM
+Next Day Air Early AM Letter,Next Day Air Early AM Letter
+Next Day Air Intra (Puerto Rico),Next Day Air Intra (Puerto Rico)
+Next Day Air Letter,Next Day Air Letter
+Next Day Air Saver,Next Day Air Saver
+ou,ou
+No,Nu
+No packages for request,Nici un pachet la cerere
+Non Documents,Non Documente
+Non documents,Non documente
+Non-rectangular,Non-dreptunghiular
+None,Nici unul 
+Not Required,Nu este necesar
+Order,Comanda
+Order #%s,Comanda #%s
+Origin of the Shipment,Originea livrarii
+Origin serviceAreaCode is missing,Codul judetului de origine lipseste
+Other,Altul
+Others,Altele
+PAK,PAK
+Package,Pachet
+Package Description,Descriere Pachet
+Package content is missing,Continutul pachetului lipseste
+Packages Request Type,Tip solicitare pachete
+Packaging,Ambalare
+Pallet,Paleta
+Parcel,Colet
+Parcel Post,Post Colet
+Password,Parola
+Pickup Method,Metoda de ridicare
+Piece Id barcode is missing,Codul de bare lipseste din Id-ul piesei
+Piece number information is missing,Informatiile privind numarul piesei lipsesc
+Please make sure to use only digits here. No dashes are allowed.,"Va rugam, folositi numai cifre aici. Cratimele nu sunt permise."
+"Please, specify origin country","Va rugam, specificati tara de origine"
+Pounds,Kilograme
+Priority Mail,Priority Mail
+Priority Overnight,Priority Overnight
+Product content code is invalid,Codul continutului produsului nu este valid
+Product name is missing,Numele produsului lipseste
+Receiver,Destinatar
+Rectangular,Dreptunghiular
+Reference code is missing,Codul de referinta lipseste
+Regular,Normal
+Regular Pickup,Ridicare normala
+Request Courier,Solicita Curier
+Required,Obligatoriu
+Required for negotiated rates; 6-character UPS.,Necesar pentru cursuri negociate; UPS 6-caractere
+Residential,Persoana fizica
+Residential Delivery,Livrare catre persoana fizica
+Response is in the wrong format,Raspunsul este in format incorect
+Return,Revenire
+Round,Rotund
+Routing barcode is missing,Codul de bare pentru distributie lipseste
+Same day,Same day
+Sample,Mostra
+Sandbox Mode,Mod Sandbox
+Second Day Service,Serviciul A Doua Zi
+Secure Gateway URL,URL Gateway securizat 
+Secureline,Secureline
+Sender,Expeditor
+Sender city info is missing,Informatiile privind orasul expeditorului lipsesc
+Sender contact name is missing,Informatiile privind numele de contact al expeditorului lipsesc
+Sender country info is missing,Informatiile privind tara expeditorului lipsesc
+Service type does not match,Tipul serviciului nu este compatibil
+Ship to Applicable Countries,Livreaza catre tarile acceptate
+Ship to Specific Countries,Livreaza catre anumite tari
+Shipment Contains Hazardous Materials,Livrarea contine materiale periculoase
+Shipment Dutiable,Livrare supusa taxelor vamale
+Shipment Duty Payment Type,Tip de plata a taxelor vamale ale livrarii
+Shipment Type,Tip livrare
+Shipment is not available.,Livrarea nu este disponibila.
+Shipment picked up,Livrare ridicata
+Shipper Number,Numar livrare
+Shipping Key,Cod livrare
+Shipping Key (International),Cod livrare (International)
+Show Method if Not Applicable,Arata metoda daca nu este acceptata
+Signature Required,Semnatura este necesara
+Size,Marime
+Small Express Box,Cutie Mica Express
+Smart Post,Smart Post
+Sort Order,Sorteaza comanda
+Specific,Specific
+Sprintline,Sprintline
+Standard Overnight,Standard Overnight
+Station,Statie
+Subtotal,Subtotal
+Subtotal With Discount,Subtotal cu reducere
+The field is applicable if the Smart Post method is selected.,Campul este aplicabildaca metoda Smart Post este selectata.
+The response is in wrong format.,Raspunsul este in format incorect.
+There is no available method for selected shipping address.,Nu exista nici o metoda disponibila pentru adresa de livrare selectata.
+There is no items in this order,Nu exista nici un articol in aceasta comanda
+Third Party,A treia parte
+Title,Titlu
+To Lower,Micsorare
+To Upper,Marire
+Tracking XML URL,URL XML de urmarire
+UPS,UPS
+UPS Expedited,UPS Expedited
+UPS Express,UPS Express
+UPS Express Box,UPS Express Box
+UPS Express Early A.M.,UPS Express Early A.M.
+UPS Express Plus,UPS Express Plus
+UPS Ground,UPS Ground
+UPS Letter Envelope,UPS Letter Envelope
+UPS Next Day Air,UPS Next Day Air
+UPS Next Day Air Early A.M.,UPS Next Day Air Early A.M.
+UPS Next Day Air Saver,UPS Next Day Air Saver
+UPS Saver,UPS Saver
+UPS Second Day Air,UPS Second Day Air
+UPS Second Day Air A.M.,UPS Second Day Air A.M.
+UPS Standard,UPS Standard
+UPS Three-Day Select,UPS Three-Day Select
+UPS Today Dedicated Courrier,UPS Today Dedicated Courrier
+UPS Today Express,UPS Today Express
+UPS Today Express Saver,UPS Today Express Saver
+UPS Today Intercity,UPS Today Intercity
+"UPS Today Standard,Standard UPS Azi","UPS Today Standard,Standard UPS Azi"
+UPS Tube,UPS Tube
+UPS Type,UPS Type
+UPS Worldwide 10 kilo,UPS Worldwide 10 kilo
+UPS Worldwide 25 kilo,UPS Worldwide 25 kilo
+UPS Worldwide Expedited,UPS Worldwide Expedited
+UPS Worldwide Express,UPS Worldwide Express
+UPS Worldwide Express Plus,UPS Worldwide Express Plus
+UPS Worldwide Express PlusSM,UPS Worldwide Express PlusSM
+UPS Worldwide Saver,UPS Worldwide Saver
+USPS,USPS
+Unable to retrieve tracking,Nu se poate recupera urmarire
+United Parcel Service,United Parcel Service
+United Parcel Service XML,United Parcel Service XML
+Unknown error,Eroare Necunoscuta
+"Used only when ""Additional Protection Value"" is set to ""Configuration"". Can contain only numeric amount.","Folosit numai cand  ""Valoarea de protectie suplimentara"" este setata la ""Configuratie"". Poate contine numai sume numerice."
+User ID,ID Utilizator
+Variable,Variabila
+Waybill barcode information is missing,Codul de bare al fisei de transport lipseste
+Weight Unit,Unitatea greutatii
+Weight unit is invalid,Unitatea greutatii nu este valida
+Width,Latime
+Worldwide Expedited,Worldwide Expedited
+Worldwide Express,Worldwide Express
+Worldwide Express Letter,Worldwide Express Letter
+Worldwide Express Plus,Worldwide Express Plus
+Worldwide Express Plus Letter,Worldwide Express Plus Letter
+Worldwide Express Saver,Worldwide Express Saver
+Wrong Content Type.,Tip continut incorect.
+Wrong Region.,Judet gresit.
+Yes,Da
+Your Packaging,Ambalajul dumneavoastra
+Zero shipping charge for '%s',Taxa livrare 0 pentru '%s'
+cm,cm
+inch,inch
+Access license number,Acces Numar Autorizatie
+Account number,Numar Cont
+All Services,Toate Serviciile
+Allowed methods,Metode permise
+Destination type,Tip Destinatie
+Enabled,activat
+Flat Rate Box,Taxa fixa cutie
+Flat Rate Envelope,Taxa fixa plic
+Free method,Metoda gratuita
+Free shipping with minimum order amount,Livrare gratuita pentru suma comanda minima
+Handling fee,Taxa de manipulare
+Invalid DHL XML code for type %s: %s,Cod XML DHL nevalid pentru tipul %s: %s
+Invalid DHL XML code type: %s,Cod XML DHL nevalid tip: %s
+Invalid FedEx XML code for type %s: %s,Cod XML FedEx nevalid pentru tipul %s: %s
+Invalid FedEx XML code type: %s,Cod XML FedEx nevalid tip: %s
+Invalid UPS CGI code for type %s: %s,Cod CGI UPS nevalid pentru tipul %s: %s
+Invalid UPS CGI code type: %s,Cod CGI UPS nevalid tip: %s
+Invalid USPS XML code for type %s: %s,Cod XML USPS nevalid pentru tipul %s: %s
+Invalid USPS XML code type: %s,Cod XML USPS nevalid tip: %s
+Minimum order amount for free shipping,Pentru Livrare gratuita este necesar ca suma comenzii sa fie minima
+Origin of the shipment,Originea Livrarii
+Oversize,Peste Masura
+Pickup method,Metoda de ridicare
+Please enter the package weight,"Va rugam, introduceti greutatea pachetului"
+Ship to applicable countries,Livreaza catre tarile acceptate
+Ship to Specific countries,Livreaza catre anumite tari
+Shipment type,Tip livrare
+Shipping key,Cod Livrare
+Shipping key (International),Scod Livrare(International)
+Show method if not applicable,Arata metoda daca nu este acceptata.
+Sort order,Sorteaza comanda
+UPS type,Tip UPS
+UserId,ID Utilizator

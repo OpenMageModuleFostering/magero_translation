@@ -1,0 +1,112 @@
+"%1$s has been added to your wishlist. Click <a href=""%2$s"">here</a> to continue shopping.","%1$s a fost adaugat la favorite. Click <a href=""%2$s"">aici</a> pentru a continua cumparaturile."
+%1$s has been updated in your wishlist.,%1$s a fost actualizat in favorite.
+%d product(s) have been added to shopping cart: %s.,%d produse au fost adaugate in cos: %s.
+"%s for ""%s"".","%s pentru ""%s""."
+%s has been moved to wishlist %s,%s a fost mutat in favorite %s
+%s's Wishlist,Favoritele lui %s
+* Required Fields,* campuri obligatorii
+Add All to Cart,Pune toate in cos
+Add to Cart,Pune in cos
+Add to Compare,Adauga la comparare
+Add to Wishlist,Adauga la Favorite
+Added From,Adaugat de la
+An error occurred while adding item to wishlist.,Eroare la adaugarea articolului in lista de favorite.
+An error occurred while adding item to wishlist: %s,Eroare la adaugarea articolului in lista de favorite.: %s
+An error occurred while deleting the item from wishlist.,Eroare la stergerea articolului din lista de favorite.
+An error occurred while deleting the item from wishlist: %s,Eroare la stergerea articolului din lista de favorite: %s
+An error occurred while updating wishlist.,Eroare la actualizarea listei de favorite.
+Are you sure you want to remove this product from your wishlist?,Esti sigur ca vrei sa stergi produsul de la Favorite?
+Are you sure you would like to remove this item from the wishlist?,Esti sigur ca vrei sa stergi articolul din lista de favorite?
+Back,Inapoi
+Can\'t delete item from wishlist,Articolul nu poate fi sters din lista de favorite
+Can\'t save description %s,Nu se poate salva descrierea %s
+Can\'t update wishlist,Nu se poate actualiza lista de favorite
+Cannot add item to shopping cart,Articolul nu poate fi adaugat in cosul de cumparaturi
+Cannot add the item to shopping cart.,Articolul nu poate fi adaugat in cosul de cumparaturi.
+Cannot configure product,Produsul nu poate fi configurat
+Cannot load wishlist item,Articolul din lista de favorite nu poate fi incarcat
+Cannot move item to wishlist,Articolul nu poate fi mutat in lista de favorite
+Cannot specify product.,Produsul nu poate fi specificat
+Cannot specify wishlist item.,Articolul din lista de favorite nu poate fi specificat.
+Cannot specify wishlist.,Lista de favorite nu poate fi specificata.
+Cannot update wishlist,Lista de favorite nu poate fi actualizata
+Check this checkbox if you want to add a link to an rss feed to your wishlist.,Bifeaza daca vrei sa adaugi un link catre un feed RSS in lista ta de favorite.
+Click for price,Click pentru pret
+Comment,Comentariu
+Comment:,Comenteaza:
+Configure Wishlist Item,Configureaza articol din lista de favorite
+Configured Price:,Pret configurat:
+Could not find wishlist,Lista de favorite nu a fost gasita
+Customer My Account My Wishlist,Client Contul Meu Favorite
+Customer My Account Wishlist Sharing Form,Formular de partajare Lista favorite Contul Meu Client
+Customer Shared Wishlist View,Vizualizare Lista favorite partajata client
+Date Added,Adaugat la data
+Days in Wishlist,Zile in lista de favorite
+Display Wishlist Summary,Afiseaza sumarul listei de favorite
+Edit,Editeaza
+Email Sender,Expeditor e-mail
+Email Template,Sablon de e-mail
+Email address can\'t be empty.,Adresa de e-mail nu poate fi goala.
+"Email addresses, separated by commas","Adrese e-mail, separate de virgula"
+Enabled,Activat
+General Options,Optiuni generale
+Go to Wishlist,Mergi la favorite
+Helper for wishlist options rendering doesn't implement required interface.,Asistentul pentru redarea optiunilor listei de favorite nu implementeaza interfata necesara. 
+In stock,In stoc
+Last Added Items,Ultimele adaugate
+Message,Mesaj
+My Wishlist,Favorite
+My Wishlist (%d item),Favorite (%d item)
+My Wishlist (%d items),Favorite (%d items)
+My Wishlist <small>(%d)</small>,Favorite <small>(%d)</small>
+My Wishlist Link,Link Favorite
+Options Details,Detalii optiuni
+Out of stock,Stoc epuizat
+"Please enter a valid email addresses, separated by commas. For example johndoe@domain.com, johnsmith@domain.com.","Introduceti adrese de e-mail valide, separate de virgula. De exemplu, fifi1987@domeniu.ro."
+Please input a valid email address.,Introduceti o adresa de e-mail valida.
+"Please, enter your comments...",Introduceti comentariile...
+Product,Produs
+Product Details and Comment,Detalii si comentarii produs
+Product(s) %s have required options. Each of them can be added to cart separately only.,Produsele %s au optiuni obligatorii. Fiecare poate fi adugat in cos numai separat.
+RSS Feed,Feed RSS
+RSS link to %s's wishlist,Link RSS catre favoritele lui %s'
+Remove Item,Sterge articol
+Remove This Item,Inlatura acest articol
+Remove item,Inlatura articol
+Requested cart item doesn't exist,Articolul din cos solicitat nu exista
+Requested wishlist doesn't exist,Lista de favorite solicitata nu exista
+Share Options,Optiuni partajare
+Share Wishlist,Trimite favoritele
+Share Your Wishlist,Trimite lista ta de favorite
+Sharing Information,Informatii partajare favorite
+This Wishlist has no Items,Aceasta lista de favorite nu contine articole
+This product(s) is currently out of stock,Acest produs nu se afla momentan in stoc
+Unable to add the following product(s) to shopping cart: %s.,Nu s-au putut adauga in cos produsele urmatoare: %s.
+Update Wishlist,Actualizeaza favorite
+User description,Descriere utilizator
+View Details,Vezi detalii
+View Product,Vezi produs
+What's this?,Ce este asta?
+Wishlist,Favorite
+Wishlist Section,Sectiune Favorite
+Wishlist Sharing,Partajare favorite
+Wishlist could not be created.,Lista de favorite nu a putut fi creata.
+Wishlist is empty now.,Lista de favorite e goala.
+You have no items in your wishlist.,Nu ai articole in lista de favorite.
+Your Wishlist has been shared.,Lista ta de favorite a fost partajata.
+"%1$s was successfully added to your wishlist. Click <a href=""%2$s"">here</a> to continue shopping","%1$s a fost adaugat la Favorite. Click <a href=""%2$s"">aici</a> pentru a continua cumparaturile"
+Added On,Adaugat la
+Email address can't be empty.,Adresa de e-mail nu poate fi goala.
+You input not valid email address.,Ai introdus o adresa de e-mail nevalida.
+Are You sure?,Sunteti Sigur?
+There was an error while adding item to wishlist.,Eroare la adaugarea articolului in lista de favorite.
+There was an error while adding item to wishlist: %s,Eroare la adaugarea articolului in lista de favorite: %s
+There was an error while deleting item from wishlist.,Eroare la stergerea articolului din lista de favorite.
+There was an error while deleting item from wishlist: %s,Eroare la stergerea articolului din lista de favorite: %s
+Your Wishlist was successfully shared,Lista ta a fost trimisa cu succes
+"My Wishlist - <a href=""%s"">%d Item(s)</a>","Favorite - <a href=""%s"">%d Articole</a>"
+Cannot create wishlist,Lista de favorite nu poate fi creata
+Can't save description %s,Descrierea %s nu poate fi salvata
+Cannot specify product,Produsul nu poate fi specificat
+Share options,Optiuni partajare favorite
+This product(s) is currently out of stock:,Produsul nu este momentan in stoc:

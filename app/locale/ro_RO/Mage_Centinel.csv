@@ -1,0 +1,33 @@
+3D Secure CAVV,CAVV securizat 3D 
+3D Secure Card Validation,Validare card securizata 3D
+3D Secure Cardholder Validation,Validare titular card  securizata 3D
+3D Secure Electronic Commerce Indicator,Indicator electronic de comert securizat 3D
+3D Secure Verification Result,Rezultat verificare securizat 3D
+3D Secure XID,XID securizat 3D 
+Card Issuer Liability,Obligatiile emitentului cardului
+Card Verification,Verificare card
+Enrolled,Inscris
+Enrolled but Authentication Unavailable,"Inscris, dar cu autentificare indisponibila"
+Failed,Esuat
+MasterCard SecureCode,Cod de securitate MasterCard
+Merchant Liability,Obligatiile comerciantului
+Not Enrolled,Neinscris
+Order cannot be placed.,Comanda nu poate fi plasata.
+Payment information error. Please start over.,"Eroare informatii plata.Va rugam, reincepeti."
+Please continue with placing order.,"Va rugam, continuati cu plasarea comenzii."
+Please verify the card with the issuer bank before placing the order.,"Va rugam, verificati cardul cu banca emitenta inainte de a plasa comanda."
+Please verify the card with the issuer bank:,"Va rugam, verificati cardul cu banca emitenta:"
+Start/Reset Validation...,Start/Resetare validare...
+Successful,Cu succes
+Successful attempt,Tentativa reusita
+The card has failed verification with the issuer bank.,Verificarea cardului cu banca emitenta a esuat.
+"There has been wrong payment information submitted or the time limit has expired. Please, try again.","Au fost trimise informatii de plata incorecte sau limita de timp a expirat.Va rugam, incercati din nou."
+"There has been wrong payment information submitted or time limit has expired. Please, try again.","Au fost trimise informatii de plata incorecte sau limita de timp a expirat.Va rugam, incercati din nou."
+This card has failed validation and cannot be used.,Acest card nu poate fi folosit deoarece validarea sa a esuat.
+To ensure the security of your transactions,Pentru a asigura siguranta tranzactiilor dumneavoastra
+Unable to complete,Nu se poate finaliza
+Validation failed.,Validare esuata.
+Verification Failed,Verificare esuata
+Verification Successful,Verificare reusita
+Verification cannot be processed,Verificarea nu poate fi procesata
+Verified by Visa,Verificat de Visa

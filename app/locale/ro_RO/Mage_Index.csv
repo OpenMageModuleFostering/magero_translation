@@ -1,0 +1,47 @@
+%s Index process is working now. Please try run this process later.,"Procesul de indexare %s este in functiune. Va rugam, incercati sa rulati acest proces mai tarziu."
+%s index was rebuilt.,Indexul %s a fost reconstruit.
+'%s' Index Process Information,Informatii Proces Index '%s'
+Action,Actiune
+Cannot initialize the indexer process.,Procesul de indexare nu poate fi initializat.
+Change Index Mode,Schimba Mod Index
+"Click here to go to <a href=""%s"">Cache Management</a> and refresh cache types.","Click aici pentru a merge la <a href=""%s"">Administrare Cache</a> si a reimprospata tipurile cache."
+"Click here to go to <a href=""%s"">Index Management</a> and rebuild required indexes.","Click aici pentru a merge la <a href=""%s"">Administrare Index</a> si a reconstrui indexurile solicitate."
+Delete,Sterge
+Description,Descriere
+Disable,Dezactiveaza
+Enable,Activeaza
+General,General
+Index,Index
+Index Description,Descriere Index
+Index Management,Administrare Index
+Index Mode,Mod Index
+Index Name,Nume Index
+Index mode,Mod Index
+Indexer code is not defined.,Codul de indexare nu este definit.
+Indexer model is not defined.,Modelul de indexare nu este definit.
+Indexer model should extend Mage_Index_Model_Indexer_Abstract.,Modelul de indexare trebuie sa contina Mage_Index_Model_Indexer_Abstract.
+Manual Update,Actualizare Manuala
+Mode,Mod
+Never,Niciodata
+No,Nu
+One or more of the Indexes are not up to date:,Unul sau mai multe indexuri nu sunt actualizate:
+Please select Index(es),"Va rugam, selectati Index(uri)"
+Please select Indexes,"Va rugam, selectati Indexuri"
+Process Information,Informatii Proces
+Processing,Se proceseaza
+Ready,Gata
+Refresh,Reimprospatare
+Reindex Data,Date reindexate
+Reindex Required,Reindexare Necesara
+Revoke,Revoca
+Status,Stare
+System,Sistem
+The index has been saved.,Indexul a fost salvat.
+There was a problem with reindexing process.,A aparut o problema cu procesul de reindexare.
+There was a problem with saving process.,A aparut o problema cu procesul de salvare.
+Total of %d index(es) have changed index mode.,Un total de %d index(uri) si-au schimbat modul de indexare.
+Total of %d index(es) have reindexed data.,Un total de %d index(uri) contin date reindexate.
+Update Required,Actualizare Necesara
+Update on Save,Actualizeaza dupa Salvare
+Updated At,Actualizat la
+Yes,Da

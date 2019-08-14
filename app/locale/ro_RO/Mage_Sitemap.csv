@@ -1,0 +1,53 @@
+Action,Actiune
+Add Sitemap,Adauga harta site
+Always,Intotdeauna
+CMS Pages Options,Optiuni pagini CMS
+Categories Options,Optiuni categorii
+Daily,Zilnic
+Edit Sitemap,Modifica harta site
+Enabled,Activat
+Error Email Recipient,Destinatar email erori
+Error Email Sender,Expeditor email erori
+Error Email Template,Template email erori
+"File ""%s"" cannot be saved. Please, make sure the directory ""%s"" is writeable by web server.","Fisierul ""%s"" nu poate fi salvat. Va rugam, asigurati-va ca directorul ""%s"" poate fi scris de server."
+Filename,Nume fisier
+Frequency,Frecventa
+Generate,Generate
+Generation Settings,Setari de generare
+Google Sitemap,Google Sitemap
+Hourly,Din ora in ora
+ID,ID
+Last Time Generated,Ultima generare
+Link for Google,Link pentru Google
+Monthly,Lunar
+Never,Niciodata
+New Sitemap,Harta site noua
+Path,Cale
+"Please create the specified folder ""%s"" before saving the sitemap.","Va rugam sa creati directorul specificat ""%s"" inainte de a salva harta site-ului."
+Please define correct path,"Va rugam, definiti calea corecta"
+"Please make sure that ""%s"" is writable by web-server.","Va rugam, asigurati-va ca ""%s"" poate fi scris de server."
+"Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in the filename. No spaces or other characters are allowed.","Va rugam, folositi numai litere (a-z or A-Z), cifre (0-9) sau underscore (_) in numele fisierului. Nu sunt permise spatii si alte caractere."
+Priority,Prioritate
+Products Options,Optiuni produse
+Sitemap,Harta site
+Sitemap generate Warnings,Alerte generare harta site
+Start Time,Incepe la
+Store View,Vitrina
+The priority must be between 0 and 1.,Prioritatea trebuie sa fie intre 0 si 1.
+"The sitemap ""%s"" has been generated.","Harta site ""%s"" a fost generata."
+The sitemap has been deleted.,Harta site a fost stearsa.
+The sitemap has been saved.,Harta site a fost salvata.
+This sitemap no longer exists.,Harta site nu mai exista.
+Unable to find a sitemap to delete.,Nu s-a gasit nici o harta site de sters.
+Unable to find a sitemap to generate.,Nu s-a gasit nici o harta site de generat.
+Unable to generate the sitemap.,Harta site nu poate fi generata.
+Valid values range: from 0.0 to 1.0.,Intervalul de valori valide: de la  0.0 pana la 1.0.
+Weekly,Saptamanal
+Yearly,Anual
+Google Sitemaps,Google Sitemaps
+Sitemap was successfully saved,Harta site salvata cu succes.
+Sitemap was successfully deleted,Harta site stearsa cu succes.
+This sitemap no longer exists,Harta site-ului nu mai exista
+Manage Google Sitemaps,Administrare Google Sitemaps
+Unable to find a sitemap to delete,Nu s-a gasit nici o harta site de sters.
+Priority must be between 0 and 1,Prioritatea trebuie sa fie intre 0 si 1

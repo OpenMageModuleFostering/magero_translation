@@ -1,0 +1,54 @@
+-- Please select --,"-- Va rugam, selectati --"
+Allowed Currencies,Valutele permise
+Base Currency,Valutele de baza
+"Base currency is used for all online payment transactions. Scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Valuta de baza este folosita pentru toate tranzactiile de plata online. Aria este definita de catre aria de pret a catalogului (""Catalog"" > ""Pret"" > ""Arie de Pret Catalog"")."
+"Can\'t convert rate from ""%s-%s"".","Nu se poate schimba cursul de la ""%s-%s""."
+Cannot retrieve rate from %s.,Nu se poate recupera cursul de la %s.
+Connection Timeout in Seconds,Limita de timp a conexiunii se va sfarsi in cateva secunde.
+Continue &raquo;,Continua &raquo;
+Country,Tara
+Country API,API Tara
+Country and Format Type combination should be unique,Combinatia Tara si Tip Formatare ar trebui sa fie unice.
+Currency,Valuta
+Currency Options,Optiuni valuta
+Currency Setup,Setari valuta
+Currency Update Warnings,Alerte actualizari valute
+Default Display Currency,Valuta Standard Afisata
+Directory,Director
+Display not required State,Afiseaza judet optional
+Enabled,Activat
+Error Email Recipient,Destinatar e-mail erori
+Error Email Sender,Expeditor e-mail erori
+Error Email Template,Sablon e-mail erori
+FATAL ERROR:,EROARE FATALA.
+Frequency,Frecventa
+Installed Currencies,Valute instalate
+Invalid Import Service specified.,Servicii Import nevalide specificate.
+Invalid country code: %s,Cod tara nevalid: %s
+Invalid rates received,Cursuri nevalide primite
+Invalid target currency.,Valuta tinta nevalida.
+List of countries,Lista de Tari
+List of regions in specified country,Lista de regiuni din tara specificata
+Postal Code is Optional for the following countries,Codul postal este Optional pentru urmatoarele tari
+Region,Regiune
+Region API,API Regiune
+Scheduled Import Settings,Setari Import programate
+Select Your Currency,Selectati valuta
+Service,Servicii
+Start Time,Timpul inceperii
+State is required for,Tara este necesara pentru
+State/Province,Tara/Judet
+States Options,Optiuni Tari
+Unable to initialize the import model.,Modelul de Import nu a putut fi initializat.
+"Undefined rate from ""%s-%s"".","Curs nedefinit de la ""%s-%s""."
+WARNING:,ATENTIE:
+Webservicex,Webservicex
+Your current currency is: %s,Valuta dumneavoastra este: %s
+Cannot retrieve rate from %s,Cursul nu poate fi recuperat de la %s
+Invalid Import Service Specified,Servicii Import nevalide specificate.
+Invalid target currency,Valuta tinta nevalida.
+Unable to initialize import model,Modelul de Import nu a putut fi initializat.
+"Undefined rate from ""%s-%s""","Curs nedefinit de la ""%s-%s"""
+Base currency (Currency will be used for all online payment transactions),Valuta de baza (Valuta va fi folosita pentru toate tranzactiile de plata online)
+Default display currency,Valuta standard afisata
+Allowed currencies,Valutele permise

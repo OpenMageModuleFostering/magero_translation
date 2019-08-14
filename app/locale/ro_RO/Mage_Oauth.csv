@@ -1,0 +1,118 @@
+%name% '%value%' is too long. It must has length %min% symbols.,%nume% '%valoare%' este prea lung. Trebuie sa aiba lungimea de %max% simboluri.
+%name% '%value%' is too short. It must has length %min% symbols.,%nume% '%valoare%' este prea scurta. Trebuie sa aiba lungimea de %min% simboluri.
+* Required Fields,* Campuri obligatorii
+<strong>%s</strong> requests access to your account,<strong>%s</strong> solicita acces la contul dumneavoastra
+Admin,Admin
+After authorization application will have access to you account.,"Dupa autorizatie, aplicatia va avea acces la contul dumneavoastra."
+An error occurred on confirm authorize.,A aparut o eroare la confirmarea autorizatiei.
+An error occurred on delete action.,A aparut o eroare la stergerea actiunii.
+An error occurred on delete application.,A aparut o eroare la stergerea aplicatiei.
+An error occurred on reject authorize.,A aparut o eroare la respingerea autorizarii.
+An error occurred on saving consumer data.,A aparut o eroare la salvarea informatiilor consumatorului.
+An error occurred on update revoke status.,A aparut o eroare la actualizarea starii de revocare.
+An error occurred while deleting the consumer.,A aparut o eroare la stergerea consumatorului.
+An error occurred.,A aparut o eroare.
+An error occurred. Your authorization request is invalid.,A aparut o eroare. Solicitarea dumneavoastra de autorizatie nu este valida.
+App Name,Numele Aplicatiei
+"Application ""%s"" has been deleted.","Aplicatia ""%s"" a fost stearsa."
+"Application ""%s"" has been enabled.","Aplicatia ""%s"" a fost activata."
+"Application ""%s"" has been revoked.","Aplicatia ""%s"" a fost revocata."
+Application Name,Numele Aplicatiei
+Application not found.,Aplicatie negasita.
+Are you sure you want to delete this application?,Sunteti sigur ca doriti sa stergeti aceasta aplicatie?
+Are you sure you want to disable this application?,Sunteti sigur ca doriti sa dezactivati aceasta aplicatie?
+Are you sure you want to enable this application?,Sunteti sigur ca doriti sa activati aceasta aplicatie?
+Authorization confirmed,Autorizatie confirmata
+Authorization confirmed.,Autorizatie confirmata.
+Authorize,Autorizeaza
+Authorize application,Autorizeaza aplicatie
+Authorized Tokens,Jetoane autorizate
+Callback URL,URL callback
+Cleanup Probability,Probabilitate Cleanup
+Cleanup Settings,Setari Cleanup
+Close,Inchide
+Confirm OAuth token authorization,Confirma autorizatia jetonului OAuth
+Confirm token authorization Pop Up for admin,Confirma Pop Up-ul autorizatiei jetonului pentru admin
+Confirm token authorization for admin,Confirma autorizatia jetonului pentru admin
+Confirmation Of Authorization,Confirmarea Autorizatiei
+Consumer Information,Informatii Consumator
+Consumer Name,Nume Consumator
+Consumers,Consumatori
+Created At,Creat la
+Customer,Client
+Customer My Account My OAuth Applications,Aplicatiile mele Oauth din Contul Meu client
+Delete,Sterge
+Disable,Dezactiveaza
+Disabled,Dezactivat
+Edit,Editeaza
+Edit Consumer,Editeaza Consumator
+Email,E-mail
+Email Address,Adresa E-mail
+Enable,Activeaza
+Enabled,Activat
+Entry with ID #%s not found.,Intrarea cu ID-ul #%s nu a fost gasita.
+Expiration Period,Perioada expirarii
+Give the verifier code to application administrator,Transmite codul de verificare catre administratorul aplicatiei
+ID,ID
+Invalid Callback URL,URL callback nevalid
+Invalid ID parameter.,Parametru ID nevalid.
+Invalid Rejected Callback URL,URL Retroapel respins nevalid
+Invalid entry ID.,ID intrare nevalid.
+Invalid revoke status.,Stare de revocare nevalida.
+Key,Cod
+Log In,Logare
+Log in as a customer,Logare client
+Log in as admin,Logare ca admin
+Log in as customer,Logare client
+Log in to use <strong>%s</strong>,Logare pentru utilizare <strong>%s</strong>
+Login,Logare
+My Applications,Aplicatiile Mele
+Name,Nume
+New Consumer,Consumator Nou
+OAuth,OAuth
+OAuth Admin My Apps,Aplicatiile mele Oauth admin
+OAuth Authorized Tokens,Jetoane autorizate OAuth
+OAuth Consumers,Consumatori OAuth
+OAuth authorization Pop Up for customer,Pop Up autorizatie Oauth pentru client
+OAuth authorization for admin,Autorizatie Oauth pentru admin
+OAuth authorization for customer,Autorizatie OAuth pentru client
+OAuth authorization simple for admin,Autorizatie simpla OAuth pentru admin
+Password,Parola
+Permissions,Permisiuni
+Please login to proceed authorization.,Va rugam sa va logati pentru a continua autorizatia.
+Please select needed row(s).,"Va rugam, selectati randul/randurile necesar(e)."
+Please select revoke status.,"Va rugam, selectati starea de revocare."
+REST - My Apps,Aplicatiile Mele - REST 
+REST - OAuth Authorized Tokens,Jetoane autorizate OAuth - REST
+REST - OAuth Consumers,Consumatori OAuth - REST
+Reject,Respinge
+Reject OAuth token authorization,Respinge autorizatie jeton OAuth
+Reject authorization,Respinge Autorizatia
+Reject token authorization Pop Up for admin,Respinge Pop Up-ul de autorizatie a jetonului pentru admin
+Reject token authorization for admin,Respinge autorizatia jetonului pentru admin
+Rejected Callback URL,URL Retroapel respins
+Rejection Of Authorization,Respingerea Autorizatiei
+Revoked,Revocat
+Role Name,Nume Functie
+Save,Salveaza
+Save and Continue Edit,Salveaza si Continua Editarea
+Secret,Secret
+Selected entries enabled.,Intrarile selectate au fost activate.
+Selected entries has been deleted.,Intrarile selectate au fost sterse.
+Selected entries revoked.,Intrarile selectate au fost revocate .
+Status,Stare
+System,Sistem
+The application access request is rejected.,Solicitarea de acces la aplicatie a fost respinsa.
+The consumer has been deleted.,Consumatorul a fost sters.
+The consumer has been saved.,Consumatorul a fost salvat.
+Token Status Change,Modificare Stare Jeton
+Token Status Change Email Template,Sablon E-mail pentru Modificarea Starii Jetonului
+Unable to find a consumer.,Nu s-a putut gasi un consumator.
+User ID,ID Utilizator
+User Name,Nume Utilizator
+User Type,Tip Utilizator
+Verifier code: %s,Cod de Verificare: %s
+You have no applications.,Nu aveti aplicatii.
+deleted,sters
+enabled,activat
+revoked,revocat

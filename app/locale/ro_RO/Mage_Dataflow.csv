@@ -1,0 +1,49 @@
+"<a href=""%s"" target=""_blank"">Link</a>","<a href=""%s"" target=""_blank"">Link</a>"
+Actions XML is not valid.,Actiunea XML nu este valida.
+"An error occurred while opening file: ""%s"".","A aparut o eroare in timpul deschiderii fisierului: ""%s""."
+"Could not load file: ""%s"".","Nu s-a putut incarca fisierul: ""%s""."
+Could not save file: %s.,Nu s-a putut salva fisierul: %s.
+Declared adapter %s was not found.,Adaptorul declarat %s nu a fost gasit.
+"Destination folder ""%s"" is not a directory.","Directorul de destinatie ""%s"" nu este un director."
+"Destination folder ""%s"" is not writable.","Directorul de destinatie ""%s"" nu poate fi scris."
+Done,Executat
+"Dry run set, stopping execution.","Mod simulare activ, opresc executia."
+ETA: %s,ETA: %s
+Error in field mapping: field list for mapping is not defined.,A aparut o eroare in maparea campului: Lista de campuri pentru mapare nu este definita.
+"File ""%s"" does not exist.","Fisierul ""%s"" nu exista."
+Found %d rows.,S-au gasit %d randuri.
+Less than a minute,Mai putin de 1 minut
+"Loaded successfully: ""%s"".","Incarcat cu succes: ""%s""."
+Memory Used: %s,Memorie utilizata: %s
+"Method ""%s"" not defined in adapter %s.","Metoda ""%s"" nu este definita in adaptor %s."
+"Method ""%s"" was not defined in adapter %s.","Metoda ""%s"" nu a fost definita in adaptor %s."
+"Please declare ""adapter"" and ""method"" nodes first.","Va rugam, declarati intai nodurile ""adaptor"" si ""metoda"" ."
+Processed records: %s,Inregistrari procesate: %s
+Profile with the same name already exists.,Un profil cu acelasi nume deja exista.
+"Saved successfully: ""%s"" [%d byte(s)].","Salvat cu succes: ""%s"" [%d byte(s)]."
+Sheet 1,Fisa 1
+Skip undefined row.,Omiteti rand nedefinit.
+Starting %s :: %s,Se porneste %s :: %s
+"The destination folder ""%s"" does not exist or there is no access to create it.","Registrul de destinatie ""%s"" nu exista sau nu exista acces la crearea acestuia."
+Total records: %s,Total inregistrari: %s
+hour,ora
+hours,ore
+minute,minut
+minutes,minute
+"Access denied to destination folder ""%s","Acces interzis la directorul de destinatie ""%s"""
+"Could not load file: ""%s","Nu se poate incarca fisierul: ""%s"""
+Could not save file: %s,Nu se poate salva fisierul: %s
+Declared adapter %s not found,Adaptorul declarat %s nu este gasit
+"Destination folder ""%s"" does not exist or not access to create","Directorul destinatie ""%s""nu exista sau nu exista permisiuni de creare"
+"Destination folder ""%s"" is not a directory","Directorul destinatie""%s"" nu este un registru"
+"Destination folder ""%s"" is not a writeable","Directorul destinatie ""%s"" nu poate fi scris"
+"Dry run set, stopping execution","Modul simulare a fost, executia va fi oprita."
+Error field mapping! Fields list for mapping is not defined,Eroare mapare camp! Lista de campuri pentru mapare nu este definita
+"Error occured during file opening: ""%s","A aparut o eroare in timpul deschiderii fisierului: ""%s"""
+"File ""%s"" don't exist","Fisierul ""%s"" nu exista"
+Found %d rows,S-au gasit %d randuri
+"Method ""%s"" not defined in adapter %s","Metoda ""%s"" nu este definita in adaptor %s"
+"Please declare ""adapter"" and ""method"" node first","Va rugam, declarati intai nodurile ""adaptor"" si ""metoda"" "
+"Loaded successfully: ""%s","S-a incarcat cu succes: ""%s"""
+"Saved successfully: ""%s"" [%d byte(s)]","S-a salvat cu succes: ""%s"" [%d byte(s)]"
+Skip undefined row,Omite rand nedefinit

@@ -1,0 +1,138 @@
+* Select shipping method,* Selecteaza metoda de livrare
+2Day,2Day
+2nd Day Air,2nd Day Air
+2nd Day Air AM,2nd Day Air AM
+3 Day Select,3 Day Select
+<br />Warning: <strong>%s</strong><br />,<br />Atentie: <strong>%s</strong><br />
+"<strong style=""color:red"">Warning!</strong> This option disables the merchant calculated shipping. With this option, Google API ignores any attempt to affect shipping prices.","<strong style=""color:red"">Atentie!</strong> Aceasta optiune dezactiveaza livrarea calculata a comerciantului. Cu aceasta optiune, API Google ignora orice modificare asupra preturilor livrarii."
+A virtual item to reflect the discount total,Un articol virtual care sa reflecte totalul reducerii
+A virtual item to reflect the tax total,Un articol virtual care sa reflecte totalul TVA
+AVS Status: %s,Stare AVS: %s
+Add Shipping Method,Adauga metoda de livrare
+Allowed Methods,Metode acceptate
+Amount: %s,Suma: %s
+Auto-generated from GoogleCheckout Charge,Auto-generat din Cost GoogleCheckout
+Buyer Account Age: %s days,Vechimea contului cumparatorului: %s zile
+CC Partial: xxxx-%s,Partial CC: xxxx-%s
+CID Status: %s,Stare CID: %s
+Carrier Calculated Methods,Metode calculate curier
+Cart Discount,Reducere cos de cumparaturi
+Checkout Image Style,Stil imagine Finalizare
+Commercial,Comercial
+Continue Shopping URL,URL Continua Cumparaturile
+Credit memo has been created automatically,Nota de credit a fost creata automat
+Debug,Debug
+Default Package Height (in),Inaltime Pachet Standard (in)
+Default Package Length (in),Lungime Pachet Standard (in)
+Default Package Width (in),Latime Pachet Standard(in)
+Default Price for Methods,Pret standard pentru Metode
+Default price:,Pret standard:
+Delivery Address Category,Categorie Adresa de Livrare
+Delivery Schedule,Program livrari
+Description-based delivery,Livrare bazata pe descriere
+Disable Default Tax Tables,Dezactiveaza Tabelele TVA Standard
+Discount Tax,Reducere TVA
+Eligible for Protection: %s,Eligibil pentru Protectie: %s
+Email delivery,Livrare E-mail
+Enable,Activeaza
+Enable Carrier Calculated,Activeaza Calculare Curier
+Enable Digital Delivery,Activeaza Livrare Digitala
+Enable Flat Rate,Activeaza Taxa Forfetara
+Enable Merchant Calculated,Activeaza Calculare Comerciant
+Enable this if your checkout request is too big and being cut off.,Activeaza asta daca solicitarea de finalizare este prea mare si este scurtata.
+Expiration: %s,Expirare: %s
+Express Mail,Express Mail
+Express Saver,Express Saver
+FedEx,FedEx
+Financial: %s -> %s,Financiar: %s -> %s
+First Overnight,Livrat peste noapte
+Free Shipping,Livrare gratuita
+Fulfillment: %s -> %s,Indeplinire: %s -> %s
+Google API,API Google
+Google Authorization:,Autorizatie Google:
+Google Buyer ID: %s,ID Cumparator Google: %s
+Google Charge:,Taxa Google:
+Google Chargeback:,Google Chargeback:
+Google Checkout,Google Checkout
+Google Checkout Shipping - Carrier Calculated,Livrare Google Checkout - Taxe Curier Calculate
+Google Checkout Shipping - Digital Delivery,Livrare Google Checkout - Livrare Digitala
+Google Checkout Shipping - Flat Rate,Livrare Google Checkout - Taxa Forfetara
+Google Checkout Shipping - Merchant Calculated,Livrare Google Checkout -  Taxe calculate de comerciant
+Google Checkout: %s,Google Checkout: %s
+Google Order Number: %s,Numar Comanda Google: %s
+Google Order Status Change:,Modificare Stare Comanda Google:
+Google Refund:,Rambursare Google:
+Google Risk Information:,Informatii Risc Google:
+Ground,Terestru
+Hide Cart Contents,Ascunde Continut Cos
+Home Delivery,Livrare la domiciliu
+IP Address: %s,Adresa IP: %s
+"If enabled, cart contents will be hidden after clicking on the Google Checkout button in the shopping cart, and restored if ""Edit Cart"" link was activated.","Daca este activat, continutul cosului de cumparaturi va fi ascuns dupa ce faceti click pe butonul Google Checkout din cosul de cumparaturi, si restaurat daca link-ul ""Editeaza Cos"" a fost activat."
+Inches,Inci
+Invoice Auto-Created: %s,Factura Ato-creata: %s
+Is Buyer Willing to Receive Marketing Emails: %s,Cumparatorul doreste sa primeasca E-mail-uri de marketing: %s
+Key/URL delivery,Livrare Cod/URL 
+Large - %s,Mare - %s
+Latest Charge: %s,Cea mai recenta taxa: %s
+Latest Chargeback: %s,Cel mai recent chargeback: %s
+Latest Refund: %s,Cea mai recenta Rambursare: %s
+Location,Locatie
+Media Mail,Expediere Media
+Medium - %s,Mediu - %s
+Merchant ID,ID Comerciant
+Merchant Key,Cod Comerciant
+Method,Metoda
+New Order Status,Stare Comanda Noua
+Next Day Air,Next Day Air
+Next Day Air Early AM,Next Day Air Early AM
+Next Day Air Saver,Next Day Air Saver
+No,Nu
+No Comment,Nici un comentariu
+No Reason,Nici un motiv
+Optimistic,Optimist
+"Optional, leave empty for home page.","Optional, lasati gol pentru pagina principala."
+Order creation error,Eroare Creare Comanda
+Parcel Post,Timbru Colet
+Pessimistic,Pesimist
+Priority Mail,Expediere Prioritara
+Priority Overnight,Expediere Peste Noapte Prioritara
+Rate 1 Amount,Cursul 1 Suma
+Rate 1 Ship To Applicable Countries,Cursul 1 Livreaza catre tarile acceptate
+Rate 1 Ship to Specific Countries,Cursul 1 Livreaza catre anumite tari
+Rate 1 Title,Cursul 1 Titlu
+Rate 2 Amount,Cursul 2 Suma
+Rate 2 Ship To Applicable Countries,Cursul 2 Livreaza catre tarile acceptate
+Rate 2 Ship to Specific Countries,Cursul 2 Livreaza catre anumite tari
+Rate 2 Title,Cursul 2 Titlu
+Rate 3 Amount,Cursul 3 Suma
+Rate 3 Ship To Applicable Countries,Cursul 3 Livreaza catre tarile acceptate
+Rate 3 Ship to Specific Countries,Cursul 3 Livreaza catre anumite tari
+Rate 3 Title,Cursul 3 Titlu
+"Required for live Google Checkout transactions. Make sure that this option corresponds to Use Secure URLs in Frontend (""Web"" > ""Secure"").","Necesar pentru tranzactiile Google Checkout.Asigurati-va ca aceasta optiune corespunde cu Foloseste URL-uri Securizate din Frontend (""Web"" > ""Secure"")."
+Residential,Rezidential
+Sandbox,Sandbox
+Secure Callback URL,URL Callback Securizat
+Small - %s,Mic- %s
+Standard Overnight,Standard Livrare peste noapte
+"The tax amount has been applied based on the information received from Google Checkout, because tax amount received from Google Checkout is different from the calculated tax amount","Suma taxei a fost aplicata avand la baza informatiile primite de la Finalizarea google, pentru ca suma taxei primita de la Google Checkout este diferita de suma calculata a taxei"
+Title,Titlu
+Total Chargeback: %s,Total Chargeback: %s
+Total Charged: %s,Total Cost: %s
+Total Refunded: %s,Total Rambursat: %s
+Transparent,Transparent
+UPS,UPS
+USPS,USPS
+United Kingdom,Regatul Unit
+United States,Statele Unite
+Unknown Reason,Motiv Necunoscut
+White Background,Fundal Alb
+Yes,Da
+You will be redirected to GoogleCheckout in a few seconds.,Veti fi redirectionat catre Google Checkout in cateva secunde.
+Buyer account age: %s days,Vechime cont cumparator: %s days
+Eligible for protection: %s,Eligibil pentru protectie: %s
+Google Buyer Id: %s,Id Cumparator Google: %s
+Google order status change:,Modificare Stare Comanda Google:
+Hide Cart Contents During Checkout,Ascunde continutul osului de cumparaturi pe durata Finalizarii
+Invoice auto-created: %s,Factura Auto-creata: %s
+New order status,Stare Comanda Noua
+Virtual item to reflect discount total,Articol virtual care sa reflecte totalul reducerii

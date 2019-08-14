@@ -1,0 +1,33 @@
+ALL,Toate
+ANY,Oricare
+Add,Adauga
+Apply,Aplica
+Conditions Combination,Combinatie Conditii
+Customer Groups must be specified.,Este necesara specificarea grupurilor de clienti.
+End Date must be greater than Start Date.,Data de finalizare trebuie sa fie mai mare decat deta de icepere.
+FALS,FALS
+If %s of these conditions are %s:,Daca %s din aceste conditii sunt %s:
+Invalid discount amount.,Suma reducerii nu este valida.
+Open Chooser,Deschide selectorul
+Perform following actions,Executa urmatoarele actiuni
+Please choose a condition to add...,"Va rugam, selectati o conditie..."
+Please choose an action to add...,"Va rugam, selectati o actiune..."
+Remove,Sterge
+ADEVARAT,ADEVARAT
+Websites must be specified.,Este necesara specificarea site-urilor.
+by,dupa
+contains,contine
+does not contain,nu contine
+equals or greater than,mai mare sau egal cu
+equals or less than,mai mic sau egal cu
+greater than,mai mare decat
+is,este
+is not,nu este
+is not one of,nu este unul dintre
+is one of,este unul dintre
+less than,mai mic decat
+to,la
+Description: %s,Descriere: %s
+Expire at: %s,Expira la: %s
+Start at: %s,Incepe la: %s
+Name: %s,Nume: %s

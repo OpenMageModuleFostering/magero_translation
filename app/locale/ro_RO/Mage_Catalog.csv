@@ -1,0 +1,1001 @@
+# of Use,# in uz
+%1$s incl tax.,%1$s TVA incl.
+%s - %s,%s - %s
+%s Item(s),%s Articol(e)
+%s and above,%s si peste
+(%d),(%d)
+(Copy data from: %s),(Copie datele de la: %s)
+* Required Fields,* Campuri Obligatorii
+-- Please Select --,"Va rugam, selectati"
+"86400 by default, if not set. To refresh instantly, Clear the Blocks HTML Output Cache.","Daca nu se seteaza, se va folosi 86400 implicit. Pentru a reimprospata, goliti blocurile Cache Output HTML."
+"<strong style=""color:red"">Warning!</strong> Applying MAP by default will hide all product prices on the frontend.","<strong style=""color:red"">Atentie!</strong>Aplicand MAP ca si standard se vor ascunde preturile produselor din vitrina."
+A group with the same name already exists.,Exista un grup cu acelasi nume
+A name is required,E necesar un nume
+A product type is not defined for the indexer.,Un tip de produs nu este definit pentru indexer.
+ALL GROUPS,Toate grupurile
+AM,AM
+Action,Actiune
+Actual Price,Pret Real
+Add,Adauga
+Add Attribute,Adauga atribut
+Add Design Change,Adauga schimbare de design
+Add Group,Adauga grup
+Add Group Price,Adauga Pret Grup
+Add New,Adauga nou
+Add New Attribute,Adauga atribut nou
+Add New Attribute Set,Adauga set de atribute nou
+Add New Group,Adauga grup nou
+Add New Images,Adauga imagini noi
+Add New Option,Adauga optiune noua
+Add New Row,Adauga rand nou
+Add New Search Term,Adauga termen de cautare
+Add New Set,Adauga set nou
+Add Product,Adauga produs
+Add Product To Websites,Adauga produs pe site-uri
+Add Root Category,Adauga categorie radacina
+Add Subcategory,Adauga subcategorie
+Add Tax,Adauga TVA
+Add Tier,Adauga nivel
+Add attribute into attribute set,Adauga atribut la un set de atribute
+Add group into attribute set,Adauga grup la un set de atribute
+Add new custom option into product,Adauga optiune personalizata noua la produs
+Add new values into custom option,Adauga valori noi la optiunile personalizate
+Add option,Adauga optiune
+Add to Cart,Adauga in cos
+Add to Compare,Adauga la comparatie
+Add to Wishlist,Adauga la favorite
+Additional Information,Mai multe informatii
+Alert Urls,Url-uri alerte
+All,Toate
+All Product Types,Toate tipurile de produs
+All Websites,Toate site-urile
+All products of this set will be deleted! Are you sure you want to delete this attribute set?,Toate produsele din acest set vor fi sterse! Sunteti sigur ca doriti sa stergeti acest set de atribute?
+Allow All Products per Page,Permite toate produsele pe pagina
+Allow Dynamic Media URLs in Products and Categories,Permite URL-uri Media dinamice in Produse si Categorii
+Allow HTML Tags on Frontend,Permite Etichete HTML in front-end
+Allowed File Extensions,Extensii Fisier Permise
+Allowed file extensions to upload,Extensii Fisier Permise pentru incarcare
+An error occurred while adding products to websites.,A aparut o eroare in timpul adaugarii produselor pe site-uri.
+An error occurred while clearing comparison list.,A aparut o eroare in timpul golirii listei de comparatie.
+An error occurred while deleting this review.,A aparut o eroare in timpul stergerii acestei recenzii.
+An error occurred while removing products from websites.,A aparut o eroare in timpul stergerii produselor de pe site-uri.
+An error occurred while saving the URL rewrite,A aparut o eroare in timpul salvarii rescrierii URL.
+An error occurred while saving the attribute set.,A aparut o eroare in timpul salvarii setului de atribute.
+"An error occurred while saving the collection, aborting. Error message: %s","A aparut o eroare in timpul salvarii colectiei, se anuleaza. Mesaj eroare: %s"
+An error occurred while saving the product.,A aparut o eroare in timpul salvarii acestui produs.
+An error occurred while saving the search query.,A aparut o eroare in timpul salvarii cererii de cautare.
+An error occurred while saving this group.,A aparut o eroare in timpul salvarii acestui grup.
+An error occurred while saving this review.,A aparut o eroare in timpul salvarii acestei recenzii.
+An error occurred while trying to delete the category.,A aparut o eroare in timpul stergerii acestei categorii.
+An error occurred while updating the product(s) attributes.,A aparut o eroare in timpul actualizarii atributelor produsului.
+An error occurred while updating the product(s) status.,A aparut o eroare in timpul actualizarii starii produsului.
+"An invalid group ID is specified, skipping the record.","A fost specificat un ID grup nevalid, se omite inregistrarea."
+"An invalid option ID is specified for %s (%s), skipping the record.","A fost specificat un ID optiune nevalid pentru %s (%s), se omite inregistrarea."
+An invalid store was specified.,A fost specificat un magazin nevalid.
+Anchor Custom Text,Text Personalizat ancora
+Anchor Custom Title,Titlu Personalizat ancora
+Applicable to catalog products and categories only. Any media content will be inserted into editor as a static URL. It is not updated if the system configuration base URL changes.,Aplicabil numai la produsele si categoriile din catalog. Orice continut media va fi introdus in editor ca URL static.Nu se actualizeaza daca URL-ul de baza al configuratiei sistemului se schimba.
+Apply MAP (Default Value),Aplica MAP (Valoare standard)
+Apply To,Aplica la
+Approved,Aprobat
+Are you sure you want to delete this category?,Sunteti sigur ca doriti sa stergeti categoria aceasta?
+Are you sure you would like to remove all products from your comparison?,Sunteti sigur ca doriti sa stergeti toate produsele din comparatia dumneavoastra?
+Are you sure you would like to remove this item from the compare products?,Sunteti sigur ca doriti sa stergeti acest articol din produsele de comparat?
+Are you sure?,Sunteti sigur?
+As low as:,Minimum:
+Assign,Aloca
+Assign product link,Aloca link produs
+Assign product to category,Aloca produs la categorie
+Assigned Products,Produse alocate
+Associated Products,Produse asociate
+Attrib. Set Name,Nume set atribute
+"Attribute ""%s"" is invalid.","Atributul ""%s"" nu este valid."
+"Attribute ""%s"" is required.","Atributul ""%s"" este necesar."
+Attribute Information,Informatii atribut
+Attribute Model,Model atribut
+Attribute Name:,Nume atribut:
+Attribute Set,Set de atribute
+Attribute Sets,Seturi de atribute
+Attribute add,Adaugare atribut
+"Attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Codul atributului nu este valid. Va rugam, folositi numai litere (a-z), cifre (0-9)sau underscore(_) in acest camp, primul caracter trebuie sa fie o litera."
+"Attribute group with the \/name/\"" name already exists""","Un grup de atribute cu numele \/name/\"" deja exista"""
+Attribute remove,Stergere atribut
+Attribute with the same code already exists,Un atribut cu acelasi cod deja exista
+Attributes,Atribute
+Attrribute names can be specified per store.,Numele atributele pot fi specificate per magazin.
+Autogenerate,Autogenereaza
+Availability:,Disponibilitate:
+Back,Inapoi
+Backend Model,Model Backend
+Backend Table,Tabel Backend
+Backend Table Title,Titlu tabel Backend
+Backorders,Comenzi in asteptare
+Based On,Bazat pe
+Before Order Confirmation,Inainte de confirmarea comenzii
+Best Value,Cea mai buna valoare
+Block after Info Column,Blocare dupa coloana info
+Bottom Block Options Wrapper,Bottom Block Options Wrapper
+Bottom/Left,Stanga/Jos
+Bottom/Right,Dreapta/Jos
+Browse By,Cauta dupa
+Bundle Items,Pachet articole
+Buy %1$s,Cumpara %1$s
+Buy %1$s for,Cumpara %1$s la
+Buy %1$s for %2$s,Cumpara %1$s la %2$s
+Buy %1$s for %2$s (%3$s incl. tax) each,Cumpara %1$s la %2$s (%3$s TVA incl.) fiecare
+Buy %1$s for %2$s each,Cumpara %1$s la %2$s fiecare
+Cache Lifetime (Seconds),Durata Cache (secunde)
+Cache refresh needed.,Reimprospatare Cache necesara.
+Can be Divided into Multiple Boxes for Shipping,Poate fi impartit in mai multe cutii pentru livrare
+Can be used only with catalog input type Dropdown,Poate fi folosit doar pentru tipul Dropdown
+"Can be used only with catalog input type Dropdown, Multiple Select and Price","Poate fi folosit doar pentru tipul Dropdown, Selectare Multipla si Pret"
+Can\'t create image.,Imaginea nu poate fi creata.
+Cancel,Anuleaza
+Cannot create image.,Imaginea nu poate fi creata.
+Cannot create writeable directory '%s'.,Nu se poate crea directorul '%s' care sa permita scrierea.
+Cart Item Attribute,Atribut articol din cos
+Catalog,Catalog
+Catalog Category (Anchor),Categorie catalog (Ancora)
+Catalog Category (Non-Anchor),Categorie catalog (Non-ancora)
+Catalog Category (Without Subcategories),Categorie catalog (Fara Subcategorii)
+Catalog Category Link,Link categorie catalog
+Catalog New Products List,Lista produse noi catalog
+Catalog Price Scope,Arie pret catalog
+Catalog Product Compare List,Lista de comparare a produselor din catalog
+Catalog Product Email to a Friend,Trimite unui prieten un produs din catalog
+Catalog Product Image Gallery Popup,Popup galerie imagini a produselor din catalog
+Catalog Product Link,Link produs din catalog
+Catalog Product View (Any),Vizualizare produs din catalog (Oricare)
+Catalog Product View (Configurable),Vizualizare produs din catalog (Configurabile)
+Catalog Product View (Grouped),Vizualizare produs din catalog (Grupate)
+Catalog Product View (Simple),Vizualizare produs din catalog (Simplu)
+Catalog Product View (Virtual),Vizualizare produs din catalog (Virtual)
+Catalog Section,Sectiune catalog
+Catalog Seo Sitemap (Category List),Harta site Seo catalog (Lista categorii)
+Catalog Seo Sitemap (Category Tree),Harta site Seo catalog (Ramuri categorii)
+Catalog Seo Sitemap (Common),Harta site Seo catalog (Comun)
+Catalog Seo Sitemap (Product List),Harta site Seo catalog (List produse)
+Catalog URL Rewrites,Rescrieri URL Catalog
+Catalog product custom option values API,API valori optiuni personalizate a produsului din catalog
+Catalog product custom options API,API  optiuni personalizate a produsului din catalog
+"Catalog, Search","Catalog, Cautare"
+Categories,Categorii
+Categories Sitemap,Harta site categorii
+Category,Categorie
+Category API,API Categorie
+Category Data,Date Categorie
+Category Flat Data,Date categorie flat
+Category Link Block Template,Sablon bloc al link-ului categoriei
+Category Link Inline Template,Sablon Inline al link-ului categoriei
+Category Products,Produsele categoriei
+Category Top Navigation,Navigare top categorie
+Category URL Suffix,Sufix URL categorie
+Category attributes API,API atribute categorie
+Category move error,Eroare la mutarea categoriei
+Category move operation is not possible: parent category is equal to child category.,Operatiunea de mutare a categoriei nu este posibila: categoria parinte este echivalenta cu cea copil.
+Category move operation is not possible: the current category was not found.,Operatiunea de mutare a categoriei nu este posibila: categoria curenta nu a fost gasita.
+Category move operation is not possible: the new parent category was not found.,Operatiunea de mutare a categoriei nu este posibila: noua categorie parinte nu a fost gasita.
+Category must be an instance of Mage_Catalog_Model_Category.,Categoria trebuie sa fie o instanta a Mage_Catalog_Model_Category.
+Center,Centru
+Change,Schimba
+Change or Retrieve attribute store view,Schimba sau obtine atribute vitrina
+Change status,Schimba stare
+Check items to add to the cart or,Bifati articole pentru a le adauga in cos sau
+Choose an Option...,Alege o optiune...
+Clear All,Sterge tot
+Clear Price,Sterge Pret
+Click for price,Click pentru pret
+Close Window,Inchide fereastra
+Collapse All,Restrange Tot
+Comma-separated.,Separate prin virgula.
+Comparable,Comparabil
+Comparable on Front-end,Comparabil pe front-end
+Comparable on the Frontend,Comparabil pe front-end
+Compare,Compara
+Compare Products,Compara produsele
+Conditions Combination,Combinatie conditii
+Configurable Product,Produs configurabil
+Configurable Product Settings,Setari produse configurabile
+Configure Product,Configureaza Produs
+Continue,Continua
+Copy From Configurable,Copiaza din produsul configurabil
+Country/State,Tara/Stat
+Create,Creaza
+Create (Upload),Creaza (Incarca)
+Create Empty,Creaza gol
+Create Permanent Redirect for URLs if URL Key Changed,Creaza redirectionare permanenta pentru URL-uri daca codul URL se modifica.
+Create Permanent Redirect for old URL,Creaza redirectionare permanenta pentru URL-uri vechi.
+Create Product Settings,Setari creare produs
+Create Simple Associated Product,Creaza produs asociat simplu
+Create attribute set based on another set,Creaza set atribute bazat pe alt set
+Create new attribute,Creaza atribut nou
+Create new category,Creaza categorie noua
+Create new product,Creaza produs nou
+Cross-sells,Vanzari incrucisate
+Currently Shopping by:,Cumpara dupa:
+Custom Design,Design personalizat
+Custom Options,Optiuni Personalizate
+Custom options,Optiuni Personalizate
+Customer Group,Grup clienti
+Customers Reviews,Recenzii clienti
+Customers Tagged Product,Produs cu eticheta adaugata de client
+Data Type for Saving in Database,Tip de data pentru salvare in baza de date
+Date & Time Custom Options,Optiuni personalizate Data/Timp
+Date Fields Order,Ordine campuri date
+Date Subscribed,Data Abonarii
+Datetime,Data si timp
+Decimal,Zecimal
+Declare attribute value saving scope,Declara scopul de salvare al valorilor atributelor
+"Default ""What's This"" Text Message","Mesaj text standard ""Ce este aceasta?"""
+Default Popup Text Message,Mesaj text standard PopUp
+Default Price,Pret Standard
+Default Price Navigation Step,Pas Navigare Pret Standard
+Default Qty,Cantitate Standard
+Default Values,Valori Standard
+"Defines the base currency scope (""Currency Setup"" > ""Currency Options"" > ""Base Currency"").","Defineste aria valutei de baza (""Setari Valuta"" > ""Options Valuta"" > ""Valuta de baza"")."
+Delete,Sterge
+Delete Attribute,Sterge atribut
+Delete Attribute Set,Sterge set de atribute
+Delete Category,Sterge categorie
+Delete Group Price,Sterge pret grup
+Delete Option,Sterge optiune
+Delete Row,Sterge rand
+Delete Search,Sterge cautare
+Delete Selected Group,Sterge grupul selectat
+Delete Tier,Sterge nivel
+Delete attribute,Sterge atribut
+Delete category,Sterge categorie
+Delete product,Sterge produs
+Depends on design theme,Depinde de tema design-ului
+Design,Design
+Details,Detalii
+Disabled,Dezactivat
+Disallowed file type.,Tip fisier nepermis.
+Display Actual Price,Afiseaza Pret Real
+Display Price Interval as One Price,Afiseaza intervalul de preturi ca un singur pret
+Display Product Count,Afiseaza numaratoarea de produse
+Display in Suggested Terms,Afiseaza in termenii sugerati
+Double click on a group to rename it,Click dublu  pentru a redenumi un grup
+Double click on above image to view full picture,Click dublu pe imaginea de mai sus pentru a vizualiza imaginea intreaga
+Downloadable Information,Informatii Descarcabile
+Duplicate,Duplica
+Duplicate website group price customer group.,Duplicate website group price customer group.
+Duplicate website tier price customer group and quantity.,Duplicate website tier price customer group and quantity.
+"Duplicate website, country and state tax found.","Duplicate website, country and state tax found."
+"E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","Ex. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}.Citirea dinamica a directivelor are impact asupra performantei catalogului."
+Edit,Modifica
+Edit Attribute Set '%s',Modifica set de atribute '%s'
+Edit Product Attribute,Modifica atribut produs
+"Edit Product Attribute ""%s""","Modifica atribut produs ""%s"""
+Edit Search,Editeaza cautare
+Edit Search '%s',Editeaza cautarea '%s'
+Edit Set Name,Editeaza Nume setat
+Email,E-mail
+Email to a Friend,Trimite unui prieten
+Empty,Gol
+Enable MAP,Activeaza MAP
+Enable Qty Increments,Activeaza Incrementator cantitate
+Enable WYSIWYG,Activeaza WYSIWYG
+Enabled,Activat
+Error during retrieval of option value: %s,Eroare in timpul recuperarii valorii optiunii: %s
+Exclude,Exclude
+Expand All,Extinde tot
+Failed,Esuat
+"Failed to copy file %s. Please, delete media with non-existing images and try again.","Copierea fisierului %s a esuat.Va rugam, stergeti fisierele media fara imagini si incercati din nou."
+Failed to move file: %s,Eroare la mutarea fisier: %s
+Feature Products,Produse Recomandate
+Field is not complete,Campul nu este complet.
+File options format is not valid.,Formatul optiunilor fisierului nu este valid.
+File upload failed,Incarcarea fisierului a esuat.
+Filter model name must be declared.,Numele modelului filtrului trebui declarat.
+Filter must be an object. Please set correct filter.,"Filtrul trebui sa fie un obiect. Va rugam, setati filtrul corect."
+Filterable (no results),Filtrabil (fara rezultate)
+Filterable (with results),Filtrabil (cu rezultate)
+First Name,Prenume
+Fixed,Fixat
+For internal use.,Pentru uz intern.
+For the last time placed.,Plasat pentru ultima oara.
+Frontend,Frontend
+Frontend Model,Model Frontend
+Frontend Properties,Proprietati Frontend
+Gallery,Galerie
+General Information,Informatii generale
+Get full information about attribute with list of options,Obtine informatii complete despre atribut cu lista de optiuni.
+Get full information about custom option in product,Obtine informatii complete despre optiunea personalizata in produs.
+Get list of available custom option types,Obtine lista de tipuri de optiuni personalizate disponibile.
+Get list of non-default attributes by product type and attributes set,Obtine lista de atribute non-standard dupa tipul de produs si set de atribute.
+Get list of possible attribute types,Obtine lista de tipuri de atribute posibile.
+Get special price,Obtine pret special
+Global,Global
+Globally Editable,Editabil global
+Go to Home Page,Mergi la pagina principala
+Grid,Tabel
+Group add,Adauga Grup
+Group remove,Sterge Grup
+Grouped Product,Produs grupat
+Groups,Grupuri
+Home,Home
+ID,ID
+ID: %s,ID: %s
+"If empty, the Category Name will be used","Daca este necompletat, numele categoriei va fi folosit"
+"If empty, the Product Name will be used","Daca este necompletat, numele produsului va fi folosit"
+If you do not specify an option value for a specific store view then the default (Admin) value will be used.,Daca nu specificati o valoare a optiunii pentru o anumita vitrina atunci va fi folosita valoarea standard (Admin).
+Image,Imagine
+Image content is not valid base64 data.,Continutul imaginii nu este valid base64
+Image does not exist.,Imaginea nu exista
+Image file was not found.,Fisierul de imagini nu a fost gasit.
+Image type and information need to be specified for each store view.,Tipul imaginii si informatiile trebuie specificate pentru fiecare vitrina a magazinului.
+In Cart,In Cos
+In Stock,In Stoc
+In stock,In stoc
+Incl. Tax,TVA Incl.
+Index product and categories URL rewrites,Indexeaza produsele si rescrierile URL din categorii
+Index product attributes for layered navigation building,Indexeaza atributele produselor pentru constructia nagigarii pe straturi
+Index product prices,Indexeaza preturile produselor
+Indexed category/products association,Asociere categorie/produs indexata.
+Info,Info
+Info Column Options Wrapper,Wrapper Optiuni Coloana Info
+Input Type,Tip Input
+Integer,Intreg
+Interval Division Limit,Limita de diviziune a intervalului
+Invalid Tier Prices,Preturi Nivel nevalide
+Invalid attribute %s,Atribut %s nevalid
+"Invalid attribute option specified for attribute %s (%s), skipping the record.","Optiunea atributului specificata pentru atributul %s (%s) nu este valida, se omite inregistrarea."
+"Invalid attribute set specified, skipping the record.","Setul de atribute specificat nu este valid, se omite inregistrarea."
+Invalid block: %s.,Bloc nevalid: %s.
+Invalid category IDs.,ID-uri categorii nevalide.
+Invalid category.,Categorie nevalida.
+Invalid image file type.,Tipul fisieruli de imagini nu este valid.
+Invalid image type.,Tipul imaginii nu este valid.
+"Invalid option ID specified for %s (%s), skipping the record.","ID-ul optiunii specificate pentru %s (%s) nu este valid, se omite inregistrarea."
+"Invalid product type specified, skipping the record.","Tipul produsului specificat nu este valid, se omite inregistrarea."
+Invalid store specified,Magazinul specificat nu este valid
+"Invalid store specified, skipping the record.","Magazinul specificat nu este valid, se omite inregistrarea."
+Invalid tier prices. The product is not associated to the requested website.,Preturile de nivel nu sunt valide . Produsul nu este asociat cu site-ul solicitat.
+Inventory,Inventar
+Is Default,Este standard
+Is Required,Este necesar
+Items %s to %s of %s total,Articole %s pana la %s din %s in total
+Items that you do not want to show in the catalog or search results should have status 'Disabled' in the desired store.,Articolele care nu vreti sa apara in catalog trebuie sa aiba valoarea 'Dezactivat' in magazinul dorit.
+Items that you don't want to show in the catalog or search results should have status 'Disabled' in the desired store.,Articolele care nu vreti sa apara in catalog trebuie sa aiba valoarea 'Dezactivat' in magazinul dorit.
+Keep your eyes open for our special Back to School items and save A LOT!,"Uitati-va dupa articolele noastre ""Inapoi la Scoala"" si economisiti!"
+Label,Eticheta
+Last Name,Nume
+Last Notification,Ultima notificare
+Layered Navigation,Navigare pe straturi
+Learn More,Vezi mai mult
+"Line %d, Email: %s","Linie %d, Email: %s"
+"Line %d, SKU: %s","Linie %d, COD: %s"
+"Link (Related, Up sell, Cross sell)","Link (Asociat, Vanzare incruciata)"
+Link product does not exist.,Link-ul catre produs nu exista
+Link to a Specified Category,Link catre o categorie specificata
+Link to a Specified Product,Link catre un produs specificat
+List,Lista
+List Mode,Modul lista
+List of Products that are set as New,Lista de produse care sunt setate ca si Noi
+List of types,Liste de tipuri
+Manage Attribute Sets,Administreaza seturile de atribute
+Manage Attributes,Administreaza atributele
+Manage Catalog Categories,Administreaza categoriile catalogului
+Manage Categories,Administreaza categoriile
+Manage Label / Options,Administreaza etichete / optiuni
+Manage Options (values of your attribute),Administreaza optiuni (valori ale atributelor)
+Manage Product Attributes,Administreaza atribute produs
+Manage Product Sets,Administreaza seturi produs
+Manage Products,Administreaza produse
+Manage Stock,Administreaza stoc
+"Manage Titles (Size, Color, etc.)","Administreaza titluri (Marime, Culoare, etc.)"
+Max Characters,Maximum de  Caractere
+Maximal Depth,Adancime maxima
+Maximum Image Size,Dimensiune maxima imagini
+Maximum Number of Price Intervals,Numarul maxim de intervaluri de preturi
+Maximum Qty Allowed in Shopping Cart,Cantitate maxima in cos
+Maximum allowed image size for '%s' is %sx%s px.,Dimensiunea maxima a imaginilor pentru '%s' este %sx%s px.
+Maximum image height,Inaltimea maxima a imaginii
+Maximum image width,Latimea maxima a imaginii
+Maximum number of characters:,Numarul maxim de caractere:
+Maximum number of price intervals is 100,Numarul maxim de intervaluri de preturieste 100
+Media Image,Imagine Media
+Minimum Advertised Price,Pretul Minim Promovat (MAP)
+Minimum Lines per Page,Numarul minim de randuri pe pagina
+Minimum Qty Allowed in Shopping Cart,Cantitate minima admisa in cos
+Minimum Qty for Item\'s Status to be Out of Stock,Starea cantitatii minime a articolului pana la epuizarea sa din stoc.
+"Missing SKU, skipping the record.","Lipsa cod produs, se omite inregistrarea."
+More Views,Mai multe poze
+Move,Muta
+Move category in tree,Muta categoria in arbore
+Must be in the allowed values list.,Trebuie sa fie in lista valorilor admise.
+N/A,N/A
+Name,Nume
+Name in %s,Nume in %s
+New Product,Produs nou
+New Product Attribute,Atribut Produse Noi
+New Products,Produse noi
+New Products Grid Template,Sablon Tabel Produse Noi
+New Products List Template,Sablon Lista Produse Noi
+New Root Category,Categorie Radacina Noua
+New Search,Cautare noua
+New Set Name,Nume de set nou
+New Subcategory,Subcategorie noua
+Next,Urmatorul
+No,Nu
+No image,Fara imagine
+No layout updates,Nici o actualizare de layout
+No options of this product are available.,Nu sunt disponibile optiuni pentru acest produs.
+No product collections found.,Nu a fost gasita nici o colectie de produse.
+None,Nimic
+Not Visible Individually,Nu se poate vizualiza individual
+Notify Low Stock RSS,Anunta stoc limitat RSS
+Notify for Quantity Below,Anunta la cantitate mai mica de
+Number of Products to Display,Numar de produse de afisat
+Number of Uses,Numar de utilizari
+Number of results,Numar de rezultate
+Number of results (For the last time placed),Numar de rezultate (plasat pentru ultima data)
+OK,OK
+OR,Sau
+Old Price:,Pret vechi:
+On Gesture,La Click
+Option validation failed to add product to cart.,Validarea optiunii a esuat la adaugarea in cos.
+Option values,Valori optiuni
+Option:,Optiune:
+Options,Optiuni
+Options Control,Control optiuni
+Options is required,Necesita alegere optiune
+Our customer service is available 24/7. Call us at (555) 555-0123.,"Serviciul ""Relatii Clienti"" este disponibil 24/7. Sunati-ne la (555) 555-0123."
+Out of Stock,Nu este in stoc
+Out of stock,Nu este in stoc
+PM,PM
+Page Title Separator,Separatorul titlului paginii
+Parent Category,Categorie parinte
+Pending,In asteptare
+Pending Reviews RSS,Recenzii in asteptare RSS
+Percentage,Procentaj
+Please add rows to option.,"Va rugam, adaugati randuri la optiune."
+Please be careful as once you click on the row it will load package data form the selected file and all unsaved form data will be lost.,"Va rugam, aveti grija pentru ca odata ce ati facut click pe rand acesta va incarca formularul cu date de impachetare. Fisierul selectat si toate datele nesalvate din formular vor fi pierdute."
+Please click on the Close Window button if it is not closed automatically.,"Va rugam, faceti click pe butonul de inchidere al ferestrei daca aceasta nu se inchide automat."
+Please enter a new group name,Introduceti un nou nume de grup
+"Please refresh ""Catalog URL Rewrites"" and ""Product Attributes"" in System -> <a href=""%s"">Index Management</a>","Va rugam, reimprospatati ""Rescriere URL Catalog"" si ""Atribute Produs"" in Sistem -> <a href=""%s"">Administrare Index</a>"
+Please select a static block ...,"Va rugam, selectati un bloc static ..."
+Please select items.,"Va rugam, selectati articole."
+Please select one or more attributes.,"Va rugam, selectati unul sau mai multe atribute."
+Please select product(s).,"Va rugam, selectati produse."
+Please select products for attributes update,"Va rugam, selectati produse pentru actualizarea atributelor."
+Please specify date required option(s).,"Va rugam, specificati optiuni necesare datei."
+"Please specify the number of products, that will not be divided into subintervals.","Va rugam, specificati numarul de produse care nu vor fi divizate in subintervale."
+Please specify the product required option(s),"Va rugam, specificati optiuni necesare produsului."
+Please specify the product required option(s).,"Va rugam, specificati optiuni necesare produsului."
+Please specify the product\'s option(s).,"Va rugam, specificati optiunile produsului."
+Please specify the product\'s required option(s).,"Va rugam, specificati optiunile necesare produsului."
+Please specify the quantity of product(s).,"Va rugam, specificati cantitatea de produse."
+Please specify time required option(s).,"Va rugam, specificati optiuni necesare timpului."
+Please wait...,"Va rugam, asteptati..."
+Position,Pozitie
+Position in Layered Navigation,Pozitie in Navigarea pe straturi
+Position of attribute in layered navigation block,Pozitia atributului in blocul de navigare pe straturi
+Prev,Inapoi
+Previous,Anterior
+Price,Pret
+Price Navigation Step Calculation,Calculare segmente din navigarea pe preturi
+Price Type,Tip Pret
+Price is not available,Pretul nu este disponibil
+Price values for options should be specified in system base currency.,Valorile pretului trebuie specificate in valuta de baza.
+Price:,Pret:
+Price: %s,Pret: %s
+Print This Page,Printeaza pagina
+Product,Produs
+Product API,API Produs
+Product Alerts,Alerte produs
+Product Attribute,Atribut produs
+Product Attributes,Atribute produs
+Product Categories,Categorii de produse
+Product Description,Descriere produs
+Product Extra Info,Informatii Aditionale Produs
+Product Flat Data,Product Flat Data
+Product ID,ID Produs
+Product Image Placeholders,Inlocuitori imagine produs
+Product Image Watermarks,Watermarks imagine produs
+Product Images,Imagini Produs
+Product Images API,API Imagini Produs
+Product In Websites,Produs In Site-uri
+Product Info Column,Coloana Info Produs
+Product Information,Informatii produs
+Product Link Block Template,Sabon bloc link produs
+Product Link Inline Template,Sablon Inline link produs
+Product Listing Sort by,Listare produs dupa
+Product Name,Nume produs
+Product Prices,Preturi produs
+Product Reviews,Rcenzii produs
+Product Tags,Etichete produs
+Product Tier Price API,API pret pe nivele produs
+Product Type,Tip produs
+Product URL Suffix,Sufix URL produs
+Product View Extra Hint,Sugestie suplimentara vizualizare produs
+Product attribute sets API,API Seturi atribut produs
+Product attributes API,API atribute produs
+Product collection expected.,Se asteapta o colectie de produse.
+Product is not loaded,Produsul nu este incarcat
+"Product links API (related, cross sells, up sells)","API link-uri produs (asocieri,Vanzari incrucisate, up-sells)"
+Product name,Nume produs
+Product types API,API tipuri produs
+Product with this combination of attributes already associated to configurable.,Un produs cu aceasta combinatie de atribute este deja asociat la un configurabil.
+Products,Produse
+Products Comparison List,Lista de comparatie produse
+Products Information,Informatii produse
+Products Reviews,Recenzii produse
+Products Sitemap,Harta site produse
+Products only,Doar produse
+Products per Page on Grid Allowed Values,Produse per pagina la valorile permise in grila
+Products per Page on Grid Default Value,Produse per pagina la valoarea standard din grila
+Products per Page on List Allowed Values,Produse per pagina la valorile permise in lista
+Products per Page on List Default Value,Produse per pagina la valoarea standard din grila
+Properties,Proprietati
+Qty,Cantitate
+Qty Increments,Mariri de cantitate
+Qty Uses Decimals,Cantitatea foloseste zecimale
+Qty for Item\'s Status to Become Out of Stock,Starea cantitatii articolului pana la epuizarea sa din stoc.
+Qty:,Cant:
+Quantity,Cantitate
+Quick Create,Creare rapida
+Quick Overview,Vizualizare de ansamblu rapida
+Quick simple product creation,Creare rapida simpla a unui produs
+"Records for ""","Inregistrari pentru """
+Redirect,Redirectionare
+Redirect URL,URL redirectionare
+Regular Price:,Pret normal:
+Related Products,Produse asociate
+Remove,Sterge
+Remove Product From Websites,Sterge produs din Site-uri
+Remove This Item,Sterge acest articol
+Remove attribute from attribute set,Sterge atribut din setul de atribute
+Remove attribute set,Sterge setul de atribute
+Remove custom option,Sterge optiune standard
+Remove group from attribute set,Sterge grup din setul de atribute
+Remove option,Sterge optiune
+Remove product assignment,Sterge alocarea produsului
+Remove product image,Sterge imaginea produsului
+Remove product link,Sterge link-ul produsului
+Remove value from custom option,Sterge valoare din optiunea standard
+Rename existing group,Redenumeste grupul existent
+Rename group,Redenumeste grup
+Reorganize EAV category structure to flat structure,Reorganizeaza structura categoriei EAV ca structura flat
+Reorganize EAV product structure to flat structure,Reorganizeaza structura produsului EAV ca structura flat
+Reset,Reseteaza
+Results,Rezultate
+Retrieve attribute data,Obtine date atribut
+Retrieve attribute list,Obtine lista atribut
+Retrieve attribute options,Obtine optiuni atribut
+Retrieve categories tree,Obtine ramuri categorii
+Retrieve category attributes,Obtine atribute categorie
+Retrieve category data,Obtine date categorie
+Retrieve hierarchical tree,Obtine ramurile ierarhice
+Retrieve linked products,Obtine produse asociate
+Retrieve list of assigned products,Obtine lista de produse alocate
+Retrieve list of option values,Obtine lista de valori optiuni
+Retrieve list of product custom options,Obtine lista de optiuni personalizate produs
+Retrieve one level of categories by website/store view/parent category,Obtine un nivel de categorii dupa site/vitrina/Categorie principala
+Retrieve option value info,Obtine informatii valoare optiune
+Retrieve product,Obtine produs
+Retrieve product attribute sets,Obtine seturi atribute produs
+Retrieve product image,Obtine imagine produs
+Retrieve product image list,Obtine lista imagini produs
+Retrieve product image types,Obtine tipuri imagini produs
+Retrieve product link type attributes,Obtine atributele tip link ale produsului
+Retrieve product link types,Obtine tipuri link produs
+Retrieve product tier prices,Obtine nivel preturi produs
+Retrieve product types,Obtine tipuri produs
+Retrieve products data,Obtine date produse
+Retrieve products list by filters,Obtine lista de produse prin filtre
+Reviews,Recenzii
+Roll Over for preview,Pozitioneaza cursorul peste pentru vizualizare
+Root,Radacina
+SKU,Cod produs
+SKU length should be %s characters maximum.,Lungimea codului de produs trebuie sa fie de maximum %s caractere.
+Save,Salveaza
+Save Attribute,Salveaza atribut
+Save Attribute Set,Salveaza set atribute
+Save Category,Salveaza categorie
+Save Search,Salveaza cautare
+Save and Continue Edit,Salveaza si Continua Editarea
+Saved %d record(s),Au fost salvate %d inregistrari.
+Scope,Arie
+"Scope must not be changed, because the attribute is used in configurable products.","Aria nu trebuie schimbata, deoarece atributul este folosit la produsele configurabile."
+Search,Cauta
+Search Engine Optimizations,Optimizari pentru motoare de cautare
+Search Information,Informatii cautare
+Search Query,Cerere de cautare
+Search Term with such search query already exists.,Termen de cautare cu astfel de cerere de cautare deja exista.
+Searchable,Cautabil
+See price before order confirmation.,Vezi pret inainte de confirmarea comenzii
+Select Category...,Selecteaza Categorie...
+Select Configurable Attributes,Seleceaza atribute configurabile
+Select Product...,Selecteaza produs...
+Select type of option,Selecteaza tip optiune
+Select type options required values rows.,Selecteaza randurile de valori necesare tipurilor de optiuni.
+Selected Product Types,Selecteaza tipul de produs
+Selected configuration is not available.,Configuratia selectata nu este disponibila.
+Send Count,Trimite numaratoare
+Set Ascending Direction,Seteaza crescator
+Set Descending Direction,Seteaza descrescator
+Set Name,Seteaza numele
+Set Root Category for Store,Seteaza categoria radacina pentru magazin
+"Set root category for this store in the <a href=""%s"">configuration</a>","Seteaza categoria radacina pt magazin in <a href=""%s"">configurare</a>"
+Set special price,Seteaza pret special
+Set/Get current store view,Setaza/Obtine vitrina curenta
+Settings,Setari
+Shop By,Filtre
+Shopping Options,Optiuni de cumparare
+Show,Afiseaza
+Show Details,Afiseaza Detalii
+Show Tags,Afiseaza Etichete
+Simple Product,Produs simplu
+Site Map,Harta site
+Sitemap,Harta site
+"Skip import row, is not valid value ""%s"" for field ""%s""","Se omite randul de import, ""%s"" nu este o valoare valida pentru campul ""%s"""
+"Skip import row, required field ""%s"" for the new customer is not defined.","Se omite randul de import, campul ""%s"" necesar noului client nu este definit."
+"Skip import row, the value ""%s"" is invalid for field ""%s""","Se omite randul de import, valoarea ""%s"" nu este valida pentru campul ""%s"""
+"Skipping import row, required field ""%s"" for new products is not defined.","Se omite randul de import, campul ""%s"" necesar noului produs nu este definit."
+"Skipping import row, required field ""%s"" is not defined.","Se omite randul de import, campul ""%s"" necesar nu este definit."
+"Skipping import row, store ""%s"" field does not exist.","Se omite randul de import, campul magazinului ""%s"" nu exista."
+"Skipping import row, the value ""%s"" is not valid for the ""%s"" field.","Se omite randul de import, valoarea ""%s"" nu este valida pentru campul ""%s"""
+Some of the processed products have no SKU value defined. Please fill it prior to performing operations on these products.,Unele dintre produsele procesate nu au coduri definite. Va rugam sa le definiti inainte de a efectua operatiuni asupra acestor produse.
+Some of the products below do not have all the required options. Please edit them and configure all the required options.,Unele dintre produsele de mai jos nu au toate optiunile necesare.Va rugam sa le editati si sa configurati toate optiunile necesare.
+Sort By,Sorteaza dupa
+Sort Order,Ordine sortare
+Source Model,Model sursa
+Special Expires On: %s,Promotia Expira pe: %s
+Special Price:,Pret special:
+Special Price: %s,Pret special: %s
+Starting at:,Incepand de la:
+Static,Static
+Static block and products,Bloc static si produse
+Static block only,Numai bloc static
+Status,Stare
+Stock Availability,Disponibilitate stoc
+Store,Magazin
+Store View,Vitrina magazin
+Stretch,Intinde
+Subscribe to RSS Feed,Aboneaza-te la feed-uri RSS
+Super product attributes configuration,Configurare atribute pentru superprodus
+Synonym For,Sinonim cu
+System Properties,Proprietati sistem
+Tag Name,Nume eticheta
+Tax,TVA
+Template,Sablon
+Text,Text
+The Flat Catalog module has a limit of %2\$d filterable and/or sortable attributes. Currently there are %1\$d of them. Please reduce the number of filterable/sortable attributes in order to use this module,"Modulul catalogului flat are o limita de %2\$d atribute filtrabile si/sau sortabile. Momentan exista %1\$d. Va rugam, reduceti numarul de atribute filtrabile/sortabile pentru a folosi acest modul."
+The attribute model is not defined,Modelul atributului nu este definit.
+The attribute set has been saved.,Setul de atribute a fost salvat.
+The base directory to upload file is not specified.,Directorul de baza pentru incarcarea fisierului nu este specificat.
+The category has been deleted.,Categoria a fost stearsa.
+The category has been saved.,Categoria a fost salvata.
+The comparison list was cleared.,Lista de comparare a fost golita.
+The file '%s' for '%s' has an invalid extension,Fisierul '%s' pentru '%s' are o extensie nevalida.
+The file '%s' you uploaded is larger than %s Megabytes allowed by server,Fisierul '%s' pe care l-ati incarcat depaseste marimea de %s Mb admisa de server
+The file you uploaded is larger than %s Megabytes allowed by server,Fisierul pe care l-ati incarcat depaseste marimea de %s Mb admisa de server
+The filters must be an array.,Filtrele trebuie sa fie un array
+The image contents is not valid base64 data.,Continutul imaginii nu este compatibil cu base64.
+The image is not specified.,Imaginea nu este specificata.
+The model collection resource name is not defined.,Numele resursei colectiei model nu este definit.
+The product %s has been added to comparison list.,Produsul %s a fost adaugat la lista de comparare.
+The product %s has been removed from comparison list.,Produsul %s a fost sters din lista de comparare.
+The product attribute has been deleted.,Atributul produsului a fost sters.
+The product attribute has been saved.,Atributul produsului a fost salvat.
+The product has been created.,Produsul a fost creat.
+The product has been deleted.,Produsul a fost sters.
+The product has been duplicated.,Produsul a fost duplicat.
+The product has been saved.,Produsul a fost salvat.
+The product has required options,Produsul are optiuni necesare
+The review has been deleted,Recenzia a fost stearsa.
+The review has been saved.,Recenzia a fost salvata.
+The review was removed by another user or does not exist.,Recenzia a fost stearsa de catre alt utilizator sau nu exista.
+The search was deleted.,Cautarea a fost stearsa.
+The text is too long,Textul este prea lung.
+There are no %s available.,Nu exista %s.
+There are no customers for this alert,Nu exista clienti pentru aceasta alerta
+There are no customers for this alert.,Nu exista clienti pentru aceasta alerta
+There are no products matching the selection.,Nu exista produse conform criteriilor selectate.
+There was an error while request processing.,A aparut o eroare in timpul procesarii cererii.
+This Attribute no longer exists,Atributul nu mai exista.
+This attribute cannot be deleted.,Acest atribut nu poate fi sters.
+This attribute cannot be edited.,Acest atribut nu poate fi editat.
+This attribute cannot be updated.,Acest atribut nu poate fi actualizat.
+This attribute is used in configurable products.,Acest atribut este folostit la produse configurabile.
+This attribute is used in configurable products. You cannot remove it from the attribute set.,Acest atribut este folostit la produse configurabile. Nu il puteti elimina din setul de atribute.
+This attribute no longer exists,Acest atribut nu mai exista.
+This attribute set no longer exists.,Acest set de atribute nu mai exista.
+"This group contains attributes, used in configurable products. Please move these attributes to another group and try again.","Acest grup contine atribute folostite la produse configurabile.  Va rugam, mutati aceste atribute in alt grup si incercati din nou."
+This group contains system attributes. Please move system attributes to another group and try again.,Acest grup contine atribute de sistem. Mutati atributele in alt grup si incercati din nou.
+This is a required option,Aceasta este o optiune necesara
+This product no longer exists.,Acest produs nu mai exista.
+This search no longer exists.,Aceasta cautare nu ma exista.
+This setting will be applied when all prices in the specific price interval are equal.,Aceasta setare va fi aplicata cand toate preturile din intervalul specificat sunt egale.
+Tier Pricing,Stabilirea preturilor pe nivele
+Tile,Tile
+Time Format,Format Timp
+Title,Titlu
+"To reindex the enabled product(s), the store or product must be specified","Pentru a reindexa produsul activat, magazinul sau produsul trebuie specificat."
+"To see product price, add this item to your cart. You can always remove it later.",Adaugati articolul in cos pentru a vedea pretul acestuia. Poate fi eliminat ulterior.
+Top/Left,Stanga/Sus
+Top/Right,Dreapta/Sus
+Total Qty Base Items,Cantitate totala articole de baza
+Total incl. Tax: %1$s,Total incl. TVA: %1$s
+Total of %d record(s) have been deleted.,Un total de %d inregistrari au fost sterse.
+Total of %d record(s) have been updated.,Un total de %d inregistrari au fost actualizate.
+Total of %d record(s) were updated,Un total de %d inregistrari au fost actualizate.
+Type,Tip
+URL Rewrite Management,Administrare rescrieri URL
+Unable to complete this request.,Aceasta cerinta nu poate fi finalizata.
+Unable to find a search term to delete.,Nu s-a putut gasi un termen de cautare de sters.
+Unable to find an attribute to delete.,Nu s-a putut gasi un atribut de sters.
+Unable to get the product ID.,Nu s-a putut obtine ID-ul produsului.
+Unassigned Attributes,Atribute nealocate
+"Unknown EAV indexer type ""%s"".","Tip indexator EAV ""%s"" necunoscut."
+Unknown attribute: %s.,Atribut necunoscut: %s.
+"Unsupported product type ""%s"".","Tip produs ""%s"" neacceptat."
+Up-sells,Up-sells
+Update,Actualizeaza
+Update Attributes,Actualizeaza atribute
+Update Tier Price,Actualizeaza pret nivel
+Update assigned product,Actualizeaza produs alocat
+Update attribute,Actualizeaza atribut
+Update attributes,Actualizeaza atribute
+Update category,Actualizeaza categorie
+Update custom option of product,Actualizeaza optiunea personalizata a produsului
+Update product,Actualizeaza produs
+Update product image,Actualizeaza imagine produs
+Update product link,Actualizeaza link produs
+Update product tier prices,Actualizeaza preturile pe nivele ale produsului
+Update value of custom option,Actualizeaza valoarea optiunii personalizate
+Upload new product image,Incarca imagine noua produs
+Use Canonical Link Meta Tag For Categories,Foloseste meta-tagul Canonical Link pentru categorii
+Use Canonical Link Meta Tag For Products,Foloseste meta-tagul Canonical Link pentru produse
+Use Categories Path for Product URLs,Foloseste calea categoriilor pentru URL produse
+Use Config Settings,Foloseste setarile din Config
+Use Default Value,Foloseste valoare standard
+Use Flat Catalog Category,Foloseste model flat pentru categorie
+Use Flat Catalog Product,Foloseste model flat pentru produs
+Use In Layered Navigation,Foloseste la navigarea pe straturi
+Use In Search Results Layered Navigation,Foloseste la navigarea pe straturi rezultate cautare
+Use JavaScript Calendar,Foloseste Calendar JavaScript
+Use Static URLs for Media Content in WYSIWYG for Catalog,Foloseste URL-uri statica pentru continut media in WYSIWYG pentru Catalog
+Use To Create Configurable Product,Foloseste la crearea de produs configurabil
+Use Tree Like Category Sitemap,Foloseste harta site categorii in forma arborescenta
+Use config,Foloseste config
+Use default,Foloseste standard
+Use for Promo Rule Conditions,Foloseste pentru conditii si reguli ale promotiei
+Use four-digit year format.,Foloseste format al anului din 4 cifre.
+Use in Advanced Search,Foloseste in cautare avasata
+Use in Layered Navigation,Foloseste navigarea pe straturi
+Use in Layered Navigation<br/>(Can be used only with catalog input type 'Dropdown'),Foloseste navigarea pe straturi<br/>(Poate fi folosita numai cu input de tip 'Dropdown')
+Use in Quick Search,Foloseste in cautare rapida
+Used for Sorting in Product Listing,Folosit pentru sortare in Listarea Produselor
+Used in Product Listing,Folosit in Listarea Produselor
+"Value for ""%s"" is invalid.","Valoarea pentru ""%s"" nu este valida."
+"Value for ""%s"" is invalid: %s","Valoarea pentru ""%s"" nu este valida: %s"
+Varchar,Camp Caractere Variabile
+View as,Vizualizeaza ca
+Virtual Product,Produs Virtual
+Visibility,Vizibilitate
+Visible,Vizibil
+Visible on Catalog Pages on Front-end,Vizibil pe paginile catalogului la client
+Visible on Product View Page on Front-end,Vizibil pe pagina de vizualizare a prdusului la client
+WYSIWYG Editor,Editor WYSIWYG
+Watermark,Watermark
+Watermark Default Size,Dimensiuni standard watermark
+"Watermark Opacity, Percent","Opacitate watermark, Procente"
+Watermark Position,Pozitie watermark
+We Also Recommend,Va recomandam si
+Website,Site
+Websites,Site-uri
+What's this?,Ce este aceasta?
+"Whether to show ""All"" option in the ""Show X Per Page"" dropdown.","Daca sa se afiseze optiunea ""Toate"" in meniul ""Afiseaza X Pe Pagina""."
+Will make search for the query above return results for this search.,Va face ca o cautare pentru interogarea de deasupra sa dea aceleasi rezultate ca si aceasta cautare.
+Wrong BuyRequest instance in options group.,Instanta BuyRequest din grupul de optiuni este incorecta.
+Wrong configuration item instance in options group.,Instanta articolului de configurare din grupul de optiuni este incorecta.
+Wrong configuration item option instance in options group.,Instanta optiunii articolului de configurare din grupul de optiuni este incorecta.
+Wrong option instance type in options group.,Tipul instantei optiunii din grupul de optiunii este incorect.
+Wrong option type to get group instance.,Tipul optiunii este incorect pentru a putea obtine instanta de grup.
+Wrong product instance type in options group.,Tipul instantei produsului din grupul de optiuni este incorect.
+Wrong product type filter specified,Filtrul specificat pentru tipul de produs este incorect.
+Wrong product type to extract configurable options.,Tipul de produs este incorect pentru a putea extrage optiuni configurabile.
+Year Range,Interval Ani
+Yes,Da
+You cannot remove system attribute from this set.,Nu se poate sterge atributul sistem din acest set.
+You have no items to compare.,Nu aveti produse de comparat.
+You may also be interested in the following product(s),Recomandam si urmatoarele produse:
+Zoom In,Marire
+Zoom Out,Micsorare
+and,si
+and above,si peste
+categories,categorii
+each,fiecare
+ex. http://domain.com,ex. http://domeniu.com
+leave blank if its not an image,lasa gol daca nu exista imagine
+per page,pe pagina
+products,produse
+px.,px.
+save,salveaza
+select all,selecteaza toate
+unselect all,deselecteaza toate
+x,x
+(Will make search for the query above return results for this search.),(Face ca o cautare pentru interogarea de deasupra sa dea aceleasi rezultate ca si aceasta cautare.)
+This tab contains invalid data. Please solve the problem before saving.,Aceasta fereastra contine date nevalide. Rezolvati problema inainte de a salva.
+Currently Shopping by,Acum cumparati in functie de
+Add Items to Cart,Adauga articole in cos
+Add Recipient,Adauga destinatar
+Add to My Wishlist,Adauga la lista mea de favorite
+Add Option,Adauga optiune
+Please add one or more options,Adauga una sau mai multe optiuni
+Email Address,Adresa de e-mail
+Email Address:,Adresa de e-mail:
+Please select static block ...,Alege bloc static ...
+Choose option...,Alege optiunea...
+Please select product(s),Alege produs(e)
+Please click on Close Window button if it won't be closed automatically,Apasa pe Inchide fereastra daca nu se inchide automat.
+Apply To Configurable/Grouped Product,Aplica la produse configurabile/grupate
+Array of Entity collections is expected,Se asteapta array de colectii de entitati
+Unknown attribute: %s,Atribut necunoscut: %s
+Product attribute was successfully saved,Atributul produsului a fost salvat cu succes
+Product attribute was successfully deleted,Atributul produsului a fost sters cu succes
+Check items to add to the cart or,Bifeaza articole pentru a le adauga in cos sau
+Text Field,Camp text
+Minimum Qty for Item's Status to be Out of Stock,"Starea cantitatii minime pana la ""Stoc epuizat"""
+Catalog Input Type for Store Owner,Catalog tip input pentru proprietarul magazinului
+Catalog Searches,Cautari Catalog
+New Category,Categorie noua
+Category saved,Categorie salvata
+Category deleted,Categorie stearsa
+Search was successfully deleted,Cautarea a fost stearsa cu succes
+This search no longer exists,Cautarea nu mai exista
+Best Selling Products,Cele mai vandute produse
+Default Tax Class,Clasa standard de taxare
+Clean boot cut women's business pant,Pantaloni office evazati de dama
+Attribute Code,Cod atribut
+Compare Items,Compara articole
+Compare Products List,Compara lista de produse
+Compare Products - %d Items,Compara produse - %d articole
+Buy %s for %s,Cumpara %s la %s
+Buy %s for %s each,Cumpara %s la %s fiecare
+Shop by,Sorteaza dupa
+Customers for alert %s was successfuly added to queue,Alerta selectata %s a fost adaugata la lista
+Yes/No,Da/Nu
+If you do not specify an option value for a store then the default value will be used.,"Daca nu specificati o valoare pentru magazin, va fi utilizata valoarea standard."
+Date,Data
+Recipient:,Destinatar:
+Discount,Reducere
+Availability: In stock.,Disponibilitate: In stoc.
+Availability: In stock. Ships within 24 hours.,Disponibilitate: In stoc. Se livreaza in 24 de ore.
+Availability: Out of stock.,Disponibilitate: Stoc Epuizat
+Dropdown,Dropdown
+Email:,E-mail:
+Entity collection is expected,Colectia de entitati este necesara
+There was an error while updating product(s) attributes,Eroare la actualizarea atributelor produselor
+There was an error while adding products to websites,Eroare la adaugarea produselor la site-uri
+Error while saving this group. Please try again later.,Eroare la salvarea grupului. Incercati mai tarziu.
+Error while saving this group. Group with the same name already exists.,Eroare la salvarea grupului. Exista deja un grup cu acelasi nume.
+Product saving error.,Eroare la salvarea produsului.
+Category delete error,Eroare la stergerea categoriei
+There was an error while removing products from websites,Eroare la stergerea produselor din site-uri
+Error while adding customers for %s alert. Message: %s,Eroare la adaugare client la alerte %s. Mesaj: %s
+Are you sure you want to delete this attribute set?,Sunteti sigur ca doriti sa stergeti setul de atribute?
+Are you sure you would like to remove all item from compare products?,Sunteti sigur ca doriti sa stergeti toate produsele din lista de comparatie?
+Attribute Label,Eticheta atribut
+There is %d product(s) that will be not updated for selected store,Exista %d produs(e) care nu vor fi actualizate pentrut acest magazin
+Sender:,Expeditor:
+Filter model name must be declared,Trebuie declarat filtrul
+Filter must be as object. Set correct filter please,"Filtru trebuie sa fie un obiect. Va rugam, setati filtrul corect."
+Filters must be as array,Filtrele trebuie sa fie tip array
+Use categories path for product URLs,Foloseste calea categoriilor pentru URL produse
+Use in advanced search,Foloseste in cautare avansata
+Use in quick search,Foloseste in cautare rapida
+Use In Layered Navigation<br/>(Can be used only with catalog input type 'Dropdown'),Foloseste la navigarea pe straturi<br/>(se poate folosi doar cu tipul 'Dropdown')
+For internal use. Must be unique with no spaces,Pentru uz intern. Trebuie sa fie unic fara spatii
+Manage Ratings,Administreaza evaluari
+Attribute Identifier,ID atribut
+Image not exists,Imaginea nu exista
+The information in this tab has been changed.,Informatiile din aceasta fereastra s-au schimbat.
+Subscribe to Feed,Aboneaza-te la feed
+"Invalid attribute option specified for attribute %s (%s), skipping the record","Optiunea atributului specificata pentru atributul %s (%s) nu este valida, se omite inregistrarea."
+"Invalid attribute set specified, skipping the record","Setul de atribute specificat nu este valid, se omite inregistrarea."
+Invalid block: %s,Bloc nevalid: %s
+Invalid category IDs,ID-uri categorii nevalide.
+Invalid image file type,Tip fisier imagini nevalid.
+"Invalid option id specified for %s (%s), skipping the record","A fost specificat un ID optiune nevalid pentru %s (%s), se omite inregistrarea."
+"Invalid product type specified, skipping the record","Tipul produsului specificat nu este valid, se omite inregistrarea."
+"Invalid store specified, skipping the record","Magazinul specificat nu este valid, se omite inregistrarea."
+Kamper state-of-art Extra Comfort runners,Kamper state-of-art Extra Comfort runners
+Product collection expected,Lipseste colectia de produse
+Compare list successfully cleared,Lista de comparatie a fost stearsa cu succes
+Letters,Litere
+Letters(a-zA-Z) or Numbers(0-9),Litere(a-zA-Z) sau numere(0-9)
+Maximum %d email addresses allowed.,Maxim %d adrese e-mail permise.
+Message:,Mesaj:
+"Missing SKU, skipping the record","Lipseste codul, inregistrarea va fi omisa"
+Category Navigation:,Navigare categorie:
+Required,Necesar
+Nowhere,Nicaieri
+No product collections found,Nicio colectie de produse
+Products per Page on List default value,Nr. produse pe pagina ca lista
+Products per Page on Grid default value,Nr. produse pe pagina ca tabel
+Not shared with other products,Nu e comun cu alte produse
+Attribute model not defined,Nu este definit un model de atribut
+Unable to get product id.,Nu s-a gasit ID-ul produsului.
+Image file not found,Nu s-a gasit imaginea
+Unable to find an attribute to delete,Nu s-a gasit niciun atribut de sters
+Unable to find a search term to delete,Nu s-a gasit niciun termen de sters
+Unable to complete request. Please try again later.,Nu s-a putut finaliza. Incearca mai tarziu.
+You cannot update this attribute,Nu se poate actualiza acest atribut
+You cannot edit this attribute,Nu se poate modifica acest atribut
+You cannot delete this attribute,Nu se poate sterge acest atribut
+Number of results<br/>(For last time placed),Numar de rezultate<br/>(pentru ultima data)
+Integer Number,Numar intreg
+Decimal Number,Numar zecimal
+Name In %s,Nume In %s
+Name:,Nume:
+Name<br/>(For internal use),Nume<br/>(pentru uz intern)
+Option,Optiune
+Product Options,Optiuni produs
+Bundle,Pachete
+Page:,Pagina:
+Panasoic HDC-SD1 High Definition Camcorder,Panasoic HDC-SD1 High Definition Camcorder
+Review was saved successfully,Recenzie salvata cu succes
+Review was successfully saved,Recenzie salvata cu succes
+Review successfully deleted,Recenzie stearsa cu succes
+Customer Reviews,Recenzii client
+Pending Reviews,Recenzii in asteptare
+Reviews and Ratings,Recenzii si Evaluari
+Position In Layered Navigation,Pozitie in navigarea pe straturi
+Special Price,Pret special
+Default price,Pret standard
+Prices,Preturi
+"Problem saving the collection, aborting. Error: %s","Probleme la salvarea colectiei, se anuleaza. Eroare: %s"
+Product Attribute Sets,Seturi de atribute produs
+Product %s successfully added to compare list,Produs %s adaugat cu succes la lista de comparatie
+Product %s successfully removed from compare list,Produs %s sters cu succes din lista de comparatie
+Product was successfully created.,Produs creat cu succes.
+Product duplicated,Produs duplicat
+Product was successfully saved.,Produs salvat salvat.
+Product deleted,Produs sters
+Cross-sell Products,Produse pentrut vanzari incrucisate
+Attribute Properties,Proprietati atribut
+Saved,Salvat
+save %s%%,salveaza %s%%
+Save And Continue Edit,Salveaza si continua editarea
+Sandra Mashiso Red Business shoes,Sandra Mashiso Red Business shoes
+Multiple Select,Selectie multipla
+Our customer service is available 24/7. Call us at (800) DEMO-NUMBER.,"Serviciul clienti este disponibil de Luni pina Vineri, 9.00-17.00. Ne gasesti la 0332 803417, Pentru urgente 0740077978."
+Set Root Category For Store,Seteaza categoria radacina pentru magazin
+Synonym for,Sinonim cu
+System,Sistem
+"Skip import row, required field ""%s"" for new customer not defined","Se omite randul de import, campul ""%s"" necesar noului client nu este definit."
+"Skip import row, required field ""%s"" for new products not defined","Se omite randul de import, campul ""%s"" necesar noului produs nu este definit."
+"Skip import row, required field ""%s"" not defined","Se omite randul de import, campul ""%s"" necesar nu este definit."
+"Skip import row, store ""%s"" field not exists","Se omite randul de import, campul magazinbului ""%s"" nu exista."
+Sort by,Sorteaza dupa
+Product Attribute Specs,Specificatii atribut produs
+Remove Email,Sterge E-mail
+Clear All Items,Sterge filtrele
+Remove Product,Sterge Produs
+Out of stock.,Stoc Epuizat
+This bundle is out of stock.,Stocul acestui pachet s-a epuizat.
+Product URL Suffix (cache refresh needed),Sufix URL pentru produs (reimprospatare cache necesara)
+Text Area,Arie text
+Search Term with such search query already exist.,Termen de cautare cu astfel de cerere de cautare deja exista.
+Search Term was successfully saved,Termen de cautare salvat cu succes
+All Reviews,Toate recenziile
+Base directory to upload image file is not specified,Directorul de baza pentru incarcarea fisierului imagine nu este specificat.
+Send email,Trimite e-mail
+Total of %d record(s) were successfully updated,Un numar de %d inregistrari au fost actualizate
+Total of %d record(s) were successfully deleted,Un numar de %d inregistrari au fost sterse
+Url,Url
+Url Rewrite Management,Administrare rescrieri URL
+Input Validation for Store Owner,Validare input pentru proprietarul magazinului
+Default value,Valoare standard
+Unique Value,Valoare unica
+Unique Value (not shared with other products),Valoare unica (nepartajata cu alte produse)
+Values Required,Valori necesare
+View Details,Vezi detalii
+See all %s,Vezi toate %s
+Zynicon Cinema Display 19-inch LCD monitor,Zynicon Cinema Display 19-inch LCD monitor
+Zynicon Clear Blue 24-inch LCD monitor,Zynicon Clear Blue 24-inch LCD monitor
+[GLOBAL],[GLOBAL]

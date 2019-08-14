@@ -1,0 +1,235 @@
+%s,%s
+ACL Attribute Rules,Reguli Atribut ACL 
+ACL Attributes Information,Informatii Atribute ACL
+Add,Adauga
+Add Admin Role,Adauga rol Admin
+Add New Role,Adauga rol nou
+Address Type,Tip adresa
+Admin,Admin
+Allow,Permite
+An error occurred while deleting the role.,A aparut o eroare in timpul stergerii rolului.
+An error occurred while saving attribute rules.,A aparut o eroare in timpul salvarii regulilor atributelor.
+An error occurred while saving role.,A aparut o eroare in timpul salvarii rolului.
+Api Rules Information,Informatii reguli Api
+Assigned,Alocat
+Associate to Website,Asociaza cu site
+Attribute Rules Information,Informatii reguli atribut
+Attribute Set,Set atribut
+Attributes,Atribute
+Automatically Return Credit Memo Item to Stock,Returneaza automat articol nota de credit in stoc
+Back,Inapoi
+Backorders,Comenzi in asteptare
+Base Currency,Valuta de baza
+Base Customer Balance,Sold de baza client
+Base Discount,Reducere de baza
+Base Discount Amount,Suma reducere de baza
+Base Item Subtotal,Suma subtotal articol de baza
+Base Item Subtotal Including Tax,Suma subtotal articol de baza cu TVA inclus
+Base Original Price,Pret original de baza
+Base Price,Pret de baza
+Base Price Including Tax,Pret de baza cu TVA inclus
+Base Shipping,Livrare de baza
+Base Shipping Discount,Reducere livrare de baza
+Base Shipping Tax,Taxa livrare de baza
+Base Subtotal,Subtotal de baza
+Base Subtotal Including Tax,Subtotal de baza cu TVA inclus
+Base Tax Amount,Suma taxa de baza
+Base Total Due,Total de baza datorat
+Base Total Paid,Total de baza platit
+Base Total Refunded,Total de baza rambursat
+Buy Now URL,URL Cumpara Acum
+Can Be Divided into Multiple Boxes for Shipping,Poate fi impartit in mai multe cutii pentru livrare
+Canceled Qty,Cantitate anulata
+Catalog,Catalog
+Catalog Product,Produs Catalog
+CatalogInventory,CatalogInventory
+Category ID,ID Categorie
+City,Oras
+Company,Firma
+Country,Tara
+Coupon Code,Cod cupon
+Create,Creaza
+Create Permanent Redirect for old URL,Creaza redirectionare permanenta pentru URL-ul vechi
+Created From,Creat la
+Customer,Client
+Customer Address,Adresa Client
+Customer Address ID,Adresa ID Client
+Customer Balance,Sold Client
+Customer First Name,Prenume Client
+Customer ID,ID Client
+Customer Last Name,Nume Client
+Customer Middle Name,Al doilea prenume al Clientului
+Customer Prefix,Prefix Client
+Customer Suffix,Sufix Client
+Default Image,Imagine standard
+Delete,Sterge
+Deny,Interzicere
+Disable automatic group change based on VAT ID,Dezactiveaza schimbarea automata a grupului bazata pe ID-ul VAT
+Discount,Reducere
+Discount Amount,Suma Reducere
+Discount Description,Descriere Reducere
+Edit,Editeaza
+Edit %s ACL attribute rules,Editeaza reguli atribute %s ACL 
+Edit Role,Editeaza rol
+Edit attribute rules for %s Role,Editeaza reguli atribute pentru functia %s 
+Email,E-mail
+Enable Qty Increments,Activeaza mariri de cantitate
+Exclude,Exclude
+File Content,Continut Fisier
+File MIME Type,Fisier tip MIME
+File Name,Nume fisier
+Final Price With Tax,Pret final cu TVA inclus
+Final Price Without Tax,Pret final fara TVA
+First Name,Prenume
+Gift Message,Mesaj cadou
+Grand Total,Total
+Grand Total to Be Charged,Taxare Total
+Group,Grup
+Guest,Vizitator
+Has Custom Options,Detine optiuni personalizate
+ID,ID
+Inventory Data,Date inventar
+Invoiced Qty,Cantitate facturata
+Is Confirmed,Este confirmat
+Is Default Billing Address,Este adresa de facturare standard
+Is Default Shipping Address,Este adresa de livrare standard
+Item ID,ID articol
+Item Subtotal,Subtotal articol
+Item Subtotal Including Tax,Subtotal articol cu TVA inclus
+Label,Eticheta
+Last Logged In,Ultima data logat
+Last Name,Nume
+Low Stock Date,Data stoc redus 
+Manage Stock,Administreaza stoc
+Maximum Qty Allowed in Shopping Cart,Cantitate maxima permisa in cos
+Minimum Qty Allowed in Shopping Cart,Cantitate minima permisa in stoc
+New Role,Functie noua
+Notify for Quantity Below,Precizeaza cantitatea mai jos
+OAuth,OAuth
+Order,Comanda
+Order Addresses,Adrese Comanda
+Order Comments,Comentarii Comanda
+Order Currency,Valuta Comanda
+Order Date,Data Comanda
+Order ID,ID Comanda
+Order ID (internal),ID Comanda (intern)
+Order Item ID,ID Articol Comanda
+Order Items,Articole Comanda
+Order Status,Stare Comanda
+Ordered Qty,Cantitate Comandata
+Orders,Comenzi
+Original Price,Pret original
+Parent Order Item ID,ID articol comanda principala
+Payment Method,Metoda de plata
+Phone Number,Numar de telefon
+Placed from IP,Plasata de la IP
+"Please enter a valid number in ""max_sale_qty"" field","Va rugam, introduceti un numar valid in campul ""max_sale_qty"" "
+"Please enter a valid number in ""min_qty"" field","Va rugam, introduceti un numar valid in campul ""min_qty"" "
+"Please enter a valid number in ""min_sale_qty"" field","Va rugam, introduceti un numar valid in campul ""min_sale_qty"" "
+"Please enter a valid number in ""notify_stock_qty"" field","Va rugam, introduceti un numar valid in campul ""notify_stock_qty"" "
+"Please use numbers only in ""category_id"" field.","Va rugam, Folositi numai cifre in campul ""category_id"" ."
+"Please use numbers only in ""qty_increments"" field. Please avoid spaces or other characters such as dots or commas.","Va rugam, folositi numai cifre in campul ""qty_increments"".Va rugam, evitati spatiile sau alte caractere cum ar fi punctele si virgulele."
+Position,Pozitie
+Price,Pret
+Price Including Tax,Pret cu taxe incluse
+Product,Produs
+Product Category,Categorie produs
+Product ID,ID produs
+Product Image,Imagine produs
+Product Type,Tip produs
+Product URL,URL produs
+Product Website,Site produs
+Product and Custom Options Name,Numele produsului si al optiunilor personalizate
+Qty,Cantitate
+Qty Increments,Mariri cantitate
+Qty Uses Decimals,Cantitatea foloseste zecimale
+Qty for Item's Status to Become Out of Stock,Stare cantitate articol pana la epuizarea din stoc
+REST - Attributes,REST - Atribute 
+REST - Roles,REST - Functii 
+REST ACL Attributes,Atribute ACL REST 
+REST Attributes,Atribute REST 
+REST Role,Functie REST 
+REST Roles,Functii REST 
+REST Roles Information,Informatii functii REST 
+Read,Citeste
+Refunded Qty,Cantitate rambursata
+Regular Price With Tax,Pret normal cu taxe inclus
+Regular Price Without Tax,Pret normal fara taxe
+Rest Roles,Functii Rest
+Retrieve,Recupereaza
+"Role ""%s"" no longer exists","Rolul ""%s"" nu mai exista"
+"Role ""%s"" not found.","Rolul ""%s"" nu a fost gasita."
+Role API Resources,Roluri resurse API
+Role Info,Info rol
+Role Information,Informatii rol
+Role Name,Nume rol
+Role Users,Utilizatori rol
+Role has been deleted.,Rolul a fost sters.
+Roles,Roluri
+SKU,Cod Produs
+Salability Status,Stare vandabilitate
+Sales,Vanzari
+Save,Salveaza
+Shipped Qty,Cantitate livrata
+Shipping Amount,Suma livrare
+Shipping Discount,Reducere livrare
+Shipping Including Tax,Livrare cu TVA inclus
+Shipping Method,Metoda livrare
+Shipping Tax,Taxa de livrare
+State,Tara
+Stock Availability,Disponibilitate stoc
+Stock ID,ID stoc
+Stock Item,Articol stoc
+Stock Status,Stare stoc
+Store Currency to Order Currency Rate,Valuta magazinului la cursul valutar al comenzii
+Store Name,Nume magazin
+Street,Strada
+Subtotal,Subtotal
+Subtotal Including Tax,Subtotal cu taxe inclus
+System,Sistem
+Tax Amount,Suma taxa
+Tax Name,Nume taxa
+Tax Percent,Procent taxa
+Tax Rate,Curs taxa
+"The ""enable_qty_increments"" field must be set to 0 or 1.","Campul ""enable_qty_increments"" trebuie sa fie setat la 0 sau 1."
+"The ""is_decimal_divided"" field must be set to 0 or 1.","Campul ""is_decimal_divided"" trebuie sa fie setat la 0 sau 1."
+"The ""is_in_stock"" field must be set to 0 or 1.","Campul ""is_in_stock""trebuie sa fie setat la 0 sau 1."
+"The ""is_qty_decimal"" field must be set to 0 or 1.","Campul ""is_qty_decimal"" trebuie sa fie setat la 0 sau 1."
+"The ""is_qty_decimal"" field must be set to 0, 1, or 2.","Campul ""is_qty_decimal"" trebuie sa fie setat la 0, 1 sau 2."
+"The ""manage_stock"" field must be set to 0 or 1.","Campul ""manage_stock"" trebuie sa fie setat la 0 sau 1."
+"The ""stock_status_changed_auto"" field must be set to 0 or 1.","Campul ""stock_status_changed_auto"" trebuie sa fie setat la 0 sau 1."
+"The ""use_config_backorders"" field must be set to 0 or 1.","Campul ""use_config_backorders""trebuie sa fie setat la 0 sau 1."
+"The ""use_config_enable_qty_inc"" field must be set to 0 or 1.","Campul ""use_config_enable_qty_inc""trebuie sa fie setat la 0 sau 1."
+"The ""use_config_manage_stock"" field must be set to 0 or 1.","Campul ""use_config_manage_stock"" trebuie sa fie setat la 0 sau 1."
+"The ""use_config_max_sale_qty"" field must be set to 0 or 1.","Campul ""use_config_max_sale_qty"" trebuie sa fie setat la 0 sau 1."
+"The ""use_config_min_qty"" field must be set to 0 or 1.","Campul ""use_config_min_qty"" trebuie sa fie setat la 0 sau 1."
+"The ""use_config_min_sale_qty"" field must be set to 0 or 1.","Campul ""use_config_min_sale_qty"" trebuie sa fie setat la 0 sau 1."
+"The ""use_config_notify_stock_qty"" field must be set to 0 or 1.","Campul ""use_config_notify_stock_qty"" trebuie sa fie setat la 0 sau 1."
+"The ""use_config_qty_increments"" field must be set to 0 or 1.","Campul ""use_config_qty_increments"" trebuie sa fie setat la 0 sau 1."
+The attribute rules were saved.,Regulile atributului au fost salvate.
+The role has been saved.,Rolul a fost salvat.
+The role is a special one and not for assigning it to admin users.,Rolul este unul special si nu poate fi alocat utilizatorilor admin.
+Total Due,Total datorie
+Total Paid,Total platit
+Total Refunded,Total rambursat
+Total Reviews Count,Numaratoare recenzii totale
+Type,Tip
+URL,URL
+Update,Actualizare
+Use Config Settings for Allow Gift Message,Foloseste setarile de configurare pentru a accepta mesajul cadou
+Use Config Settings for Allow Gift Wrapping,Foloseste setarile de configurare pentru a permite impachetarea de cadou
+Use Config Settings for Backorders,Foloseste setarile de configurare pentru comenzi in asteptare
+Use Config Settings for Enable Qty Increments,Foloseste setarile de configurare pentru a activa maririle de cantitate
+Use Config Settings for Manage Stock,Foloseste setarile de configurare pentru administrare stoc
+Use Config Settings for Maximum Qty Allowed in Shopping Cart,Foloseste setarile de configurare pentru cantitatea maxima permisa in cos
+Use Config Settings for Minimum Qty Allowed in Shopping Cart,Foloseste setarile de configurare pentru cantitatea minima permisa in cos
+Use Config Settings for Notify for Quantity Below,Foloseste setarile de configurare pentru a preciza cantitatea mai jos
+Use Config Settings for Qty Increments,Foloseste setarile de configurare pentru maririle de cantitate
+Use Config Settings for Qty for Item's Status to Become Out of Stock,Foloseste setarile de configurare pentru starea cantitatii articolului pana la epuizarea din stoc
+User Type,Tip utilizator
+"User type ""%s"" no longer exists","Tip utilizator ""%s"" nu mai exista"
+"User type ""%s"" not found.","Tip utilizator ""%s"" nu a fost gasit."
+Web Services,Servicii Web
+Web services,Servicii Web
+Write,Scrie
+ZIP/Postal Code,Cod postal

@@ -1,0 +1,108 @@
+ for more information or , pentru mai multe informatii sau 
+# of Items (and above),Nr. de articole (si peste)
+# of Items vs. Destination,Nr. de articole vs. destinatie
+Allow Shipping to Multiple Addresses,Permite livrarea la adrese multiple
+An error occurred while import table rates.,A aparut o eroare in timpul importarii cursurilor tabelelor.
+Calculate Handling Fee,Calculeaza taxa de manipulare
+Carrier:,Curier:
+City,Oras
+Close Window,Inchide fereastra
+Condition,Conditie
+Country,Tara
+Date,Data
+Delivered on:,Livrat pe:
+Delivered to:,Livrat catre:
+Description,Descriere
+Displayed Error Message,Mesaj eroare afisat
+Divide to equal weight (one request),Imparte in greutati egale (o cerere)
+"Duplicate Row #%s (Country ""%s"", Region/State ""%s"", Zip ""%s"" and Value ""%s"").","Copiaza rand #%s (Tara ""%s"", Judet ""%s"", Cod postal ""%s"" si valoare ""%s"")."
+Enabled,Activat
+Error:,Eroare:
+Export,Exporta
+File has not been imported. See the following list of errors: %s,Fisierul nu a fost importat. Vezi lista de erori urmatoare: %s
+Fixed,Fixat
+Flat Rate,Taxa fixa
+Free Shipping,Livrare gratuita
+Google Sitemap Section,Sectiune Harta Site Google
+Handling Fee,Taxa manipulare
+Import,Importa
+Include Virtual Products in Price Calculation,Include produse virtuale in calcularea pretului
+Info:,Informatii:
+"Invalid %s ""%s"" in the Row #%s."," %s ""%s"" nevalid(e) pe randul #%s."
+"Invalid Country ""%s"" in the Row #%s.","Tara ""%s"" nevalida pe randul #%s."
+"Invalid Region/State ""%s"" in the Row #%s.","Judet ""%s"" nevalid pe randul #%s."
+"Invalid Shipping Price ""%s"" in the Row #%s.","Pret livrare ""%s"" nevalid pe randul #%s."
+Invalid Table Rate code for type %s: %s,Cod curs tabel nevalid pentru tipul %s: %s
+Invalid Table Rate code type: %s,Tip cod curs tabel nevalid: %s
+Invalid Table Rates File Format,Format fisier al cursurilor tabelelor nevalid
+Invalid Table Rates format in the Row #%s,Format al cursurilor tabelelor nevalid pe randul #%s
+Local Time,Ora locala
+Location,Locatie
+Maximum Qty Allowed for Shipping to Multiple Addresses,Cantitate maxima permisa pentru livrarea catre adrese multiple
+Method Name,Nume metoda
+Minimum Order Amount,Suma minima pe comanda
+N/A,N/A
+None,Nici unul
+Options,Optiuni
+Order Subtotal (and above),Subtotal comanda (si peste)
+Origin,Origine
+Per Order,Pe comanda
+Per Package,Pe pachet
+Percent,Procent
+Price,Pret
+Price vs. Destination,Pret vs. Destinatie
+Region/State,Judet
+Service Type:,Tip serviciu:
+Ship to Applicable Countries,Livreaza catre tari acceptate
+Ship to Specific Countries,Livreaza catre tari specifice
+Shipment #,Livrare nr.
+Shipment Tracking Popup,Popup de urmarire a livrarii
+Shipped or billed on:,Livrat sau facturat pe:
+Shipping Methods,Metode livrare
+Shipping Methods Section,Sectiune metode livrare
+Shipping Settings,Setari livrare
+Shipping Settings Section,Sectiune satari livrare
+Show Method if Not Applicable,Arata metoda daca nu este acceptata
+Signed by:,Semnat de:
+Sort Order,Ordine afisare
+Status:,Stare:
+Store Pickup,Ridicare de la sediu
+Street Address,Adresa Strada
+Street Address Line 2,Rand Adresa Strada 2
+Table Rates,Tax tabelare
+The shipping module is not available for selected delivery country.,Modulul de livrare nu este disponibil pentru tara de livrare selectata
+The shipping module is not available.,Modulul de livrare nu este disponibil.
+There is no tracking available for this shipment.,Urmarirea nu este disponibila pentru aceasta livrare.
+There is no tracking available.,Urmarirea nu este disponibila.
+"This shipping method is currently unavailable. If you would like to ship using this shipping method, please contact us.","Aceasta metoda de livrare nu este disponibila momentan. Daca doriti livrarea prin aceasta metoda, va rugam sa ne contactati."
+"This shipping method is not available, please specify ZIP-code","This shipping method is not available, please specify ZIP-code"
+Title,Titlu
+Track:,Urmareste:
+Tracking Information,Informatii urmarire
+"Tracking Number:,AWB:",Numarul de urmarire: AWB
+Tracking information is currently not available. Please ,"Informatiile de urmarire nu sunt disponibile momentan. Va rugam,incercati mai tarziu "
+Tracking information is currently unavailable.,Informatiile de urmarire nu sunt disponibile momentan.
+Type,Tip
+Use origin weight (few requests),Foloseste greutatea de origine(cateva cereri)
+Weight (and above),Greutate (si peste)
+Weight vs. Destination,Greutate vs. Destinatie
+Weight:,Greutate:
+ZIP/Postal Code,Cod postal
+contact us,contactactati-ne
+email us at ,Trimiteti-ne e-mail la 
+ for more information or email us at , pentru mai multe informatii trimite e-mail la 
+Allow Shipping to multiple addresses,Accepta livrari la adrese multiple
+Maximum qty allowed for Shipping to multiple addresses,Cantitate maxima permisa pentru livrare la adrese multiple
+"Duplicate Row #%s (Country ""%s"", Region/State ""%s"", Zip ""%s"" and Value ""%s"")","Copiaza rand  #%s (Tara ""%s"", Judet ""%s"", Cod postal ""%s"" si Valoare ""%s"")"
+"Invalid %s ""%s"" in the Row #%s","%s ""%s""nevalid pe randul #%s"
+"Invalid Country ""%s"" in the Row #%s","Tara ""%s"" nevalida pe randul #%s"
+"Invalid Region/State ""%s"" in the Row #%s","Judet ""%s"" nevalid pe randul #%s"
+"Invalid Shipping Price ""%s"" in the Row #%s","Pret livrare ""%s""nevalid pe randul #%s"
+Ship to applicable countries,Livreaza catre tarile acceptate
+Ship to Specific countries,Livreaza catre tari specifice
+The shipping module is not available for selected delivery country,Modulul de livrare nu este disponibil pentru tara de livrare selectata
+Method name,Nume metoda
+Sort order,Sortare comanda
+Table rates,Cursuri tabele
+Minimum order amount,Suma minima comanda
+Show method if not applicable,Arata metoda daca nu este acceptata

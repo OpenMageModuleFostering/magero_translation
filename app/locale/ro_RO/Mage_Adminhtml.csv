@@ -1,0 +1,1503 @@
+The customer does not exist in the system anymore., Clientul nu mai exista in sistem.
+[deleted], [sters]
+and , si 
+%s (Default Template from Locale),%s (Sablon implicit din localizare)
+%s cache type(s) disabled.,%s tip(uri) cache dezactivat(e).
+%s cache type(s) enabled.,%s tip(uri) cache activat(e).
+%s cache type(s) refreshed.,%s tip(uri) cache reimprospatat(e).
+"(For Type ""Local Server"" need to use relative path to Magento install var/export or var/import, e.g. var/export, var/import, var/export/some/dir, var/import/some/dir)","(Pentru tipul ""Server Local"" este necesara folosirea unei cai relative la instalarea Magento, ex. var/export sau var/import, ex. var/export, var/import, var/export/some/dir, var/import/some/dir)"
+(For US 2-letter state names),(Pebtru abrevieri de 2 cifre pentru statele din SUA)
+(If left empty will be auto-generated),(Lasat gol se va autogenera)
+(Leave empty for first spreadsheet),(Lasa gol pentru primul spreadsheet)
+(Products will be added/updated to this store if 'store' column is blank or missing in the import file.),(Produsele vor fi adaugate/actualizate in acest magazin daca coloana 'store' ramane goala sau lipseste in fisierul de import.)
+(Shift-)Click or drag to change value,(Shift-)Click sau trage cursorul pentru a schimba valoarea
+(Starting with),(Incepand cu)
+"(When 'No', only mapped fields will be imported. When mapping, use 'column1', 'column2', etc.)","(Selectand 'Nu', doar campurile mapate se vor importa. La mapare, foloseste 'column1', 'column2', etc.)"
+(You have to increase php memory_limit before changing this value),"(Inainte de a schimba aceasta valoare,limita memoriei php trebuie marita)"
+(\\t for tab),(\\t pentru tab)
+"* - If indexing is in progress, it will be killed and new indexing process will start.","* - Daca indexarea este in desfasurare, aceasta va fi oprita si un nou proces de indexare va porni."
+* Required Fields,* Campuri obligatorii
+Click on any of the time parts to increase,Click pe oricare componenta a timpului pentru a incrementa
+Hold mouse button on any of the above buttons for faster selection.,Tineti apasat butonul mouse-ului pe oricare dintre butoanele de mai sus pentru selectare rapida. 
+Use the %s buttons to select month, Folositi butoanele %s pentru a selecta luna
+"Use the %s, %s buttons to select year"," Folositi butoanele %s, %s pentru a selecta anul"
+or Shift-click to decrease it, sau Shift-click pentru micsorare
+or click and drag for faster selection.,sau click si trage pentru o selectare mai rapida.
+Not Selected --,Neselectat --
+Please Select --,-- Alege --
+Please Select Billing Agreement--,"-- Va rugam, selectati acordul de facturare--"
+Please Select a Category --,"--Va rugam, selectati o categorie --"
+Please select --,"-- Va rugam, selectati --"
+--Please Select--,--Alege--
+1 Hour,1 ora
+12 Hours,12 ore
+12h AM/PM,12 ore AM/PM
+2 Hours,2 ore
+24 Hours,24 ore
+24h,24h
+2YTD,Ultimii 2 ani
+6 Hours,6 ore
+"<h1 class=""page-heading"">404 Error</h1><p>Page not found.</p>","<h1 class=""page-heading"">Eroare 404</h1><p>Pagina nu exista.</p>"
+<strong>%s</strong> requests access to your account,<strong>%s</strong> solicita acces la contul tau
+<strong>Attention</strong>: Captcha is case sensitive.,<strong>Atentie</strong>: Captcha tine cont de majuscule.
+A user with the same user name or email aleady exists.,Un utilizator cu acelasi nume sau e-mail deja exista.
+API Key,Cheie API
+API Key Confirmation,Confirmare cheie API
+ASCII,ASCII
+Abandoned Carts,Cosuri abandonate
+About the calendar,Despre calendar
+Access Denied,Acces interzis
+Access denied,Acces interzis
+Access denied.,Acces interzis.
+Account Created in:,Cont creat in:
+Account Created on (%s):,Cont creat la (%s):
+Account Created on:,Cont creat la:
+Account Information,Informatii cont
+Account Status,Stare cont
+Account status,Stare cont
+Action,Actiune
+Actions,Actiuni
+Actions XML,XML actiuni
+Active,Activ
+Add,Adauga
+Add Exception,Adauga exceptie
+Add Field Mapping,Adauga mapare camp
+Add Field with URL:,Adauga camp cu URL:
+Add New,Adauga nou
+Add New Image,Adauga imagine
+Add New Profile,Adauga profil
+Add New Role,Adauga functie noua
+Add New Template,Adauga sablon
+Add New URL Rewrite,Adauga rescriere URL
+Add New User,Adauga utilizator
+Add New Variable,Adauga variabila
+Add Products,Adauga produse
+Add URL Rewrite,Adauga rescriere URL
+Add URL Rewrite for a Category,Adauga rescriere URL pentru o categorie
+Add URL Rewrite for a Product,Adauga rescriere URL pentru un produs
+Add after,Adauga dupa
+Additional Cache Management,Administrare cache suplimentar
+Address Type:,Tip adresa:
+Admin,Admin
+Advanced Admin Section,Sectiune Admin avansat
+Advanced Profiles,Profiluri avansate
+Advanced Section,Sectiune avansata
+After authorization application will have access to you account.,"Dupa autorizare, aplicatia va avea acces la contul dumneavoastra."
+All,Toate
+All Allowed Countries,Toate tarile permise
+All Cache,Toat Cache-ul
+All Files,Toate fisierele
+All Reviews,Toate recenziile
+All Store Views,Toate vitrinele
+All Tags,Toate etichetele
+All Websites,Toate site-urile
+All countries,Toate tarile
+All fields,Toate campurile
+"All possible rates were fetched, please click on ""Save"" to apply","Toate cursurile valutare posibile au fost preluate, va rugam, faceti click pe ""Salvare"" pentru a le aplica"
+"All rates were fetched, please click on ""Save"" to apply","Toate cursurile valutare au fost preluate, va rugam, faceti click pe ""Salvare"" pentru a le aplica"
+All valid rates have been saved.,Toate cursurile valutare valide au fost salvate.
+Always (during development),Intotdeauna (in timpul dezvoltarii)
+Amounts,Cantitati
+An error has occured while syncronizing media storages.,A aparut o eroare in timpul sincronizarii depozitelor media.
+An error occurred while clearing the JavaScript/CSS cache.,A aparut o eroare in timpul stergerii fisierelor din JavaScript/CSS cache .
+An error occurred while clearing the image cache.,A aparut o eroare in timpul stergerii imaginilor din cache.
+An error occurred while deleting URL Rewrite.,A aparut o eroare in timpul stergerii rescrierii URL .
+An error occurred while deleting email template data. Please review log and try again.,"A aparut o eroare in timpul stergerii datelor sablonului e-mail.Va rugam, revizuiti jurnalul erorii si reincercati."
+An error occurred while deleting record(s).,A aparut o eroare in timpul stergerii inregistrarilor.
+An error occurred while deleting this role.,A aparut o eroare in timpul stergerii axetui rol.
+An error occurred while deleting this set.,A aparut o eroare in timpul stergerii acestui set.
+An error occurred while deleting this template.,A aparut o eroare in timpul stergerii acestui sablon.
+An error occurred while finishing process. Please refresh the cache,"A aparut o eroare in timpul finalizarii procesului.Va rugam, reimprospatati cache-ul."
+An error occurred while rebuilding the CatalogInventory Stock Status.,A aparut o eroare in timpul reconstruirii starii stocurilor.
+An error occurred while rebuilding the catalog index.,A aparut o eroare in timpul reconstruirii indexului catalogului.
+An error occurred while rebuilding the flat catalog category.,A aparut o eroare in timpul reconstruirii categoriei catalogului flat.
+An error occurred while rebuilding the flat product catalog.,A aparut o eroare in timpul reconstruirii catalogului flat.
+An error occurred while rebuilding the search index.,A aparut o eroare in timpul reconstruirii indexului de cautare.
+An error occurred while refreshing the Catalog Rewrites.,A aparut o eroare in timpul reimprospatarii rescrierilor din catalog.
+An error occurred while refreshing the Layered Navigation indices.,A aparut o eroare in timpul reimprospatarii indicilor navigatiei pe straturi.
+An error occurred while refreshing the catalog rewrites.,A aparut o eroare in timpul reimprospatarii rescrierilor din catalog.
+An error occurred while refreshing the layered navigation indices.,A aparut o eroare in timpul reimprospatarii indicilor navigatiei pe straturi.
+An error occurred while saving URL Rewrite.,A aparut o eroare in timpul salvarii rescrierii URL.
+An error occurred while saving account.,A aparut o eroare in timpul salvarii contului.
+An error occurred while saving review.,A aparut o eroare in timpul salvarii recenziei.
+An error occurred while saving the customer.,A aparut o eroare in timpul salvarii clientului.
+An error occurred while saving this configuration:,A aparut o eroare in timpul salvarii acestei configuratii:
+An error occurred while saving this role.,A aparut o eroare in timpul salvarii acestui rol.
+An error occurred while saving this template.,A aparut o eroare in timpul salvarii acestui sablon.
+An error occurred while updating the selected review(s).,A aparut o eroare in timpul actualizarii recenziei selectate.
+Any,Oricare
+Any Attribute Set,Oricare set de atribute
+Any Group,Oricare grup
+Any Status,Orice status
+Any Store,Oricare magazin
+Any Type,Oricare tip
+Any Visibility,Oricare vizibilitate
+"Any data created since the backup was made will be lost including admin users, customers and orders.","Toate datele adaugate dupa ultimul backup vor fi pierdute, incluzand utilizatorii admin, clienti si comenzi."
+Archive file name:,Numele arhivei:
+Are you sure that you want to delete this template?,Esti sigur ca vrei sa stergi acest sablon?
+Are you sure that you want to strip tags?,Esti sigur ca vrei sa elimini tagurile html?
+Are you sure you want to do this?,Esti sigur ca vrei sa faci asta?
+Are you sure you want to proceed?,Esti sigur ca vrei sa continui?
+Area,Arie
+As low as:,Pornind de la:
+Assigned,Alocat
+Associated Tags,Etichete asociate
+Attribute Set Name:,Nume set atribute:
+Attributes,Atribute
+Authorization confirmed,Autorizatie confirmata
+Authorize,Autorizeaza
+Authorize application,Autorizeaza aplicatie
+Authorized OAuth Tokens,Jetoane OAuth autorizate
+Automatic (equalize price ranges),Automat (egalizeaza intervale preturi)
+Automatic (equalize product counts),Automat (egalizeaza numarul de produse)
+Average Order Amount,Suma medie/comanda
+Average Orders,Medie comenzi
+BINARY,BINARY
+Back,Inapoi
+Back to Login,Inapoi la Login
+Backup,Backup
+Backup Name,Nume Backup
+Backup options,Optiuni Backup
+Backups,Backup-uri
+Base currency,Valuta standard
+Bcc,Bcc
+Bestsellers,Cele mai vandute
+Billing Address,Adresa facturare
+Billing Address: ,Adresa facturare: 
+Billing Agreement,Acord de facturare
+Billing Agreements,Acorduri de facturare
+Block Information,Informatii bloc
+Both (without and with tax),Ambele (cu si fara taxe)
+Both IPN and PDT,IPN si PDT
+Browse Files...,Rasfoieste fisiere...
+Bundle with dynamic pricing cannot include custom defined options. Options will not be saved.,Produsele bundle cu stabilire dinamica a preturilor nu pot include optiuni personalizate. Optiunile nu vor fi salvate.
+CMS,CMS
+CRITICAL,CRITICAL
+CSV,CSV
+CSV / Tab separated,CSV / Separate prin Tab
+Cache Control,Control Cache
+Cache Control (beta),Control Cache (beta)
+Cache Management,Administrare Cache
+Cache Type,Tip Cache
+Cancel,Anuleaza
+Cannot add new comment.,Nu se poate adauga comentariu nou.
+Cannot add tracking number.,Nu se poate adauga numar de urmarire.
+Cannot create an invoice without products.,Nu se poate crea o factura fara produse.
+Cannot create credit memo for the order.,Nu se poate crea o nota de credit pentru comanda.
+Cannot delete the design change.,Nu se poate sterge schimbarea design-ului.
+Cannot delete tracking number.,Nu se poate sterge numarul de urmarire.
+Cannot do shipment for the order separately from invoice.,Nu se poate face livrarea comenzii separat de factura.
+Cannot do shipment for the order.,Nu se poate face livrarea comenzii.
+Cannot initialize shipment for adding tracking number.,Nu se poate initia livrarea pentru a adauga numar de urmarire.
+Cannot initialize shipment for delete tracking number.,Nu se poate initia livrarea pentru a sterge numar de urmarire.
+Cannot load track with retrieving identifier.,Nu se poate incarca calea de urmarire cu identificatorul de recuperare.
+Cannot retrieve tracking number detail.,Nu se pot recupera detaliile numarului de urmarire.
+Cannot save shipment.,Nu se poate salva livrarea.
+Cannot save the credit memo.,Nu se poate salva nota de credit.
+Cannot send shipment information.,Nu se pot trimite informatiile de livrare.
+Cannot update item quantity.,Nu se poate actualiza cantitatea articolului.
+Cannot update the item\'s quantity.,Nu se poate actualiza cantitatea articolului/articolelor.
+Catalog,Catalog
+Catalog Price Rules,Reguli preturi Catalog
+Catalog Rewrites,Rescrieri Catalog
+Categories,Categorii
+Category:,Categorie:
+"Chart is disabled. If you want to enable chart, click <a href=""%s"">here</a>.","Graficul este dezactivat. Daca doriti sa activati graficul, click <a href=""%s"">aici</a>."
+Checkbox,Checkbox
+Child Transactions,Tranzactii copil
+Choose Store View:,Alege Vitrina:
+Choose an attribute,Alege un atribut
+"Chosen category does not associated with any website, so url rewrite is not possible.","Categoria aleasa nu este asociata cu nici un site, deci rescrierea URL nu este posibila."
+"Chosen product does not associated with any website, so url rewrite is not possible.","Produsul ales nu este asociat cu nici un site, deci rescrierea URL nu este posibila.."
+Clear,Sterge
+Close,Inchide
+Comment text field cannot be empty.,Campul de comentarii text nu poate fi gol.
+Complete,Finalizata
+Config form fieldset clone model required to be able to clone fields,Modelul de clonare al setului de campuri pentru formularul de configurare este necesar pentru clonarea campurilor.
+Configuration,Configuratie
+Confirm New Password,Confirmare Parola Noua
+Confirm token authorization Pop Up for admin,Confirmare Pop Up pentru autorizarea pe baza de jetoane pentru admin.
+Confirm token authorization for admin,Confirmare pentru autorizarea pe baza de jetoane pentru admin
+Confirmation Of Authorization,Confirmarea Autorizatiei
+Confirmed email:,E-mail confirmat:
+Connect with the Magento Community,Conecteaza-te la Comunitatea Magento
+Continue,Continua
+Convert to Plain Text,Schimba in Plain Text
+Cookie (unsafe),Cookie (nesigur)
+Country,Tara
+Country:,Tara:
+Coupons,Cupoane
+Create,Creaza
+Create DB Backup,Creaza DB Backup
+Create New Attribute,Creaza atribut
+Create URL Rewrite:,Creaza rescriere URL:
+Created At,Creat la
+Credit Card %s,Credit Card %s
+Credit Memo History,Istoric note de credit
+Credit Memo Totals,Totaluri note de credit
+Credit Memos,Note de credit
+Credit memo #%s comment added,Nota de credit #%s comentariu adaugat.
+Credit memo #%s created,Nota de credit #%s creata.
+Credit memo\'s total must be positive.,Totalul notelor de credit trebuie sa fie pozitiv.
+Currency,Valuta
+"Currency ""%s"" is used as %s in %s.","Valuta ""%s"" este folosita ca %s in %s."
+Currency Information,Informatii valuta
+Currency Setup Section,Setari Valuta
+Current Configuration Scope:,Arie configuratie curenta:
+Current Month,Luna curenta
+Custom,Personalizat
+"Custom Variable ""%s""","Variabila Personalizata ""%s"""
+Custom Variables,Variabile Personalizate 
+Customer,Client
+Customer Group:,Grup clienti:
+Customer Groups,Grupuri clienti
+Customer Name,Nume client
+Customer Reviews,Recenzii clienti
+Customer Shopping Carts,Cosuri Clienti
+Customer Since:,Client din:
+Customer Tax Classes,Clase de taxare clienti
+Customer with the same email already exists.,Exista deja un client cu aceasta adresa de e-mail.
+Customers,Clienti
+Customers by Number of Orders,Clienti dupa numarul de comenzi
+Customers by Orders Total,Clienti dupa totalul de comenzi
+DHTML Date/Time Selector,Selector DHTML Data/Timp
+Dashboard,Panou control
+Data Format,Format date
+Data transfer:,Transfer date:
+Database,Baza de date
+Dataflow - Advanced Profiles,Flux de date - Profile avansate
+Dataflow - Profiles,Flux de date - Profile
+Date,Data
+Date & Time,Data & Timp
+Date Added,Adaugat la data
+Date Updated,Actualizat la data
+Date selection:,Selectare data:
+Date selector,Selector data
+Day,Zi
+Decimal separator:,Separator zecimal:
+Default (Admin) Values,Valori standard (Admin)
+Default Billing Address,Adresa de facturare standard
+Default Config,Configuratie standard
+Default Template from Locale,Sablon standard
+Default Values,Valori standard
+"Default display currency ""%s"" is not available in allowed currencies.","Valuta standard ""%s"" nu este disponibila in cadrul valutelor permise."
+Default scope,Arie standard
+Delete,Sterge
+Delete %s,Sterge %s
+Delete %s '%s',Sterge %s '%s'
+Delete File,Sterge Fisier
+Delete Image,Sterge Imagine
+Delete Profile,Sterge Profil
+Delete Role,Sterge Rol
+Delete Store,Sterge Magazin
+Delete Store View,Sterge Vitrina
+Delete Template,Sterge Sablon
+Delete User,Sterge Utilizator
+Delete Website,Sterge Site
+Description,Descriere
+Design,Design
+Design Section,Sectiune Design
+Details,Detalii
+Developer Section,Sectiune Dezvoltare
+Direction:,Directie:
+Disable,Dezactiveaza
+Disabled,Dezactivat
+Display %s first,Afiseaza %s intai
+Display default currency,Arata valuta standard
+Distributed under GNU LGPL. See %s for details.,Distribuit sub GNU LGPL. Vezi %s pentru detalii.
+Do you really want to KILL parallel process and start new indexing process?,Sunteti sigur ca doriti sa sistati procesul paralel si sa porniti un nou proces de indexare?
+Do you really want to proceed?,Sunteti sigur ca doriti sa continuati?
+Download,Descarca
+Downloads,Descarcari
+Drag to move,Trage pentru a muta
+Drop-down,Drop-down
+Edit,Modifica
+Edit Design Change,Modifica Design
+Edit Email Template,Modifica Sablon E-mail
+Edit Order,Modifica Comanda
+Edit Poll,Modifica Chestionar
+Edit Queue,Modifica Lista de asteptare
+Edit Review,Modifica Recenzie
+Edit Role,Modifica Functie
+Edit Store View,Modifica vitrina
+Edit System Template,Modifica Sablon Sistem
+Edit Template,Modifica Sablon
+Edit URL Rewrite,Modifica Rescriere URL
+Edit User,Modifica Utilizator
+Edit User '%s',Modifica Utilizator '%s'
+Edit Website,Modifica site
+Email,E-mail
+Email Address:,Adresa e-mail:
+Email Preview,Previzualizare e-mail
+Email to a Friend,E-mail catre un prieten
+Email:,E-mail:
+Enable,Activeaza
+Enabled,Activat
+Enclose Values In:,Include Valori In:
+Entity Attributes,Atribute Entitate
+Entity Type,Tip Entitate
+Entity type:,Tip Entitate:
+Error,Eroare
+Excel XML,Excel XML
+Excl. Tax,Fara TVA
+Exclude media folder from backup,Exclude directorul media din backup
+Export,Exporta
+Export CSV,Exporta CSV
+Export Filters,Exporta Filtre
+Export to:,Exporta in:
+Export:,Exporta:
+FTP Host,FTP Host
+FTP Host[:Port],FTP Host[:Port]
+FTP Login,FTP Login
+FTP Password,FTP Parola
+FTP credentials,Acreditare FTP
+"Failed to add a product to cart by id ""%s"".","Adaugarea unui produs in cos de catre id ""%s"" a esuat."
+Failed to cancel the billing agreement.,Anularea acordului de facturare a esuat.
+Failed to clear the JavaScript/CSS cache.,Stergerea fisierelor din JavaScript/CSS cache a esuat.
+Failed to delete the billing agreement.,Stergerea acordului de facturare a esuat.
+Failed to update the profile.,Actualizarea profilului a esuat.
+Field,Camp
+Field Mapping,Mapare camp
+File,Fisier
+File Information,Informatii fisier
+File System,Sistem Fisier
+File mode,Mod Fisier
+File name:,Nume fisier:
+File size should be more than 0 bytes,Marimea fisierului trebuie sa fie mai mare de 0 bytes.
+Finished profile execution.,Executia profilului s-a terminat.
+First Invoice Created Date,Data crearii primei facturi
+First Name,Prenume
+First Name is required field.,Prenumele este necesar.
+First Name:,Prenume:
+Fixed,Fix
+Flush Catalog Images Cache,Golire Catalog Imagini Cache
+Flush JavaScript/CSS Cache,Golire JavaScript/CSS Cache
+For category,Pentru categoria
+For latest version visit: %s,Pentru ultima versiune vizitati: %s
+For product,Pentru produs
+Forgot Admin Password,Am uitat parola Admin
+Forgot your password?,Ai uitat parola?
+Forgot your user name or password?,Ai uitat numele de utilizator sau parola?
+From,De la
+GLOBAL,GLOBAL
+Gb,Gb
+General Information,Informatii generale
+General Section,Sectiune Generala
+Get Image Base64,Obtine Image Base64
+Get help for this page,Gaseste ajutor pentru pagina aceasta
+Give the verifier code to application administrator,Prezentati codul de verificare administratorului aplicatiei
+Global Attribute,Atribut global
+Global Record Search,Cautare globala
+Global Search,Cautare globala
+Go Today,Mergi la ziua curenta
+Go to messages inbox,Mergi la Inbox
+Go to notifications,Mergi la Notificari
+Google Base,Google Base
+Google Sitemaps,Harta site Google
+Grand Total,Total general
+Grid (default) / List,Tabel (standard) / Lista
+Grid Only,Numai Tabel
+Group:,Grup:
+Guest,Vizitator neinregistrat
+HTTP (unsecure),HTTP (nesigur)
+HTTPS (SSL),HTTPS (SSL)
+Help Us Keep Magento Healthy - Report All Bugs,Ajutati-ne sa mentinem Magento sanatos - Raportati toate erorile.
+Helper attributes should not be used in custom layout updates.,Atributele asistent nu ar trebui folosite in actualizarea layout-urilor personalizate.
+Helper for options rendering doesn't implement required interface.,Asistentul pentru redarea optiunilor nu implementeaza intefata necesara.
+Home,Acasa
+ID,ID
+ID Path,ID Path
+IP Address,Adresa IP
+IPN (Instant Payment Notification) Only,Numai NPI (Notificari Plata Instant)
+If there is an account associated with %s you will receive an email with a link to reset your password.,Daca exista un cont asociat cu %s veti primi un e-mail cu link-ul pentru resetarea parolei.
+"If this message persists, please contact the store owner.","Daca acest mesaj revine, va rugam sa contactati proprietarul magazinului."
+"Images (.gif, .jpg, .png)","Imagini (.gif, .jpg, .png)"
+Images Cache,Cache imagini
+Import,Importa
+Import Service,Serviciul Import
+Import and Export,Import si Export
+Import and Export Tax Rates,Tarife Import si Export
+Import/Export,Import/Export
+Import/Export Advanced,Import/Export Avansat
+Import/Export Profile,Profil Import/Export
+Important: ,Important: 
+Imported <strong>%s</strong> records,<strong>%s</strong> inregistrari importate
+In,In
+In Database:,In baza de date:
+In File:,In Fisier:
+Inactive,Inactiv
+Incl. Tax,Taxe incluse
+Incoming Message,Mesaj in curs
+Insert Variable...,Introduceti Variabila...
+Interactive,Interactiv
+Interface Locale: %s,Limba pt interfata: %s
+Invalid Form Key. Please refresh the page.,Cod formular nevalid. Va rugam reimprospatati pagina.
+Invalid Import Service Specified,Serviciu de import specificat este nevalid.
+Invalid POST data (please check post_max_size and upload_max_filesize settings in your php.ini file).,Date POST nevalide (va rugam verificati setarile post_max_size si upload_max_filesize din fisierul php.ini).
+Invalid Secret Key. Please refresh the page.,Cod secret nevalid. Va rugam reimprospatati pagina
+Invalid User Name or Password.,Nume utilizator sau parola nevalida.
+Invalid directory: %s,Director nevalid: %s
+"Invalid email address ""%s"".","Adresa e-mail nevalida ""%s""."
+Invalid email address.,Adresa e-mail nevalida.
+Invalid file: %s,Fisier nevalid: %s
+Invalid input data for %s => %s rate,Rata de incarcare date pentru %s => %s este nevalida
+Invalid parent block for this block,Blocul parinte pentru acest bloc nu este valid.
+Invalid parent block for this block.,Blocul parinte pentru acest bloc nu este valid.
+Invalid password reset token.,Jetonul pentru resetarea parolei nu este valid.
+"Invalid sender name ""%s"". Please use only visible characters and spaces.","Nume expeditor ""%s"" nevalid. Va rugam folositi numai caractere si spatii vizibile"
+Invalid timezone,Zona de fus orar nu este valida.
+Invalidated,Invalidat
+Inventory Stock Status,Stare Stoc Inventar
+Invoice #%s comment added,Comentariu adaugat la factura #%s
+Invoice #%s created,A fost creata factura #%s
+Invoice History,Istoric facturi
+Invoice Totals,Totaluri facturi
+Invoice canceling error.,Eroare anulare factura.
+Invoice capturing error.,Eroare captare factura.
+Invoice voiding error.,Eroare anulare factura.
+Invoices,Facturi
+Is Closed,Este Inchis
+Issue Number,Numar emitere
+Items,Articole
+JavaScript seems to be disabled in your browser.,JavaScript pare a fi dezactivat in browser-ul dumneavoastra.
+JavaScript/CSS,JavaScript/CSS
+JavaScript/CSS Cache,JavaScript/CSS Cache
+Kb,Kb
+Last 24 Hours,Ultimele 24 ore
+Last 5 Orders,Ultimele 5 comenzi
+Last 5 Search Terms,Ultimele 5 cautari
+Last 7 Days,Ultimele 7 zile
+Last Credit Memo Created Date,Data crearii ultimei note de credit
+Last Invoice Created Date,Data crearii ultimei facturi
+Last Logged In (%s):,Ultima logare (%s):
+Last Logged In:,Ultima logare:
+Last Name,Nume
+Last Name is required field.,Numele este necesar.
+Last Name:,Nume:
+"Last updated: %s. To refresh last day\'s <a href=""%s"">statistics</a>, click <a href=""%s"">here</a>.","Ultima actualizare: %s. Pentru a reimprospata <a href=""%s"">statisticile</a> din ultimele zile, click <a href=""%s"">aici</a>."
+Latest Message:,Ultimul Mesaj:
+Layered Navigation Indices,Indici de navigare pe straturi
+Layered Navigation Indices were refreshed.,Indicii de navigare pe straturi au fost reimprospatati.
+Leave empty to use tax identifier,Lasati liber pentru a folosi identificatorul de taxare
+Lifetime Sales,Vanzari totale
+Lifetime statistics have been updated.,Au fost actualizate statisticile pe toata perioada de activitate.
+Links,Link-uri
+Links with associated products will retain only after saving current product.,Link-urile cu produsele asociate vor fi retinute numai dupa salvarea produsului curent.
+List (default) / Grid,Lista (standard) / Tabel
+List Only,Numai lista
+Load Template,Incarca Sablon
+Load default template,Incarca sablon standard
+Loading...,Se incarca...
+Local Server,Server Local
+Local/Remote Server,Server Local/Remote
+Locale,Limba
+Log In,Logare
+Log Out,Delogare
+Log in to Admin Panel,Conectare la panoul Admin
+Log in to use <strong>%s</strong>,Login pentru a folosi <strong>%s</strong>
+Log into Magento Admin Page,Logare pe pagina Admin Magento
+Logged in as %s,Logat ca %s
+Login,Login
+Low Stock,Stoc Redus
+MAJOR,MAJOR
+MINOR,MINOR
+MS Excel XML,MS Excel XML
+Magento Admin,Magento Admin
+Magento Commerce - Administrative Panel,Magento Commerce - Panou Administrativ
+Magento Connect,Conectare Magento
+Magento Connect Manager,Administrator Conexiuni Magento
+Magento Logo,Sigla Magento
+Magento is a trademark of Magento Inc. Copyright &copy; %s Magento Inc.,Magento este o marca inregistrata a Magento Inc. Copyright &copy; %s Magento Inc.
+Magento root directory,Director radacina Magento
+Magento ver. %s,Magento ver. %s
+Magento&trade; is a trademark of Magento Inc.<br/>Copyright &copy; %s Magento Inc.,Magento&trade; este o marca inregistrata a Magento Inc.<br/>Copyright &copy; %s Magento Inc.
+Make sure that data encoding in the file is consistent and saved in one of supported encodings (UTF-8 or ANSI).,Asigurati-va ca codificarea datelor din fisier este consistenta si salvata in una din codificarile acceptate (UTF-8 sau ANSI).
+Manage Attribute Sets,Manage Attribute Sets
+Manage Attributes,Administrare Atribute
+Manage Categories,Administrare Categorii
+Manage Content,Administrare Continut
+Manage Currency Rates,Administrare Cursuri valutare
+Manage Customers,Administrare Clienti
+Manage Ratings,Administrare Evaluari
+Manage Stores,Administrare Magazine
+Manage Tax Rules,Administrare reguli de taxare
+Manage Tax Zones and Rates,Administrare Zone de taxare si Cursuri valutare
+Manual,Manual
+Matched Expression,Expresie Potrivita
+Mb,Mb
+"Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)"
+Media storages synchronization has completed!,Sincronizarea depozitelor media a fost finalizata!
+Messages Inbox,Inbox Mesaje
+Month,Luna
+Most Viewed,Cele mai vizualizate
+Most Viewed Products,Cele mai vizualizate produse
+Multiple Select,Selectare Multipla
+My Account,Contul meu
+My Applications,Aplicatiile Mele
+N/A,N/A
+NOTICE,NOTIFICARE
+Name,Nume
+Name:,Nume:
+Never (production),Niciodata (productie)
+New ,Nou 
+New API Key,Cheie API noua
+New Accounts,Conturi Noi
+New Attribute,Atribute Noi
+New Block,Bloc Nou
+New Category,Categorie Noua
+New Class,Clasa Noua
+New Condition,Conditie Noua
+New Custom Variable,Variabila Personalizata Noua
+New Customer,Client Nou
+New Customers,Clienti Noi
+New Design Change,Modificare Design Noua
+New Email Template,Sablon E-mail Nou
+New Group,Grup Nou
+New Invoice,Factura Noua
+New Item Type,Tip Articol Nou
+New Memo,Nota noua
+New Memo for #%s,Nota Noua pentru #%s
+New Page,Pagina Noua
+New Password,Parola Noua
+New Poll,Chestionar Nou
+New Profile,Profil Nou
+New Rate,Curs Nou
+New Rating,Evaluare Noua
+New Review,Recenzie Noua
+New Role,Rol nou
+New Rule,Regula Noua
+New Search,Cautare Noua
+New Set,Set Nou
+New Shipment,Livrare Noua
+New Sitemap,Harta Site Noua
+New Store View,Vitrina Noua
+New System Template,Sablon sistem Nou
+New Tag,Eticheta Noua
+New Template,Sablon Nou
+New User,Utilizator Nou
+New Variable,Variabila Noua
+New Website,Website Nou
+New password field cannot be empty.,Campul noii parole nu poate fi liber.
+Newsletter,Newsletter
+Newsletter Problems,Probleme Newsletter
+Newsletter Queue,Lista de asteptare Newsletter
+Newsletter Subscribers,Abonati Newsletter
+Newsletter Templates,Sabloane Newsletter
+Next month (hold for menu),Luna urmatoare (tineti apasat pentru meniu)
+Next year (hold for menu),Anul urmator (tineti apasat pentru meniu)
+No,Nu
+No (price without tax),Nu (pret fara raxe)
+No Data Found,Nu exista date
+No Templates Found,Nu exista sabloane
+No change,Nici o schimbare
+No customer id defined.,Nici un id client nu este definit.
+No information available.,Nici o informatie disponibila.
+No profile loaded...,Nici un profil incarcat...
+No records found for this period.,Nici o inregistrare gasita pentru aceasta perioada.
+No records found.,Nici o inregistrare.
+No report code specified.,Nici un cod de raportare specificat.
+No search keywords.,Nici un cuvant-cheie.
+No search modules were registered,Nici un modul de cautare nu a fost inregistrat
+No wishlist item id defined.,Nici un id articol din lista de dorinte nu este definit.
+None,Nici unul
+Note:,Nota:
+Notes,Note
+Notifications,Notificari
+Number of Orders,Numar Comenzi
+Number of Uses,Numar Utilizari
+Number of Views,Numar Vizualizari
+Number of records:,Numar Inregistrari:
+OAuth Consumers,Consumatori OAuth
+OAuth authorization for admin,Autorizatie OAuth pentru admin
+OAuth authorization simple for admin,Autorizatie OAuth simpla pentru admin
+OK,OK
+Old rate:,Curs vechi:
+"Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Odata logat in contul dumneavoastra PayPal Advanced, navigati la Service Settings - Hosted Checkout Pages - Set Up - Meniu Setari si setati optiunile descrise mai jos"
+"Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Odata logat in contul dumneavoastra PayPal Payflow Link, navigati la Service Settings - Hosted Checkout Pages - Set Up - Meniu Setari si setati optiunile descrise mai jos"
+One or more media files failed to be synchronized during the media storages syncronization process. Refer to the log file for details.,Unul sau mai multe fisiere media nu au putut fi sincronizate in timpul procesului de sincronizare a depozitelor media.Apelati la registru pentru detalii.
+One or more of the Cache Types are invalidated:,Unul sau mai multe tipuri de Cache nu sunt validate:
+Online Customers,Clienti Online
+Only Once (version upgrade),Numai o data (Versiune Upgrade)
+"Only attributes with scope ""Global"", input type ""Dropdown"" and Use To Create Configurable Product ""Yes"" are available.","Doar atribute cu arie ""Globala"", de tip ""Dropdown"" si Foloseste la Crearea de Produse Configurabile ""Da"" sunt disponibile."
+Only mapped fields,Doar campuri mapate
+Optional,Optional
+Options,Optiuni
+Order,Comanda
+Order #%s,Comanda #%s
+Order #%s (%s),Comanda #%s (%s)
+Order Created Date,Data Crearii Comenzii
+Order ID,ID Comanda
+Order Totals,Totaluri Comanda
+Order Updated Date,Actualizarea Datei Comenzii
+"Order Updated Date report is real-time, does not need statistics refreshing.","Raportul Actualizarii Datei Comenzii este in timp real, nu necesita reimprospatarea statisticilor."
+Orders,Comenzi
+Original Magento attribute names in first row:,Nume atribut Magento original pe primul rand:
+Out of stock,Nu este in stoc
+PDT (Payment Data Transfer) Only,Numai TDP (Transfer Date Plata)
+Package Extensions,Extensii Pachet
+Pages,Pagini
+Parent Product Thumbnail,Thumbnail produs parinte
+Parent Transaction ID,ID Tranzactie parinte
+Passive mode,Mod pasiv
+Password,Parola
+Password Confirmation,Confirmare parola
+Password confirmation must be same as password.,Confirmarea parolei trebuie sa fie identica cu parola.
+Password must be at least of %d characters.,Parola trebuie sa contina cel putin %d caractere.
+Password must include both numeric and alphabetic characters.,Parola trebuie sa contina si litere si cifre .
+Password:,Parola:
+Path:,Calea:
+Payment method instance is not available.,Instanta metodei de plata nu este disponibila.
+Payment method is not available.,Metoda de plata nu este disponibila.
+Payment method must be specified.,Metoda de plata trebuie specificata.
+Pending Reviews,Recenzii in asteptare
+Pending Tags,Etichete in asteptare
+Per Item,Pe Articol
+Per Order,Pe Comanda
+Percent,Procent
+Performed At,Executat la
+Period,Perioada
+Permanent (301),Permanent (301)
+Permissions,Permisiuni
+Personal Information,Informatii personale
+Phone:,Tel:
+Please Select,"Va rugam, selectati"
+Please confirm site switching. All data that hasn\'t been saved will be lost.,"Va rugam, confirmati schimbarea site-ului.Toate datele care nu au fost salvate vor fi pierdute."
+Please enter 6 or more characters.,Introduceti 6 sau mai multe caractere.
+Please enter a number greater than 0 in this field.,Introduceti un numar mai mare ca 0 in acest camp.
+Please enter a valid $ amount. For example $100.00.,Introduceti o suma valida. De exemplu 100.00 lei.
+Please enter a valid URL. For example http://www.example.com or www.example.com,Introduceti un URL valid. De exemplu http://www.example.com sau www.example.com
+Please enter a valid URL. http:// is required,Introduceti un URL valid. http:// este necesar
+Please enter a valid credit card number.,Introduceti un numar de card de credit valid.
+Please enter a valid date.,Introduceti o data valida.
+Please enter a valid email address. For example johndoe@domain.com.,Introduceti o adresa de e-mail valida. De exemplu johndoe@domain.com.
+Please enter a valid email.,Introduceti o adresa de e-mail valida.
+Please enter a valid number in this field.,Introduceti un numar valid in acest camp.
+Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.,Introduceti un numar de telefon valid. De exemplu 0234123456 sau 0740123456.
+Please enter a valid social security number. For example 123-45-6789.,Intoduceti un Social Security Number valid. De exemplu  123-45-6789.
+Please enter a valid value from list,Introduceti o valoare valida din lista
+"Please enter a valid value, ex: 10,20,30","Introduceti o valoare valida, ex: 10,20,30"
+Please enter a valid zip code.,Introduceti un cod postal valid.
+Please enter a valid zip code. For example 90602 or 90602-1234.,Introduceti un cod postal valid. De examplu 700521.
+Please enter another credit card number to complete your purchase.,Introduceti un alt numar card credit pentru a finaliza tranzactia.
+Please enter password,Introduceti parola
+Please enter password to confirm rollback.,Introduceti parola pentru a confirma revenirea (rollback).
+Please enter valid password.,Introduceti o parola valida.
+Please make sure that all global admin search modules are installed and activated.,Verificati daca sunt instalate si activate toate modulele de cautare globala din admin.
+Please make sure that your changes were saved before running the profile.,Verificati daca modificarile au fost salvate inainte de a executa profilul.
+Please make sure your passwords match.,Verificati potrivirea parolelor.
+Please select State/Province.,Alegeti judetul.
+Please select a customer.,Selectati un client.
+Please select a store.,Selectati un magazin.
+Please select an option.,Selectati o optiune.
+Please select catalog searches.,Selectati cautari in catalog.
+Please select customer(s).,Selectati client(i).
+Please select message(s).,Selectati mesaj(e).
+Please select one of the above options.,Selectati una din optiunile de mai sus.
+Please select one of the options.,Selectati una din optiuni.
+Please select review(s).,Selectati recenzie.
+Please select tag(s).,Selectati etichete.
+Please specify backup creation options,"Va rugam, specificati optiunile de creare a backup-ului"
+Please specify the admin custom URL.,"Va rugam, specificati URL-ul personalizat admin."
+Please try to logout and sign in again.,"Va rugam, incercati sa va delogati si sa va logati din nou."
+Please type the letters from the image:,"Va rugam, introduceti literele din imagine."
+"Please use in this field only ""a-z,0-9,_"".","Va rugam, in acest camp folositi numai ""a-z,0-9,_""."
+Please use letters only (a-z) in this field.,"Va rugam, in acest camp folositi numai litere (a-z)."
+Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.,"Va rugam, in acest camp folositi numai cifre. Va rugam, evitati spatiile sau alte caractere cum ar fi  punctele si virgulele."
+"Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field.","Please use only letters (a-z or A-Z), numbers (0-9) or spaces in this field."
+Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.,"Va rugam, in acest camp folositi numai litere (a-z) sau cifre (0-9). Spatiile sau caracterele speciale nu sunt permise."
+Please use only letters (a-z) or numbers (0-9) or spaces and # only in this field.,Doar litere (a-z) sau numere (0-9) sau spatii si # in acest camp.
+"Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.",Formatul datei: zz/ll/aaaa. De exemplu 17/03/2008 pentru 17 martie 2008.
+Please wait while the indexes are being refreshed.,"Va rugam, asteptati in timp ce indexurile sunt reimprospatate."
+"Please wait, loading...","Asteaptati, se incarca..."
+Please wait...,"Va rugam, asteaptati..."
+"Please, add some answers to this poll first.","Va rugam,  raspundeti intai la cateva intrebari din acest chestionar."
+"Please, select ""Visible in Stores"" for this poll first.","Va rugam, selectati intai ""Vizibil in Magazine"" pentru acest chestionar."
+Poll Manager,Administrator Chestionare
+Polls,Chestionare
+Popular,Populare
+Position of Watermark for %s,Pozitia watermark-ului pentru %s
+Pregenerated product images files.,Fisiere imagini produs pregenerate.
+Prev. month (hold for menu),Luna anterioara (tineti apasat pentru meniu)
+Prev. year (hold for menu),Anul anterior (tineti apasat pentru meniu)
+Preview,Previzualizare
+Preview Template,Previzualizare Sablon
+Price,Pret
+Price alert subscription was saved.,Abonarea la alerte de pret a fost salvata.
+Price:,Pret:
+Processed <strong>%s%% %s/%d</strong> records,<strong>%s%% %s/%d</strong> inregistrari procesate
+Product,Produs
+Product Name,Nume Produs
+Product Reviews,Recenzii Produs
+Product Tax Classes,Clasa taxare Produs
+Product Thumbnail Itself,Thumbnail Produs
+Product is not loaded.,Produsul nu este incarcat.
+Product:,Produs:
+Products,Produse
+Products Bestsellers Report,Raport cele mai vandute produse
+Products Most Viewed Report,Raport cele mai vizualizate produse
+Products Ordered,Produse Comandate
+Products in Carts,Produse in Cos
+Profile Action,Actiuni profil
+Profile Actions XML,Actiuni profil XML
+Profile Direction,Directie profil
+Profile History,Istoric profil
+Profile Information,Informatii profil
+Profile Name,Nume profil
+Profile Payments,Plati Profil
+Profile Schedule,Program Profil
+Profile Wizard,Wizard profil
+Profiles,Profile
+Promo,Promo
+Promotions,Promotii
+Purchased Item,Articol Achizitionat
+Put store on the maintenance mode while backup creation,Puneti magazinul in modul de intretinere in timpul crearii unui backup
+Put store on the maintenance mode while rollback processing,Puneti magazinul in modul de intretinere in timpul unui rollback
+Quantity,Cantitate
+Queue Refresh,Reimprospatare lista de asteptare
+Queued... Cancel,In asteptareﾅ Anulare
+REST Roles,Functii REST
+Radio Buttons,Butoane Optiuni
+Rates,Cursuri
+Read details,Citeste Detalii
+Rebuild,Reconstruire
+Rebuild Catalog Index,Reconstruire Index Catalog
+Rebuild Flat Catalog Category,Reconstruire Categorie Catalog Flat 
+Rebuild Flat Catalog Product,Reconstruire Produs Catalog Flat
+Recent Orders,Comenzi recente
+Recent statistics have been updated.,Statisticile recente au fost actualizate.
+Recurring Profile View,Vizualizare Periodica Profil
+Recursive Dir,Dir Recursiv
+Redirect,Redirectioneaza
+Reference,Referinta
+Reference ID,ID de Referinta
+Refresh,Reimprospateaza
+Refresh Now*,Reimprospateaza Acum*
+Refresh Statistics,Reimprospateaza Statistici
+Region/State,Judet/Tara
+Regular Price:,Pret normal:
+Reject,Respingere
+Reject token authorization Pop Up for admin,Respinge Pop Up-ul de autorizatie pe baza de jeton pentru admin
+Reject token authorization for admin,Respinge  autorizatia pe baza de jetoane pentru admin
+Rejection Of Authorization,Respingerea Autorizatiei
+Release,Release
+Release Stability,Stabilitatea Release
+Release Version,Versiune Release
+Reload captcha,Reincarca captcha
+Remote FTP,Remote FTP
+Remove,Sterge
+Reports,Rapoarte
+Request Path,Solicita calea
+Required,Obligatoriu
+Reset,Reseteaza
+Reset Filter,Reseteaza filtru
+Reset Password,Reseteaza Parola
+Reset a Password,Reseteaza o Parola
+Resize,Redimensionare
+Resource Access,Acces resurse
+Resources,Resurse
+Results,Rezultate
+Retrieve Password,Recupereaza parola
+Return Html Version,Revenire versiune Html
+Revenue,Venit
+Reviews,Recenzii
+Reviews and Ratings,Recenzii si Evaluari
+Rewrite Rules,Rescriere Reguli
+Role ID,ID rol
+Role Info,Info rol
+Role Information,Informatii rol
+Role Name,Nume Rol
+Role Resources,Resurse rol
+Role Users,Utilizatori rol
+Roles,Roluri
+Roles Resources,Resurse roluri
+Rotate CCW,Roteste in sens invers acelor de ceasornic
+Rotate CW,Roteste in sensul acelor de ceasornic
+Run,Ruleaza
+Run Profile,Ruleaza Profil
+Run Profile Inside This Window,Ruleaza profil in acesta fereastra
+Run Profile in Popup,Ruleaza Profil in Popup
+Running... Kill,Se ruleaza... Oprire
+SKU,Cod Produs
+SKU:,Cod Produs:
+SSL Error: Invalid or self-signed certificate,Eroare SSL: Certificat nevalid sau auto-semnat
+Sales,Vanzari
+Sales Report,Raport de vanzari
+Samples,Mostre
+Save,Salvare
+Save & Generate,Salveaza si genereaza
+Save Account,Salveaza cont
+Save Cache Settings,Salveaza Setari Cache
+Save Config,Salveaza configuratia
+Save Currency Rates,Salveaza cursurile valutare
+Save Profile,Salveaza profil
+Save Role,Salveaza Functie
+Save Template,Salveaza Sablon
+Save User,Salveaza Utilizator
+Save and Continue Edit,Salveaza si Continua Editarea
+Search,Cautare
+Search Index,Index Cautare
+Search Term,Termen Cautare
+Search Terms,Termeni Cautare
+Select,Selectare
+Select All,Selecteaza Tot
+Select Category,Selecteaza Categorie
+Select Date,Selecteaza data
+Select Range,Selecteaza Interval
+Select date,Selecteaza Data
+"Selected allowed currency ""%s"" is not available in installed currencies.","Valuta permisa selectata ""%s""nu este disponibila in valutele instalate."
+Selected base currency is not available in installed currencies.,Valuta de baza selectata nu este disponibila in valutele instalate.
+Selected default display currency is not available in allowed currencies.,Valuta standard selectata nu este disponibila in cadrul valutelor permise.
+Selected default display currency is not available in installed currencies.,Valuta standard selectata nu este disponibila in cadrul valutelor instalate.
+Self-assigned roles cannot be deleted.,Functiile auto-alocate nu pot fi stese.
+Sender,Expeditor
+Separate Email,E-mail Separat
+Shipment #%s comment added,Comentariu adaugat la livrarea #%s
+Shipment #%s created,Livrarea #%s a fost creata.
+Shipment Comments,Comentarii livrare
+Shipment History,Istoric livrare
+Shipments,Livrari
+Shipping,Livrare
+Shipping Address,Adresa de livrare
+Shipping Address: ,Adresa de livrare: 
+Shipping Origin,Originea Livrarii
+Shipping Price,Pret livrare
+Shipping address selection is not applicable,Selectia adresei de livrare nu este aplicabila.
+Shipping method must be specified.,Metoda de livrare trebuie specificata.
+Shipping method selection is not applicable,Selectia metodei de livrare nu este aplicabila
+Shopping Cart,Cos de cumparaturi
+Shopping Cart Price Rules,Reguli Pret Cos de cumparaturi
+Shopping Cart from %s,Cos de cumparaturi de la %s
+Show By,Cumpara dupa
+Show Report For:,Arata Raport pentru:
+Show Reviews,Arata Recenzii
+Sitemap Information,Informatii harta site
+Size for %s,Marime pentru %s
+Skip Category Selection,Omite Selectie Categorie
+Some items in this order have different invoice and shipment types. You can create shipment only after the invoice is created.,Unele articole din aceasta comanda au tipuri diferite de facturi si livrari.Puteti crea o livrare numai dupa crearea unei facturi.
+Some of the ordered items do not exist in the catalog anymore and will be removed if you try to edit the order.,Unele din produsele comandate nu mai exista in catalog si vor fi sterse daca incercati sa editati comanda.
+"Sorry, this feature is coming soon...","Ne pare rau, aceasta optiune va fi disponibila in curand..."
+Special Price:,Pret Special:
+Specific Countries,Tari specificate
+Specified,Specificat
+Specified profile does not exist.,Profilul specificat nu exista.
+Spreadsheet Name:,Nume Spreadsheet:
+Start Date,Data de pornire
+"Starting profile execution, please wait...","Se incepe executia profilului, va rugam, asteaptati..."
+State/Province:,Tara/Judet:
+Static Blocks,Blocuri Statice
+Status,Stare
+Status:,Stare:
+Stock Quantity:,Cantitate in stoc:
+Stock notification was saved.,Notificarea de stoc a fost salvata.
+Store,Magazin
+Store Email Addresses Section,Sectiune Adrese E-mail Magazin
+Store View,Vitrina
+Store:,Magazin:
+Stores,Magazine
+Subject,Subiect
+Submit,Trimite
+Subpackage cannot be conflicting.,Subpachetul nu poate fi incompatibil.
+Subtotal,Subtotal
+Switch/Solo/Maestro Only,Doar Switch/Solo/Maestro
+Symbol,Simbol
+Synchronization is required.,Sincronizarea este necesara.
+Synchronization of media storages has been successfully completed.,Sincronizarea depozitelor media a fost finalizata cu succes.
+Synchronize,Sincronizeaza
+Synchronizing %s to %s, %s se sincronizeaza cu %s
+Synchronizing...,Se sincronizeaza...
+System,Sistem
+System Section,Sectiune Sistem
+System busy,Sistem Ocupat
+Tags,Etichete
+Target Path,Cale Tinta
+Tax,Taxa
+Tb,Tb
+Template,Sablon
+Template Content,Continut Sablon
+Template Information,Informatii Sablon
+Template Name,Nume Sablon
+Template Styles,Stiluri Sablon
+Template Subject,Subiect Sablon
+Template Type,Tip Sablon
+Temporary (302),Temporar (302)
+Terms and Conditions,Termeni si Conditii
+Text,Text
+The Catalog Rewrites were refreshed.,Rescrierile din catalog au fost reimprospatate.
+The CatalogInventory Stock Status has been rebuilt.,Starea stoc a inventarului cataloog a fost reconstruita.
+The Comment Text field cannot be empty.,Campul pentru comentarii text nu poate fi gol.
+The Flat Catalog Product was rebuilt,Catalogul flat de produse a fost reconstruit.
+The JavaScript/CSS cache has been cleaned.,Cache-ul JavaScript/CSS a fost golit.
+The JavaScript/CSS cache has been cleared.,Cache-ul JavaScript/CSS a fost golit.
+The Layered Navigation indexing has been queued.,Indexarea navigarii pe straturi a fost pusa in asteptare.
+The Layered Navigation indexing queue has been canceled.,Indexarea navigarii pe straturi pusa in asteptare a fost anulata .
+The Layered Navigation indices were refreshed.,Indicii de navigare pe straturi au fost reimprospatati.
+The Layered Navigation process has been queued to be killed.,Procesul navigarii pe straturi a fost pus in asteptare pentru a fi sistat.
+The Magento cache storage has been flushed.,Depozitul Cache magento a fost golit .
+The URL Rewrite has been deleted.,Rescrierea URL a fost stearsa.
+The URL Rewrite has been saved.,Rescrierea URL a fost salvata.
+The account has been saved.,Contul a fost salvat.
+"The archive can be uncompressed with <a href=""%s"">%s</a> on Windows systems","Arhiva poate fi decomprimata cu <a href=""%s"">%s</a> pe sistemele Windows"
+The attribute set has been removed.,Setul de atribute a fost sters.
+The backup's creation process will take time.,Procesul crearii unui backup va dura mai mult.
+The billing agreement has been canceled.,Acordul de facturare a fost anulat.
+The billing agreement has been deleted.,Acordul de facturare a fost sters.
+The cache storage has been flushed.,Depozitul cache a fost golit.
+The carrier needs to be specified.,Curierul trebuie specificat.
+The catalog index has been rebuilt.,Indexul catalogului a fost reconstruit.
+The catalog rewrites have been refreshed.,Rescrierile din catalog au fost reimprospatate.
+The configuration has been saved.,Configuratia a fost salvata.
+The credit memo has been canceled.,Nota de credit a fost anulata.
+The credit memo has been created.,Nota de credit a fost creata.
+The credit memo has been voided.,Nota de credit a fost anulata.
+The custom variable has been deleted.,Variabila personalizata a fost stearsa.
+The custom variable has been saved.,Variabila personalizata a fost salvata.
+The customer has been deleted.,Clientul a fost sters.
+The customer has been saved.,Clientul a fost salvat.
+The design change has been deleted.,Schimbarea de design a fost stearsa.
+The design change has been saved.,Schimbarea de design a fost salvata.
+The email address is empty.,Adresa de e-mail este goala.
+The email template has been deleted.,Sablonul de e-mail a fost sters.
+The email template has been saved.,Sablonul de e-mail a fost salvat.
+The flat catalog category has been rebuilt.,Categoria catalogului flat a fost reconstruita.
+The group node name must be specified with field node name.,Numele nodului de grup trebuie specificat impreuna cu numele nodului de camp.
+The image cache was cleaned.,Cache-ul de imagini a fost golit.
+The image cache was cleared.,Cache-ul de imagini a fost golit.
+The invoice and shipment have been created.,Factura si livrarea au fost create.
+The invoice and the shipment  have been created. The shipping label cannot be created at the moment.,Factura si livrarea au fost create. Eticheta de livrare nu poate fi creata momentan.
+The invoice has been canceled.,Factura a fost anulata.
+The invoice has been captured.,Factura a fost preluata.
+The invoice has been created.,Factura a fost creata.
+The invoice has been voided.,Factura a fost anulata.
+The invoice no longer exists.,Factura nu mai exista.
+The item %s (SKU %s) does not exist in the catalog anymore.,Articolul %s (COD %s) nu mai exista in catalog.
+The order does not allow creating an invoice.,Comanda nu permite crearea unei facturi.
+The order no longer exists.,Comanda nu mai exista.
+The poll has been deleted.,Chestionarul a fost sters.
+The poll has been saved.,Chestionarul a fost salvat.
+The profile has been deleted.,Profilul a fost sters.
+The profile has been saved.,Profilul a fost salvat.
+The profile has been updated.,Profilul a fost actualizat.
+The profile has no changes.,Profilul nu prezinta schimbari.
+The profile you are trying to save no longer exists,Profilul pe care incercati sa-l salvati nu mai exista.
+The rating has been deleted.,Evaluarea a fost stearsa.
+The rating has been saved.,Evaluarea a fost salvata.
+The role has been deleted.,Rolul a fost sters
+The role has been saved.,Rolul a fost salvat.
+The role has been successfully saved.,Rolul a fost salvat cu succes.
+The search index has been rebuilt.,Indexul de cautare a fost reconstruit.
+The shipment has been created.,Livrarea a fost creata.
+The shipment has been sent.,Livrarea a fost trimisa.
+The shipping label has been created.,Eticheta de livrare a fost creata.
+The tag has been deleted.,Eticheta a fost stearsa.
+The tag has been saved.,Eticheta a fost salvata.
+The transaction details have been updated.,Detaliile de tranzactie au fost actualizate.
+The user has been deleted.,Utilizatorul a fost sters.
+The user has been saved.,Utilizatorul a fost salvat.
+Themes JavaScript and CSS files combined to one file.,Temele JavaScript si fisierele CSS combinate intr-un singur fisier.
+There is an error in one of the option rows.,Exista o eroare in unul din randurile de optiuni.
+This Account is,Acest cont este
+This Email template no longer exists.,Acest sablon de e-mail nu mai exista.
+This Role no longer exists,Aceasta functie nu mai exista.
+This Role no longer exists.,Aceasta functie nu mai exista.
+This account is,Acest cont este
+This account is inactive.,Acest cont este inactiv.
+This action cannot be undone.,Aceasta actiune nu poate fi anulata.
+This attribute set does not have attributes which we can use for configurable product,Acest set de atribute nu contine atribute care pot fi folosite la produsul configurabil.
+This attribute shares the same value in all the stores,Acest atribut are aceeasi valoare in toate magazinele
+This is a demo store. Any orders placed through this store will not be honored or fulfilled.,Acesta este un magazin demo. Orice comanda emisa prin intermediul acestui magazin nu va fi onorata.
+This is a required field.,Acesta este un camp obligatoriu.
+This product is currently disabled.,Acest produs este dezactivat momentan.
+"This report depends on timezone configuration. Once timezone is changed, the lifetime statistics need to be refreshed.","Acest raport depinde de configuratia zonei de fus orar. Odata ce zona de fus orar este schimbata, statisticile perioadei de activitate necesita reimprospatare."
+This section is not allowed.,Aceasta sectiune este interzisa.
+This user no longer exists.,Acest utilizator nu mai exista.
+Time,Timp
+Time selection:,Selectie timp:
+Time:,Timp:
+Timeout limit for response from synchronize process was reached.,Limita timpului de raspuns de la procesul de sincronizare a fost atinsa.
+To,La
+"To cancel pending authorizations and release amounts that have already been processed during this payment, click Cancel.","Pentru a anula autorizatiile in asteptare si a renunta la cantitatile care au fost deja procesate in timpul acestei plati, faceti click pe Anulare."
+"To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Pentru a folosi PayPal Payflow Link, trebuie sa configurati contul dumneavoastra PayPal Payflow Link pe site-ul PayPal."
+"To use PayPal Payments Advanced, you must configure  your PayPal Payments Advanced account on the PayPal website.","Pentru a folosi PayPal Payments Advanced, trebuie sa configurati contul dumneavoastra PayPal Payments Advanced pe site-ul PayPal."
+Toggle Editor,Schimba Editor
+Tools,Unelte
+Top 5 Search Terms,Top 5 cautari
+Total,Total
+Total Invoiced,Total facturat
+Total Order Amount,Totalul comenzii
+Total Refunded,Total rambursat
+Total of %d record(s) have been deleted.,Un total de %d inregistrari au fost sterse.
+Total of %d record(s) have been updated.,Un total de %d inregistrari au fost actualizate.
+Total of %d record(s) were canceled.,Un total de %d inregistrari au fost anulate.
+Total of %d record(s) were deleted,Un total de %d inregistrari au fost sterse.
+Total of %d record(s) were deleted.,Un total de %d inregistrari au fost sterse.
+Total of %d record(s) were updated,Un total de %d inregistrari au fost actualizate.
+Total of %d record(s) were updated.,Un total de %d inregistrari au fost actualizate.
+Track Order,Urmareste Comanda
+Track this shipment,Urmareste aceasta livrare
+Tracking number %s for %s assigned,Numarul de urmarire %s pentru %s a fost alocat
+Tracking number cannot be empty.,Numarul de urmarire nu poate fi gol.
+Transaction Data,Date Tranzactie
+Transaction Details,Detalii Tranzactie
+Transaction ID,ID Tranzactie
+Transaction Type,Tip Tranzactie
+Transactional Emails,E-mail-uri Tranzactionale
+Transactions,Tranzactii
+Try Magento Go for Free,Incercati Magento Gratis
+Type,Tip
+Type:,Tip:
+URL Rewrite,Rescriere URL
+URL Rewrite Information,Info Rescriere URL
+URL Rewrite Management,Administrare Rescriere URL
+Unable to cancel the credit memo.,Nota de credit nu poate fi anulata.
+Unable to find a Email Template to delete.,Nu s-a putut gasi un sablon e-mail de sters.
+Unable to find a poll to delete.,Nu s-a putut gasi un chestionar de sters.
+Unable to find a tag to delete.,Nu s-a putut gasi o eticheta de sters.
+Unable to find a user to delete.,Nu s-a putut gasi un utilizator de sters.
+Unable to initialize import model,Nu s-a putut initializa modelul de import
+Unable to refresh lifetime statistics.,Nu s-au putut reimprospata statisticile perioadei de activitate.
+Unable to refresh recent statistics.,Nu s-au putut reimprospata statisticile recente.
+Unable to save the cron expression.,Nu s-a putut salva expresia cron.
+Unable to save the invoice.,Nu s-a putut salva factura.
+Unable to send the invoice email.,Nu s-a putut trimite e-mail-ul de facturare.
+Unable to send the shipment email.,Nu s-a putut trimite e-mail-ul de livrare.
+Unable to update transaction details.,Nu s-au putut actualiza detaliile tranzactiei.
+Unable to void the credit memo.,Nu s-a putut anula nota de credit.
+Unknown,Necunoscut
+Unlimited,Nelimitat
+Update,Actualizeaza
+Updated At,Actualizat la
+Upload File,Incarca Fisier
+Upload Files,Incarca Fisiere
+Upload HTTP Error,Eroare incarcare HTTP
+Upload I/O Error,Eroare incarcare I/O
+Upload Security Error,Eroare securitate incarcare
+Upload import file,Incarcare fisier import
+Uploaded file is larger than %.2f kilobytes allowed by server,Fisierul incarcat depaseste marimea de %.2f kB permisa de server.
+Use All Available Attributes,Foloseste toate atributele disponibile
+Use Config Settings,Foloseste setarile de configurare
+Use Default,Foloseste Setari Standard
+Use Default Value,Foloseste valoare standard
+Use Default Variable Values,Foloseste valori variabile standard
+Use FTP Connection,Foloseste conexiunea FTP
+Use Website,Foloseste site
+Used Currently For,Folosit momentan pentru
+Used as Default For,Folosit ca standard pentru
+User Email,E-mail utilizator
+User ID,ID utilizator
+User Info,Info utilizator
+User Information,Informatii utilizator
+User Name,Nume utilizator
+User Name is required field.,Nume Utilizator este camp necesar.
+User Name:,Nume utilizator:
+User Password,Parola Utilizator
+User Role,Functie utilizator
+User Roles,Functii utilizator
+User Roles Information,Informatii functii utilizator
+User Type Resources,Tip resurse utilizator
+User name,Nume utilizator
+Users,Utilizatori
+VAT Number is Invalid,Numarul VAT nu este valid.
+VAT Number is Valid,Numarul VAT este valid.
+Validation Results,Rezultate Validare
+Value,Valoare
+Value Delimiter:,Valoare delimitata de:
+Variable,Variabila
+Variable Code,Cod variabila
+Variable HTML Value,Valoare HTML variabila
+Variable ID,ID variabila
+Variable Name,Nume variabila
+Variable Plain Value,Valoare variabila
+Verifier code: %s,Cod de verificare: %s
+View Actions XML,Vezi actiuni XML
+View Full Size,Vizualizeaza marime originala
+View Memo,Vizualizeaza nota
+View Memo for #%s,Vizualizeaza nota pentru #%s
+View Shipment,Vizualizeaza Livrare
+View Statistics For:,Vizualizeaza statistici pentru:
+Visibility:,Vizibilitate:
+Warning,Atentie
+Warning! Empty value can cause problems with CSV format.,Atentie! Valoarea goala poate cauza probleme cu formatul CSV.
+Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?,Atentie!\r\n Aceasta actiune va destitui utilizatorul din rolul deja alocat \r\nSunteti sigur?
+Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?,Atentie!\r\n Aceasta actiune va destui utilizatorii din rolurile deja alocate \r\nSunteti sigur?
+Warning: Please do not close the window during importing/exporting data,"Atentie: Va rugam, nu inchideti fereastra in timpul importarii/exportarii datelor."
+Watermark File for %s,Fisier Imagine fundal pentru %s
+"We appreciate our merchants\' feedback, please <a href=""#"" onclick=""surveyAction(\'yes\'); return false;"">take our survey</a> to provide insight on the features you would like included in Magento. <a href=""#"" onclick=""surveyAction(\'no\'); return false;"">Remove this notification</a>","Apreciem feedback-ul comerciantilor nostri, va rugam  <a href=""#"" onclick=""surveyAction(\'yes\'); return false;"">completati sondajul nostru</a> pentru a va exprima opinia in legatura cu ce caracteristici ati dori sa fie incluse in Magento.<a href=""#"" onclick=""surveyAction(\'no\'); return false;"">Nu mai afisa notificarea</a>"
+"We\'re in our typing table, coding away more features for Magento. Thank you for your patience.","Suntem in timpul orarului nostru de tastare, creand noi caracteristici pentru Magento. Va multumim pentru rabdarea dumneavoastra."
+Web Section,Sectiune Web
+Web Services,Servicii Web
+Web services,Servicii Web
+Website,Site
+What is this?,Ce e aceasta?
+Wishlist Report,Raport favorite
+Wishlist item is not loaded.,Articolul din favorite nu este incarcat.
+Wrong account specified.,Ati specificat un cont incorect.
+Wrong billing agreement ID specified.,Ati specificat un ID de Acord facturare incorect.
+Wrong column format.,Format coloana incorect.
+Wrong newsletter template.,Sablon Newsletter incorect.
+Wrong quote item.,Articol oferta incorect.
+Wrong tab configuration.,Configurare tab incorecta.
+Wrong tag was specified.,Ati specificat o eticheta incorecta.
+Wrong transaction ID specified.,Ati specificat un ID de tranzactie incorect.
+XML,XML
+XML data is invalid.,Datele XML nu sunt valide .
+"XML object is not instance of ""Varien_Simplexml_Element"".","Obiectul XML nu este o instanta a ""Varien_Simplexml_Element""."
+YTD,Ultimul an
+Year,An
+Yes,Da
+Yes (301 Moved Permanently),Da (301 Mutat Permanent)
+Yes (302 Found),Da (302 Gasit)
+Yes (only price with tax),Da (doar pret cu TVA)
+You cannot delete your own account.,Nu va puteti sterge propriul cont.
+You have %s unread message(s).,Aveti %s mesaje necitite.
+"You have %s unread message(s). <a href=""%s"">Go to messages inbox</a>.","Aveti %s mesaje necitite. <a href=""%s"">Mergeti la Inbox mesaje</a>."
+"You have %s, %s and %s unread messages. <a href=""%s"">Go to messages inbox</a>.","Aveti %s mesaje necitite. <a href=""%s"">Mergeti la Inbox mesaje</a>."
+You have logged out.,Ati fost delogat.
+You have not enough permissions to use this functionality.,Nu aveti destule permisiuni pentru a folosi aceasta functie.
+You must have JavaScript enabled in your browser to utilize the functionality of this website.,Este necesar sa aveti JavaScript activat in browser-ul dumneavoastra pentru a folosi functiile acestui site.
+You need to specify order items.,Este necesar sa specificati articolele comenzii.
+You will need to wait when the action ends.,Va trebui sa asteptati cand actiunea se finalizeaza.
+Your answers contain duplicates.,Raspunsurile se repeta.
+Your password has been updated.,Parola dumneavoastra a fost actualizata.
+Your password reset link has expired.,Link-ul de resetare al parolei dumneavoastra a expirat.
+Your server PHP settings allow you to upload files not more than %s at a time. Please modify post_max_size (currently is %s) and upload_max_filesize (currently is %s) values in php.ini if you want to upload larger files.,"Setarile PHP ale server-ului dumneavoastra va permit incarcarea de maximum %s fisiere simultan.Va rugam, modificati  valorile post_max_size (momentan este %s) si upload_max_filesize (momentan este %s ) din php.ini daca doriti sa incarcati fisiere mai mari."
+"Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider.","Your web server is configured incorrectly. As a result, configuration files with sensitive information are accessible from the outside. Please contact your hosting provider."
+Zip/Postal Code,Cod postal
+Zip/Postal Code:,Cod postal:
+[ deleted ],[ sters ]
+[GLOBAL],[GLOBAL]
+[STORE VIEW],[VITRINA]
+[WEBSITE],[SITE]
+b,b
+close,inchide
+critical,critic
+"example: ""sitemap/"" or ""/"" for base path (path must be writeable)","exemplu: ""sitemap/"" sau ""/"" pentru calea de baza (calea trebuie sa poata fi scrisa)"
+example: sitemap.xml,exemplu: sitemap.xml
+failed,esuat
+from,de la
+major,major
+minor,minor
+notice,notificare
+store(%s) scope,Arie magazin(%s)
+successful,cu succes
+to,la
+website(%s) scope,Arie(%s) site
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. It is highly recommended to change this value in your Magento <a href=""%s"">configuration</a>.","{{base_url}} nu este recomandat a se utiliza intr-un mediu de productie pentru a declara Base Unsecure URL / Base Secure URL. Se recomanda schimbarea acestei valori din <a href=""%s"">configuratia</a> Magento."
+The customer doesn't exist in the system anymore,Clientul nu mai exista in sistem
+"(Absolute path or Relative to Magento install root, ex. var/export)","(Calea relativa sau absoluta catre directorul de instalare Magento, ex. var/export)"
+(t for tab),(t pentru tab)
+-- Please select a category --,"-- Va rugam, selectati o categorie --"
+"<h1 class=""page-heading"">Access denied</h1><p>Access denied.</p>","<h1 class=""page-heading"">Accesul interzis</h1><p>Accesul este interzis la aceasta pagina.</p>"
+Price alert subscription was saved successfully,Abonarea la alerte de pret a fost salvata.
+Access Denied.,Accesul interzis.
+This tab contains invalid data. Please solve the problem before saving.,"Aceast tab contine date nevalide. Va rugam, rezolvati problema inainte de a salva."
+This attribute set don't have attributes which we can use for configurable product,Acest set de atribute nu contine atribute care pot fi folosite la un produs configurabil
+Action Code,Cod Actiune
+Add new Role,Adauga Functie Noua
+"Please, add a few answers to this poll first","Va rugam, raspundeti intai la cateva intrebari din acest chestionar."
+Add Url Rewrite,Adauga Rescriere Url
+Add New Urlrewrite,Adauga rescriere Url
+Email address is empty.,Adresa de e-mail este goala.
+Billing address,Adresa de facturare
+Shipping address,Adresa de livrare
+Primary Billing Address,Adresa principala de facturare
+You successfully logged out.,Ati fost delogat cu succes.
+Please select catalog searches,"Va rugam, selectati cautarile din catalog"
+Please select customer(s),"Va rugam, selectati client(i)"
+Please select tag(s),"Va rugam, selectati etichete"
+Please select a category,"Va rugam, selectati o categorie"
+Please select review(s),"Va rugam, selectati o recenzie"
+Please select a custmer,"Va rugam, selectati un client"
+Please select a store,"Va rugam, selectati un magazin"
+Please select a product,"Va rugam, selectati un produs"
+Please select a type,"Va rugam, selectati un tip"
+Choose Store View,"Va rugam, selectati vitrina"
+"Please, select visible in stores to this poll first","Va rugam, selectati intai ""Vizibil in magazine"" pentru acest chestionar."
+Select Visible,"Va rugam, selectati Vizibil"
+Stock notification was saved successfully,Alerta de stoc a fost salvata cu succes.
+API:,API:
+Show by,Arata dupa
+Show reviews,Arata recenzii
+Show Report for,Arata raportul pentru
+Individual Item,Articol individual
+Items Ordered,Articole comandate
+items selected,articole selectate
+Warning: Please don't close window during importing/exporting data,Atentie: Nu inchideti fereastra in timpul importului sau exportului de date
+Backup successfully created,Backup creat cu succes.
+Backup record was deleted,Inregistrarea Backup-ului a fost stearsa.
+Browse Available Extensions,Rasfoieste extensii disponibile
+Browse Available Remote Extensions,Rasfoieste extensii disponibile remote
+Path,Cale
+Channel,Canal
+Channel:,Canal:
+Qty,Cant.
+Category,Categorie
+Product Categories,Categorii produs
+Changelog,Jurnal modificari
+Poll was successfully saved,Chestionarul a fost salvat cu succes.
+Poll was successfully deleted,Chestionarul a fost sters cu succes.
+Customer was successfully saved,Clientul a fost salvat cu succes
+Customer was deleted,Clientul a fost sters
+Coupon Code,Cod cupon
+Aggregate Order,Comanda compusa
+Credit Memo #%s comment added,Comentariul pentru nota de credit #%s a fost adaugat
+Please fill in 'email' field.,"Va rugam, completati campul 'e-mail'."
+PEAR config,Config PEAR
+Configuration successfully saved,Configuratia a fost salvata cu succes.
+PEAR Configuration was successfully saved,Configuratie PEAR salvata cu succes.
+Please confirm site switching. All data that hasn't been saved will be lost.,"Va rugam, confirmati schimbarea site-ului. Toate datele nesalvate se vor pierde."
+Conflicts,Conflicte
+PEAR Console,Consola PEAR
+Contents,Continut
+Account successfully saved,Contul a fost salvat cu succes.
+Your Account has been deactivated.,Contul dumneavoastra a fost dezactivat.
+Cookie (Unsafe),Cookie (Nesigur)
+Create Extension Package,Creaza pachet extensii
+Create Urlrewrite for,Creaza rescriere Url pentru
+Expiration Date,Data expirarii
+Expiration Date: %s/%s,Data Expirarii: %s/%s
+Date:,Data:
+Package %s data was successfully loaded,Datele pachetului %s  au fost incarcate cu succes.
+Default,Implicit
+Dependencies,Dependinte
+Description:,Descriere:
+Unselect All,Deselecteaza toate
+Unselect Visible,Deselecteaza vizibile
+Uninstall,Dezinstaleaza
+of %s pages,din %s pagini
+List only,Doar lista
+Please use numbers only in this field. please avoid spaces or other characters such as dots or commas.,"Va rugam, folositi numai cifre in acest camp. Va rugam, evitati folosirea spatiilor si a altor caractere, cum ar fi punctele si virgulele."
+Switch/Solo Only,doar Switch/Solo
+Grid only,Doar tabel
+Download Remote File,Descarca fisier remote
+Download and Install,Descarca si instaleaza
+"Downloading and installing $pkg, please wait...","Descarcare si instalare $pkg, va rugam asteptati..."
+Role,Rol
+Role successfully saved.,Rol salvat cu succes.
+Role successfully deleted.,Rol sters cu succes.
+Order confirmation email not sent,E-mail de confirmare a comenzii netrimis.
+Order confirmation email sent,E-mail de confirmare a comenzii trimis.
+Error while updating selected review(s). Please try again later.,"Eroare la actualizarea recenziilor.Va rugam, incercati mai tarziu."
+Error while create backup. Please try again later,"Eroare la creare backup. Va rugam, incercati mai tarziu"
+Error while saving this configuration: ,Eroare la salvarea acestei configuratii: 
+Error while saving account. Please try again later,"Eroare la salvarea contului. Va rugam, incercati mai tarziu."
+Error while saving this role. Please try again later.,"Eroare la salvarea acestei functii. Va rugam,incercati mai tarziu."
+Error while deleting this role. Please try again later.,"Eroare la stergerea acestei functii. Va rugam, incercati mai tarziu."
+Error while deleting this set.,Eroare la stergerea acestui set.
+Error uploading the file,Eroare la incarcarea fisierului
+Unknown error,Eroare necunoscuta
+Are you sure you wish to UNINSTALL all selected packages?,Sunteti sigur ca doriti sa DEZINSTALATI toate pachetele selectate?
+Are you sure you wish to UPGRADE all selected packages?,Sunteti sigur ca doriti safaceti UPGRADE la toate pachetele selectate
+Are you sure you wish to INSTALL all selected packages?,Sunteti sigur ca doriti sa INSTALATI toate pachetele selectate?
+Tag was successfully saved,Eticheta salvata cu succes.
+Tag was successfully deleted,Eticheta stearsa cu succes.
+Rating was successfully saved,Evaluarea a fost salvata.
+Rating was successfully deleted,Evaluarea a fost stearsa.
+Exclude,Exclude
+Exclude (comma separated),Exclude (separate de virgula)
+Run in popup,Ruleaza in Popup
+Run Profile In Popup,Ruleaza profil in Popup
+User with the same User Name or Email aleady exists,Exista deja un utilizator cu numele sau adresa de e-mail specificata
+Extension,Extensie
+New Extension,Extensie Noua
+Manage Extensions,Administrare Extensii
+Extensions,Extensii
+Manage Installed Extensions,Administrare Extensii instalate
+Done By:,Facut de:
+Done by:,Facut de:
+File %s.ser could not be read,Fisierul %s.ser nu a putut fi citit.
+Provided Files,Fisiere date
+Use website,Foloseste site
+Use default,Foloseste standard
+Cache management,Administrare cache
+Url Rewrite Management,Administrare rescriere Url 
+Ignore,Ignora
+images/logo.gif,images/logo.gif
+Big Image,Imagine mare
+Images,Imagini
+Import/Export GUI Profiles,Import/Export Profile GUI
+Import/Export Profiles,Import/Export Profile
+Back to local packages,Inapoi la pachete locale
+Load,Incarca
+Load previously created custom local package information,Incarca informatii despre pachetul personalizat local creat anterior
+Include,Include
+Package Info,Info pachet
+Installed Extension Info,Informatii extensie instalata
+Package Information,Informatii pachet
+Current Release Information,Informatii versiune curenta
+The information in this tab has been changed.,Informatiile din acest tab au fost modificate.
+Pending installation...,Instalare in asteptare...
+Installed As,Instalat ca
+Install,Instaleaza
+Install Package File,Instaleaza pachet
+Access Deny,Interzice acces.
+Invalid input:,Input nevalid:
+Invalid section value,Valoare sectiune nevalida
+Invalid store value,Valoare magazin nevalida
+Invalid website value,Valoare site nevalida
+Comments History,Istoric comentarii
+License,Licenta
+License URI,Licenta URI
+License:,Licenta:
+Shipping origin,Locatia de origine a livrarilor
+Magento Extensions,Extensii Magento
+Magento is a trademark of Irubin Consulting Inc. DBA Varien. Copyright &copy; %s Irubin Consulting Inc.,Magento este o marca inregistrata a Irubin Consulting Inc. DBA Varien. Copyright &copy; %s Irubin Consulting Inc.
+Magento is a trademark of Irubin Consulting Inc. DBA Varien.<br/>Copyright &copy; %s Irubin Consulting Inc.,Magento este o marca inregistrata a Irubin Consulting Inc. DBA Varien.<br/>Copyright &copy; %s Irubin Consulting Inc.
+Magento&trade; is a trademark of Irubin Consulting Inc. DBA Varien.<br/>Copyright &copy; %s Irubin Consulting Inc.,Magento&trade; este o marca inregistrata a Irubin Consulting Inc. DBA Varien.<br/>Copyright &copy; %s Irubin Consulting Inc.
+Maintainers,Administratori
+Manage Advanced Import/Export Profiles,Administrare Profile Avansate Import/Export
+Manage Import/Export Profiles,Administrare Profile Import/Export
+Manage Url Rewrites,Administrare rescrieri Url
+Max,Max
+Maximum,Maximum
+md5sum,md5sum
+Shipping method must be specified,Metoda de livrare trebuie specificata.
+Payment method must be specified,Metoda de plata trebuie specificata.
+Min,Min
+Minimum,Minimum
+Edit Tag,Modifica eticheta
+Edit Url,Modifica Url
+Edit Url #%s,Modifica Url #%s
+No search modules registered,Nici un modul de cautare inregistrat
+No profile,Nici un profil
+Level,Nivel
+Notes:,Note:
+Instant Payment Notification (IPN),Notificare de plata instant (IPN)
+You have not enought permissions to use this functionality.,Nu ai permisiunea sa folosesti aceasta functie.
+You have not enought permissions to login.,Nu ai permisiunea sa te loghezi.
+No Extensions Found,Nu exista extensii
+You cannot delete account of yourself,Nu poti sterge contul propriu
+You can not delete self assigned roles.,Nu poti sterge functiile autoalocate.
+Unable to find a poll to delete,Nu s-a gasit un chestionar de sters
+Unable to find a tag to delete,Nu s-a gasit o eticheta de sters
+Unable to get product id.,Nu s-a gasit ID produs.
+Unable to find a user to delete,Nu s-a gasit utilizator de sters
+Can't find email address.,Nu se gaseste adresa de e-mail.
+Can't delete design change,Nu se poate sterge schimbarea de design
+Credit Card Number,Numar Card Credit
+Credit Card Number: xxxx-%s,Numar Card Credit: xxxx-%s
+Number of Use,Numar de utilizari
+Card Verification Number,Numar de verificare card
+Lastname,Nume
+Extension Name,Nume Extensie
+Name on Card,Nume pe card
+Name on the Card: %s,Numele de pe card: %s
+The new password have sent to your email address. Please check your email and click back to login.,O noua parola a fost trimisa la adresa ta de e-mail. Verifica emailul si logheaza-te inapoi.
+Sort Order,Ordine sortare
+Package,Pachet
+Packages,Pachete
+Page,Pagina
+Previous page,Pagina anterioara
+Next page,Pagina urmatoare
+New admin password,Parola admin noua
+Invalid Username or Password.,Parola sau utilizator nevalid.
+Password (123123):,Parola (123123):
+Payment Data Transfer (PDT),Transfer date plata (PDT)
+PayPal Email,E-mail PayPal 
+per page,pe pagina
+"For unpack on windows system use <a href=""%s"">%s</a>","Pentru despachetare pe sistem Windows folositi <a href=""%s"">%s</a>"
+PHP Version,Versiune PHP
+Firstname,Prenume
+Final Price,Pret final
+Profile was successfully saved,Profilul a fost salvat cu succes.
+Profile was deleted,Profilul a fost sters.
+Credit Memo #%s created,Nota de credit #%s creata
+Ratings,Evaluari
+Recommended,Recomandat
+Release Info,Info Release
+Remote Extension Info,Info Extensie Remote
+Remote URL:,Remote URL:
+Save PEAR Config,Salveaza configuratia PEAR
+Save data and Create Package,Salveaza datele si Creaza pachet
+Save Sitemap,Salveaza harta site
+Save cache settings,Salveaza setarile cache-ului
+Save and Continue Editing,Salveaza si continua modificarile
+Save And Continue Edit,Salveaza si continua modificarile
+Save Url,Salveaza Url
+Design change saved,Schimbarea de design a fost salvata.
+Design change deleted,Schimbarea de design a fost stearsa.
+"Uninstalling $pkg, please wait...","Se dezinstaleaza $pkg, va rugam, asteptati..."
+"Uninstalling selected packages, please wait...","Se dezinstaleaza pachetele selectate, va rugam, asteptati..."
+Running:,Se ruleaza:
+"Installing $pkg, please wait...","Se instaleaza $pkg, va rugam, asteptati..."
+"Installing selected packages, please wait...","Se instaleaza pachetele selectate, va rugam, asteptati..."
+"Preparing to change $pkg, please wait...","Se pregateste schimbarea $pkg, va rugam, asteptati..."
+Attribute set successfully saved.,Set de atribute salvat cu succes.
+Attribute set was successfully removed.,Set de atribute sters cu succes.
+You need specify order items,Specificati articolele din comanda
+Please specify at least start or end date.,Specificati cel putin data de inceput sau sfarsit.
+Stability,Stabilitate
+API Stability,Stabilitate API
+Preferred state,Stare preferata
+Delete Sitemap,Sterge harta site
+Delete Url,Sterge Url
+Subpackage,Subpachet
+Subpackages,Subpachete
+Subpackage can't be conflicting,Subpachetul nu poate fi incompatibil
+Discount Amount,Suma reducere
+Subtotal Amount,Suma subtotal
+Total Amount,Suma totala
+Summary,Sumar
+Summary:,Sumar:
+Switch/Solo card issue number: %s,Numar emitere card Switch/Solo: %s
+Switch/Solo card start Date: %s/%s,Data Inceput Card Switch/Solo: %s/%s
+Switch/Solo/Maestro(UK Domestic) card issue number: %s,Numar emitere card Switch/Solo/Maestro(UK Domestic): %s
+Switch/Solo/Maestro(UK Domestic) card start Date: %s/%s,Data Inceput Card Switch/Solo/Maestro(UK Domestic): %s/%s
+Switch/Solo/Maestro(UK Domestic) Only,Numai Switch/Solo/Maestro(UK Domestic)
+Thumbnail,Thumbnail
+Credit Card Type,Tip Card
+Credit Card Type: %s,Tip Card: %s
+"All rates were fetched, click on ""Save"" to apply","Toate cursurile au fost preluate, va rugam, faceti click pe ""Salvare"" pentru a le aplica"
+"All possible rates were fetched, click on ""Save"" to apply","Toate cursurile posibile au fost preluate, va rugam, faceti click pe ""Salvare"" pentru a le aplica"
+All valid rates successfully saved,Toate cursurile valide au fost salvate.
+Track order,Urmareste comanda
+Last Month,Ultima luna
+Last 24 hours,Ultimele 24 ore
+Last 7 days,Ultimele 7 zile
+Total of %d record(s) were successfully updated,"Un total de %d inregistrari au fost actualizate"""
+Track order,Urmareste comanda
+Total of %d record(s) were successfully deleted,Un total de %d inregistrari au fost sterse
+Total %d records found,Un total de %d inregistrari gasite
+Some of the ordered items don't exist in the catalog anymore and will be removed if you try to edit the order.,Unele din produsele comandate nu mai exista in catalog si vor fi sterse daca incercati sa editati comanda.
+Upgrade,Upgrade
+Upgrade all available packages,Faceti upgrade la toate pachetele disponibile
+Upgrade All Available Packages,Faceti upgrade la toate pachetele disponibile
+Upgrade all packages,Faceti upgrade la toate pachetele
+"Upgrading $pkg, please wait...","Se face upgrade la $pkg, va rugam, asteptati..."
+"Upgrading all available packages, please wait...","Se face upgrade la toate pachetele disponibile, va rugam, asteptati..."
+"Upgrading all packages, please wait...","Se face upgrade la toate pachetele, va rugam, asteptati..."
+"Upgrading selected packages, please wait...","Se face upgrade la toate pachetele selectate, va rugam, asteptati..."
+Upload and Install,Incarca si Instaleaza
+Upload local file:,Incarca fisier local:
+Upload Local File,Incarca Fisier Local
+Invalid URL,URL nevalid
+New Url,Url nou
+Urlrewrite was successfully saved,Urlrewrite salvat cu succes.
+Urlrewrite was deleted,Urlrewrite sters cu succes
+User Name (admin):,Nume Utilizator (admin):
+User,Utilizator
+User was successfully saved,Utilizator salvat cu succes.
+User was successfully deleted,Utilizator sters cu succes.
+This user no longer exists,Utilizatorul nu mai exista.
+Version,Versiune
+API Version,Versiune API
+Available Version,Versiune disponibila
+Installed Version,Versiune instalata
+Version:,Versiune:
+View,Vezi
+View Statistics for,Vezi statistici pentru
+Store Views,Vitrine
+"Warning!_x000D_
+This action will remove this user from already assigned role_x000D_
+Are you sure?",Atentie! Aceasta actiune va destitui utilizatorul din rolul deja alocat. Sunteti sigur?
+This action will remove this user from already assigned role,Aceasta actiune va destitui utilizatorul din rolul deja alocat.
+Are you sure?,Sunteti sigur?
+"Warning!_x000D_
+This action will remove those users from already assigned roles_x000D_
+Are you sure?",Atentie! Aceasta actiune va destitui utilizatorii din rolurile deja alocate. Sunteti sigur?
+This action will remove those users from already assigned roles,Aceasta actiune va destitui utilizatorii din rolurile deja alocate.
+Are you sure?,Sunteti sigur?
+"We're in our typing table, coding away more features for Magento. Thank you for your patience.","Suntem in timpul orarului nostru de tastare, creand noi caracteristici pentru Magento. Va multumim pentru rabdarea dumneavoastra."
+Wrong column format,Format coloana incorect
+Wrong tab configuration,Configuratie tab incorecta
+[deleted],[sters]
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure Url / Base Secure Url. It is highly recommended to change this value in you Magento <a href=""%s"">configuration</a>.","{{base_url}} nu este recomandat a se utiliza intr-un mediu de productie pentru a declara Base Unsecure URL / Base Secure URL. Se recomanda schimbarea acestei valori din <a href=""%s"">configuratia</a> Magento."

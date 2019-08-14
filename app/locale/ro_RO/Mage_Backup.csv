@@ -1,0 +1,58 @@
+Action,Actiune
+An error occurred while creating the backup.,A aparut o eroare in timpul crearii unui backup.
+"An error occurred while writing to the backup file ""%s"".","A aparut o eroare in timpul scrierii fisierului backup ""%s""."
+Are you sure you want to delete the selected backup(s)?,Sunteti sigur ca doriti sa stergeti backup-urile selectate?
+Backup Type,Tip Backup
+"Backup file ""%s"" cannot be read from or written to.","Fisierul Backup ""%s"" nu poate fi citit, respectiv scris."
+"Backup file ""%s"" does not exist.","Fisierul Backup""%s"" nu exista."
+Backup file does not exist.,Fisierul Backup nu exista.
+Backup file handler was unspecified.,Administratorul fisierului Backup nu a fost specificat.
+Backup file not found,Fisierul Backup nu a fost gasit
+Backup file path was not specified.,Calea fisierului Backup nu a fost specificata.
+Backups,Backup-uri
+Cannot read backup file.,Fisierul Backup nu poate fi citit.
+Create Backup,Creaza Backup
+Database Backup,Backup Baza de date
+Database and Media Backup,Backup Baza de date si Media
+Database was successfuly backed up.,Backup-ul bazei de date a fost creat cu succes.
+Download,Descarcare
+Enable Scheduled Backup,Activeaza Backup programat
+Failed to connect to FTP,Conectare la FTP esuata.
+Failed to delete one or several backups.,Stergerea unuia sau mai multor Backup-uri a esuat.
+Failed to rollback,Rollback esuat
+Failed to validate FTP,Validare FTP esuata
+Frequency,Frecventa
+Invalid Password.,Parola nevalida.
+Maintenance Mode,Mod Intretinere
+Name,Nume
+Not enough free space to create backup.,Nu exista destul spatiu liber pentru crearea unui backup.
+Not enough permissions to create backup.,Nu exista permisiuni pentru crearea unui backup.
+Not enough permissions to perform rollback,Nu exista permisiuni pentru executarea unui rollback.
+"Please either unselect the ""Put store on the maintenance mode"" checkbox or update your permissions to proceed with the backup.""","Va rugam, fie deselectati casuta ""Pune magazinul in mod de intretinere""  fie actualizati permisiunea de a continua cu backup-ul."
+"Please either unselect the ""Put store on the maintenance mode"" checkbox or update your permissions to proceed with the rollback.""","Va rugam, fie deselectati casuta ""Pune magazinul in mod de intretinere""  fie actualizati permisiunea de a continua cu rollback-ul."
+Put store on the maintenance mode while backup's creation,Pune magazinul in modul de intretinere pe durata crearii backup-ului
+Rollback,Rollback
+Scheduled Backup Settings,Setari Backup programate
+"Size, Bytes","Marime, Bytes"
+Start Time,Timpul pornirii
+System Backup,Backup Sistem
+System couldn't put store on the maintenance mode,Sistemul nu a putut pune magazinul in modul de intretinere
+The database and media backup has been created.,Backup-ul Bazei de date si Media a fost creat.
+The database backup has been created.,Backup-ul Bazei de date a fost creat.
+"The file was compressed with Zlib, but this extension is not installed on server.","Fisierul a fost comprimat cu Zlib, dar aceasta extensie nu este instalata pe server."
+The selected backup(s) has been deleted.,Backup-urile selectate au fost sterse.
+The system (excluding Media) backup has been created.,Backup-ul sistemului (excluzand Media) a fost creat.
+The system backup has been created.,Backup-ul sistemului a fost creat.
+Time,Timp
+Type,Tip
+"Unable to create backup. Please, try again later.","Nu se poate crea backup.Va rugam, incercati mai tarziu."
+Unable to save the cron expression.,Nu se poate salva expresia cron.
+Wrong order of creation for new backup.,Comanda incorecta pentru crearea unui nou backup.
+You do not have sufficient permissions to enable Maintenance Mode during this operation.,Nu aveti permisiuni suficiente pentru activarea Modului de Intretinere in timpul acestei operatiuni.
+Backup file doesn't exist,Fisierul Backup nu exista.
+Backups Control,Control Backup
+Cannot read backup file,Fisierul backup nu poate fi citit.
+DB,DB
+"File compressed with Zlib, but this extension is not installed on server","Fisierul a fost comprimat cu Zlib, dar aceasta extensie nu este instalata pe server."
+All types,Toate tipurile
+Wrong order of creation for new backup,Comanda incorecta pentru crearea unui nou backup.
