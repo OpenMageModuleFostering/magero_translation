@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Magero_Translation",
+    "name": "OpenMageModuleFostering\/Magero_Translation",
     "type": "magento-module",
     "license": "GPL-3.0",
     "homepage": "",
     "description": "Traducere completa in limba romana pentru Magento 1.9.2 si versiuni mai vechi",
     "authors": [
-    {
-        "name": "Paul Grigoruta",
-        "email": "paul.grigoruta@gmail.com"
-    }
-],
+        {
+            "name": "Paul Grigoruta",
+            "email": "paul.grigoruta@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
